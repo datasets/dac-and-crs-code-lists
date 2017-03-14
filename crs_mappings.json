@@ -1,0 +1,84 @@
+{
+    "collaboration_type": {
+        "start_row": 1,
+        "cols": [
+            [0, "code"],
+            [1, "name_en"],
+            [2, "name_fr"]
+        ],
+        "exclude_blank": ["code"],
+        "sheet_name": "Bi_Multi"
+    },
+    "flow_type": {
+        "start_row": 1,
+        "cols": [
+            [0, "code"],
+            [1, "name_en"],
+            [2, "description_en"],
+            [3, "name_fr"],
+            [4, "description_fr"]
+        ],
+        "exclude_blank": ["code"],
+        "sheet_name": "Type of flow"
+    },
+    "finance_type": {
+        "start_row": 7,
+        "cols": [
+            [0, "category"],
+            [2, "code"],
+            [3, "name_en"],
+            [8, "name_fr"]
+        ],
+        "exclude_blank": ["code"],
+        "sheet_name": "Type of finance",
+        "fill_down": "category"
+    },
+    "aid_type": {
+        "start_row": 3,
+        "cols": [
+            [0, "category"],
+            [1, "code"],
+            [2, "name_en"],
+            [3, "description_en"],
+            [7, "name_fr"],
+            [8, "description_fr"]
+        ],
+        "exclude_blank": ["code", "name_en"],
+        "sheet_name": "Type of aid",
+        "fill_down": "category"
+    },
+    "sector_en": {
+        "start_row": 4,
+        "cols": [
+            [0, "category"],
+            [[1, 2], "code"],
+            [3, "name_en"],
+            [4, "description_en"]
+        ],
+        "exclude_blank": ["code"],
+        "sheet_name": "Purpose codes",
+        "fill_down": "category",
+        "ignore": [
+            ["category", "DAC 5"],
+            ["category", "CODE"],
+            ["code", "CRS"],
+            ["code", "CODE"]
+        ]
+    },
+    "sector_fr": {
+        "start_row": 4,
+        "cols": [
+            [0, "category"],
+            [[1, 2], "code"],
+            [3, "name_fr"],
+            [4, "description_fr"]
+        ],
+        "exclude_blank": ["code"],
+        "sheet_name": "Codes objet",
+        "fill_down": "category",
+        "ignore": [
+            ["category", "CODE"],
+            ["category", "CAD 5"]
+        ]
+    }
+}
