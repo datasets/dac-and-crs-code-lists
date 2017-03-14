@@ -1,0 +1,67 @@
+---
+layout: default
+---
+
+  <div class="container">
+  <div class="well pull-right">
+    <p><a class="btn btn-primary btn-block" href="datapackage.json"><i class="fa fa-cloud-download"></i> Download Datapackage</a></p>
+    <p><a class="btn btn-default" href="{{ site.github.repository_url }}"><i class="fa fa-github"></i> GitHub</a> <a class="btn btn-default pull-right" href="https://morph.io/andylolz/dac-crs-codes"><i class="fa fa-circle"></i> Morph.io</a></p>
+    <p><a class="btn btn-default btn-block" href="spreadsheet/"><i class="fa fa-file-text-o"></i> View cached spreadsheet</a></p>
+    <p><a class="btn btn-default btn-block" href="{{ site.github.repository_url }}/commits/gh-pages.atom"><i class="fa fa-rss"></i> Subscribe to changes</a></p>
+  </div>
+
+  <h1 property="dct:title">{{ site.data.datapackage.title }}</h1>
+
+  <p property="dct:description">{{ site.data.datapackage.description }}</p>
+
+  <p property="dct:license" resource="{{ site.data.datapackage.licenses.first['url'] }}">
+    <strong>License</strong><br />
+    <a href="{{ site.data.datapackage.licenses.first['url'] }}"><span property="dct:title">{{ site.data.datapackage.licenses.first['title'] }}</span></a>
+  </p>
+
+  <p property="dct:publisher" resource="{{ site.data.datapackage.publishers.first['web'] }}">
+  	<strong property="rdfs:label">Publisher</strong><br />
+  	<a href="{{ site.data.datapackage.publishers.first.['web'] }}" about="{{ site.data.datapackage.publishers.first['web'] }}" property="foaf:homepage">
+  		<span property="foaf:name">{{ site.data.datapackage.publishers.first['name'] }}</span>
+  	</a>
+  </p>
+
+  <p>
+  	<strong property="rdfs:label">Update frequency</strong><br />
+  	<span property="dcat:accrualPeriodicity">{{ site.update_frequency }}</span>
+  </p>
+
+  <h2>Files</h2>
+
+  <table class="table table-striped">
+    <thead>
+      <tr>
+        <th>Name</th>
+        <th>Format</th>
+        <th>Description</th>
+        <th>Data</th>
+        <th>Download</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for resource in site.data.datapackage.resources %}
+      <tr property="dcat:distribution" typeof="dcat:Distribution">
+        <td property="dcat:title">{{ resource.name }}</td>
+        <td property="dcat:format">{{ resource.mediatype }}</td>
+        <td property="dcat:description">{{ resource.description }}</td>
+	      <td><a href="{{ resource.path | split:"." | first }}"><i class="fa fa-search"></i> View</a></td>
+        <td><a href="{{ resource.path }}" property="dcat:accessURL"><i class="fa fa-cloud-download"></i> Download</a></td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+
+  <h2>Support</h2>
+
+    <p>If you have support queries, suggestions or corrections to the data, please <a href="{{ site.github.issues_url }}" target="_blank">file a new issue</a> in our GitHub repository.</p>
+
+	  <p>All comments and subsequent fixes will be <a href="{{ site.github.issues_url }}" target="_blank">logged openly</a> such that you can easily see the provenance of each object in this dataset.</p>
+
+    <p class="lastUpdate text-right">Last update: {{ site.time | date: '%Y-%m-%d at %H:%M' }}</p>
+
+  </div>
