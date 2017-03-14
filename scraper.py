@@ -16,12 +16,13 @@ with open('crs_mappings.json') as f:
     crs_mappings = json.load(f)
 
 base_url = 'http://www.oecd.org'
+output_dir = 'output'
 
 codelists_url = base_url + '/dac/stats/dacandcrscodelists.htm'
 r = requests.get(codelists_url)
 soup = bs(r.text, 'lxml')
 
-xls_filepath = join('output', 'DAC-CRS-CODES.xls')
+xls_filepath = join(output_dir, 'DAC-CRS-CODES.xls')
 xls_url = soup.find(class_='document').find('a')['href']
 if xls_url.startswith('/'):
     xls_url = base_url + xls_url
@@ -93,7 +94,7 @@ def get_crs_codelist(book, mapping):
 for name, mapping in crs_mappings.items():
     print('Getting mapping {}'.format(name))
     codelist = get_crs_codelist(crs_xls, mapping)
-    with open(join('output', name + '.csv'), 'w') as f:
+    with open(join(output_dir, name + '.csv'), 'w') as f:
         fieldnames = [c[1] for c in mapping['cols']]
         writer = csv.DictWriter(f, fieldnames=fieldnames)
         writer.writeheader()
@@ -103,7 +104,7 @@ for name, mapping in crs_mappings.items():
 # Purpose codes reformatting to combine two sheets
 sectors = {}
 for lang in ['en', 'fr']:
-    with open(join('output', 'sector_{}.csv'.format(lang))) as f:
+    with open(join(output_dir, 'sector_{}.csv'.format(lang))) as f:
         reader = csv.DictReader(f)
         sectors[lang] = [row for row in reader]
 fr_lookup = {row['code']: row for row in sectors['fr']}
@@ -111,7 +112,7 @@ for row in sectors['en']:
     row.update(fr_lookup[row['code']])
 
 fieldnames = ['category', 'code', 'name_en', 'description_en', 'name_fr', 'description_fr']
-with open(join('output', 'sector.csv'), 'w') as f:
+with open(join(output_dir, 'sector.csv'), 'w') as f:
     writer = csv.DictWriter(f, fieldnames=fieldnames)
     writer.writeheader()
     for c in sectors['en']:
