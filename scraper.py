@@ -1,11 +1,16 @@
 import csv
 import json
 from os.path import join
+from os import environ
 
 from bs4 import BeautifulSoup as bs
 import requests
 from lxml import etree
 import xlrd
+# hack to override sqlite database filename
+# see: https://help.morph.io/t/using-python-3-with-morph-scraperwiki-fork/148
+environ['SCRAPERWIKI_DATABASE_NAME'] = 'sqlite:///data.sqlite'
+import scraperwiki
 
 
 '''
@@ -94,26 +99,11 @@ def get_crs_codelist(book, mapping):
 for name, mapping in crs_mappings.items():
     print('Getting mapping {}'.format(name))
     codelist = get_crs_codelist(crs_xls, mapping)
-    with open(join(output_dir, name + '.csv'), 'w') as f:
-        fieldnames = [c[1] for c in mapping['cols']]
-        writer = csv.DictWriter(f, fieldnames=fieldnames)
-        writer.writeheader()
-        for c in codelist:
-            _ = writer.writerow(c)
+    scraperwiki.sqlite.save(['code'], codelist, name)
 
-# Purpose codes reformatting to combine two sheets
-sectors = {}
-for lang in ['en', 'fr']:
-    with open(join(output_dir, 'sector_{}.csv'.format(lang))) as f:
-        reader = csv.DictReader(f)
-        sectors[lang] = [row for row in reader]
-fr_lookup = {row['code']: row for row in sectors['fr']}
-for row in sectors['en']:
-    row.update(fr_lookup[row['code']])
-
-fieldnames = ['category', 'code', 'name_en', 'description_en', 'name_fr', 'description_fr']
-with open(join(output_dir, 'sector.csv'), 'w') as f:
-    writer = csv.DictWriter(f, fieldnames=fieldnames)
-    writer.writeheader()
-    for c in sectors['en']:
-        _ = writer.writerow(c)
+sectors_en = scraperwiki.sqlite.select('* from sector_en')
+for sector in sectors_en:
+    fr_data = scraperwiki.sqlite.select('`name_fr`, `description_fr` from sector_fr where `code` = "{}"'.format(sector['code']))
+    if len(fr_data) > 0:
+        sector.update(fr_data[0])
+scraperwiki.sqlite.save(['code'], sectors_en, 'sector')
