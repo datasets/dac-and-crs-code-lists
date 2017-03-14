@@ -1,0 +1,353 @@
+category,code,name_en,acronym_en,name_fr,acronym_fr
+10000,10000,PUBLIC SECTOR INSTITUTIONS,,INSTITUTIONS DU SECTEUR PUBLIC,
+11000,11000,Donor Government,,Gouvernement du donneur,
+11000,11001,Central Government,,Gouvernment central,
+11000,11002,Local Government,,Gouvernment local,
+11000,11003,Public corporations,,Entreprise publique,
+11000,11004,Other public entities in donor country,,Autres entité publique dans le pays donneur,
+12000,12000,Recipient Government,,Gouvernement du bénéficiaire,
+12000,12001,Central Government,,Gouvernment central,
+12000,12002,Local Government,,Gouvernment local,
+12000,12003,Public corporations,,Entreprise publique,
+12000,12004,Other public entities in recipient country,,Autres entité publique dans le pays bénéficiaire,
+13000,13000,Third Country Government (Delegated co-operation),,Gouvernement tiers (coopération déléguée),
+20000,20000,NON-GOVERNMENTAL ORGANISATIONS (NGOs) AND CIVIL SOCIETY,,ORGANISATIONS NON GOUVERNEMENTALES (ONG) et SOCIÉTÉ CIVILE,
+21000,21000,INTERNATIONAL NGO,,ONG INTERNATIONALE,
+21000,21045,African Medical and Research Foundation,AMREF,Fondation africaine pour la médecine et la recherche,AMREF
+21000,21046,Agency for Cooperation and Research in Development,ACORD,Association de Coopération et de Recherche pour le Développement,ACORD
+21000,21001,Association of Geoscientists for International Development,AGID,Association de géoscientifiques pour le développement international,AGID
+21000,21005,Consumer Unity and Trust Society International,CUTS,Consumer Unity and Trust Society International,CUTS
+21000,21029,Doctors Without Borders,MSF,Médecins Sans Frontières,MSF
+21000,47035,Environmental Development Action in the Third World,ENDA,Environnement et développement du Tiers-monde,ENDA
+21000,21007,Environmental Liaison Centre International,ELCI,Centre international de liaison pour l’environnement,CILE
+21000,21503,Family Health International 360,FHI360,,
+21000,21011,Global Campaign for Education,GCE,Campagne mondiale pour l’éducation,CME
+21000,21013,Health Action International,HAI,Health Action International,HAI
+21000,21024,"Inter Press Service, International Association",IPS,"Inter Press Service, International Association",IPS
+21000,21038,International Alert,,International Alert,
+21000,21057,International Centre for Transitional Justice,ICTJ,Centre International pour la Justice Transitionnelle,ICTJ
+21000,21016,International Committee of the Red Cross,ICRC,Comité international de la Croix-Rouge,CICR
+21000,21044,International Council for the Control of Iodine Deficiency Disorders,ICCIDD,Conseil international pour la lutte contre les troubles dus à une carence en iode,ICCIDD
+21000,21018,International Federation of Red Cross and Red Crescent Societies,IFRCRCS,Fédération internationale des Sociétés de la Croix-Rouge et du Croissant-Rouge,FISCRCR
+21000,21020,International HIV/AIDS Alliance,,International HIV/AIDS Alliance,
+21000,21022,International Network for Alternative Financial Institutions,INAFI,Réseau international d’institutions financières,INAFI
+21000,21042,International Peacebuilding Alliance,Interpeace,Alliance internationale pour la consolidation de la paix,Interpeace
+21000,21023,International Planned Parenthood Federation,IPPF,Fédération internationale pour le planning familial,IPPF
+21000,21061,International Rehabilitation Council for Torture,IRTC,Conseil international de réhabilitation pour les victimes de torture,IRTC
+21000,21504,International Relief and Development,IRD,,
+21000,21506,International Rescue Committee,IRC,,
+21000,21034,International Union Against Tuberculosis and Lung Disease,UNION,Union Internationale Contre la Tuberculose et les Maladies Respiratoires,UNION
+21000,21053,"IPAS-Protecting Women’s Health, Advancing Women’s Reproductive Rights",,"IPAS-Protecting Womens Health, Advancing Womens Reproductive Rights",
+21000,21054,Life and Peace Institute,LPI,Institut Vie et Paix,IVP
+21000,21501,OXFAM International,OXFAM-I,,
+21000,21507,Pact World,PACT,,
+21000,21031,PANOS Institute,PANOS,Institut PANOS,PANOS
+21000,21032,Population Services International,PSI,Organisation internationale pour les services en matière de population,PSI
+21000,21505,Save the Children,,,
+21000,21041,Society for International Development,SID,Société pour le développement international,SDI
+21000,21062,The Nature Conservancy,TNC,The Nature Conservancy,TNC
+21000,21036,World University Service,WUS,Entraide universitaire mondiale,EUM
+21000,21502,World Vision,,,
+22000,22000,Donor country-based NGO,,ONG basée dans un pays donneur,
+22000,21047,AgriCord,,AgriCord,
+22000,21060,Association for the Prevention of Torture,APT,Association pour la prévention de la torture,APT
+22000,21006,Development Gateway Foundation,,Development Gateway Foundation,
+22000,21049,European Centre for Development Policy Management,ECDPM,Centre européen de gestion de politiques de développement,ECDPM
+22000,21008,Eurostep,Eurostep,Eurostep,Eurostep
+22000,47042,Foundation for International Training,FIT,Fondation pour la formation internationale dans les pays du tiers monde,FIT
+22000,21050,Geneva Call,,Appel de Genève,
+22000,21014,Human Rights Information and Documentation Systems,HURIDOCS,Systèmes d’Information et de Documentation sur les Droits de l’Homme,HURIDOCS
+22000,21015,International Catholic Rural Association,ICRA,Association internationale rurale catholique,ICRA
+22000,21058,International Crisis Group,ICG,International Crisis Group,ICG
+22000,21019,International Federation of Settlements and Neighbourhood Centres,IFS,Fédération internationale des centres sociaux et communautaires,IFS
+22000,21025,International Seismological Centre,ISC,Centre séismologique international,ISC
+22000,21026,International Service for Human Rights,ISHR,Service International pour les Droits de l’Homme,ISHR
+22000,21027,International Trust Fund for Demining and Mine Victims Assistance,ITF,Fonds international d’affectation spéciale pour le déminage et l’assistance aux victimes des mines,ITF
+22000,21040,International Women's Tribune Centre,IWTC,Centre de la tribune internationale de la femme,CTIF
+22000,22501,OXFAM - provider country office,OXFAM,,
+22000,22502,Save the Children - donor country office,,,
+22000,21033,Transparency International,TI,Transparency International,TI
+22000,21037,Women's World Banking,WWB,Banque mondiale des femmes,WWB
+22000,21035,World Organisation Against Torture,OMCT,Organisation mondiale contre la torture,OMCT
+23000,23000,Developing country-based NGO,,ONG basée dans un pays en développement,
+23000,21059,Africa Solidarity Fund,ASF,Fonds solidaire pour l'Afrique,ASF
+23000,21048,Association of African Universities,AAU,Association des universités africaines,AUA
+23000,21010,Forum for African Women Educationalists,FAWE,Forum des éducatrices africaines,FAWE
+23000,21051,Institut Supérieur Panafricaine d’Economie Coopérative,ISPEC,Institut supérieur panafricaine d’economie coopérative,ISPEC
+23000,21028,International University Exchange Fund - IUEF Stip. in Africa and Latin America,IUEF,Fonds international d’échanges universitaires - Échanges intéressant l’Afrique et l’Amérique latine,FIEU
+23000,21003,Latin American Council for Social Sciences,CLASCO,Conseil latino-américain des sciences sociales,CLASCO
+23000,21030,Pan African Institute for Development,PAID,Institut panafricain pour le développement,IPD
+23000,21055,Regional AIDS Training Network,RATN,Réseau régional de formation sur le SIDA,RRFS
+30000,30000,PUBLIC-PRIVATE PARTNERSHIPS (PPPs) and NETWORKS,,PARTENARIATS PUBLIC-PRIVÉ ET RÉSEAUX,
+31000,31000,Public-Private Partnership (PPP),,Partenariat public-privé (PPP),
+31000,30008,Cities Alliance,,Alliance pour les villes,
+31000,30016,European Fund for Southeast Europe,EFSE,European Fund for Southeast Europe,EFSE
+31000,30007,Global Alliance for ICT and Development,GAID,Alliance mondiale pour les TIC et le développement,GAID
+31000,30001,Global Alliance for Improved Nutrition,GAIN,Alliance mondiale pour une meilleure nutrition,GAIN
+31000,30012,Global Climate Partnership Fund,GCPF,Global Climate Partnership Fund,GCPF
+31000,47043,Global Crop Diversity Trust,,Global Crop Diversity Trust,
+31000,30015,Global Energy Efficiency and Renewable Energy Fund,GEEREF,Fonds mondial pour la promotion de l'efficacité énergétique et des énergies renouvelables,GEEREF
+31000,30003,Global e-Schools and Communities Initiative,GeSCI,Initiative mondiale en faveur de l’informatique dans les écoles et dans les communautés,GeSCI
+31000,30004,Global Water Partnership,GWP,Partenariat mondial pour l'eau,GWP
+31000,30005,International AIDS Vaccine Initiative,IAVI,Initiative internationale pour un vaccin contre le SIDA,IAVI
+31000,30006,International Partnership on Microbicides,IPM,Partenariat international pour des microbicides,IPM
+31000,30011,International Union for the Conservation of Nature,IUCN,Union internationale pour la conservation de la nature,UICN
+31000,30013,Microfinance Enhancement Facility,MEF,Mécanisme de soutien au microfinancement,MEF
+31000,30014,"Regional Micro, Small and Medium Enterprise Investment Fund for Sub-Saharan Africa",REGMIFA,"Fonds régional d’investissement pour les très petites, petites et moyennes entreprises d’Afrique subsaharienne",REGMIFA
+31000,21056,Renewable Energy and Energy Efficiency Partnership,REEEP,Partenariat pour les énergies renouvelables et l'efficience énergétique,REEEP
+31000,30017,"SANAD Fund for Micro, Small and Medium Enterprises",SANAD,"SANAD Fund for Micro, Small and Medium Enterprises",SANAD
+31000,30009,Small Arms Survey,SAS,Small Arms Survey,SAS
+32000,32000,Network,,RÉSEAU,
+32000,47010,Commonwealth Agency for Public Administration and Management,CAPAM,Agence du Commonwealth pour l'administration et la gestion publiques,CAPAM
+32000,47028,Commonwealth Partnership for Technical Management,CPTM,Partenariat pour la gestion technique (Commonwealth),CPTM
+32000,21043,European Parliamentarians for Africa,AWEPA,Association des parlementaires d’Europe pour l’Afrique,AWEPA
+32000,31004,Extractive Industries Transparency Initiative International Secretariat,EITI,Secrétariat de l'Initiative pour la transparence dans les industries extractives,ITIE
+32000,31001,Global Development Network,GDN,Réseau de développement mondial,GDN
+32000,31002,Global Knowledge Partnership,GKP,Alliance mondiale pour le savoir,GKP
+32000,21017,International Centre for Trade and Sustainable Development,ICTSD,Centre international de commerce et de développement durable,ICTSD
+32000,31003,International Land Coalition,ILC,Coalition internationale pour l'accès à la terre,ILC
+32000,31005,Parliamentary Network on the World Bank,PNoWB,Réseau parlementaire sur la Banque mondaile,RPsBM
+40000,40000,MULTILATERAL ORGANISATIONS,,ORGANISATIONS MULTILATÉRALES,
+41000,41000,"United Nations agency, fund or commission (UN)",,"Agence, fonds ou commission des Nations unies (NU)",
+41000,41147,Central Emergency Response Fund,CERF,Fonds central pour les interventions d'urgence,CERF
+41000,41101,Convention to Combat Desertification,UNCCD,Convention sur la lutte contre la désertification,CCD
+41000,41102,Desert Locust Control Organisation for Eastern Africa,DLCO-EA,Organisation de lutte contre le criquet pèlerin dans l'Est Africain,OLCP-EA
+41000,41106,Economic and Social Commission for Asia and the Pacific,ESCAP,Commission économique et sociale pour l'Asie et le Pacifique,CESAP
+41000,41105,Economic and Social Commission for Western Asia,ESCWA,Commission économique et sociale pour l'Asie occidentale,CESAO
+41000,41103,Economic Commission for Africa,ECA,Commission économique pour l'Afrique,CEA
+41000,41104,Economic Commission for Latin America and the Caribbean,ECLAC,Commission économique pour l'Amérique latine et les Caraïbes,CEPALC
+41000,41301,Food and Agricultural Organisation,FAO,Organisation des Nations Unies pour l'alimentation et l'agriculture,FAO
+41000,41318,Global Mechanism,GM,Mécanisme mondial,MM
+47000,41317,Green Climate Fund,GCF,Fonds vert pour le climat,GCF
+41000,41312,International Atomic Energy Agency - assessed contributions,IAEA-Assessed,Agence internationale de l'énergie atomique - contributions obligatoires,AIEA-obligatoires
+41000,41107,International Atomic Energy Agency (Contributions to Technical Cooperation Fund Only),IAEA-TCF,Agence internationale de l'énergie atomique (Contributions au Fonds de Coopération Technique uniquement),AIEA-FTC
+41000,41108,International Fund for Agricultural Development,IFAD,Fonds international de développement agricole,FIDA
+41000,41302,International Labour Organisation - Assessed Contributions,ILO-Assessed,Organisation internationale du travail - contributions obligatoires,OIT-Obligatoires
+41000,41144,International Labour Organisation - Regular Budget Supplementary Account,ILO-RBSA,Organisation internationale du Travail - Compte supplémentaire du budget ordinaire,OIT-CSBO
+41000,41145,International Maritime Organization - Technical Co-operation Fund,IMO-TCF,Organisation maritime internationale - Programme intégré de coopération technique,OMI-PICT
+41000,41303,International Telecommunications Union,ITU,Union internationale des télécommunications,UIT
+41000,41110,Joint United Nations Programme on HIV/AIDS,UNAIDS,Programme commun des Nations Unies sur le VIH/SIDA,ONUSIDA
+41000,41305,United Nations,UN,Organisation des Nations Unies,ONU
+41000,41111,United Nations Capital Development Fund,UNCDF,Fonds d’équipement des Nations Unies,FENU
+41000,41122,United Nations Children’s Fund,UNICEF,Fonds des Nations Unies pour l'enfance,UNICEF
+41000,41112,United Nations Conference on Trade and Development,UNCTAD,Conférence des Nations Unies sur le commerce et le développement,CNUCED
+41000,41142,United Nations Democracy Fund,UNDEF,Fonds des Nations Unies pour la démocratie,FNUD
+41000,41310,"United Nations Department of Peacekeeping Operations [only MINURSO, MINUSCA, MINUSMA, MINUSTAH, MONUSCO, UNAMID, UNIFIL, UNIFSA, UNMIK, UNMIL, UNMISS, UNOCI]. Report contributions mission by mission in CRS++.",UNDPKO,"Département des opérations de maintien de la paix des Nations unies [seulement MINURSO, MINUSCA, MINUSMA, MINUSTAH, MONUSCO, MINUAD, FINUL, FISNUA, MINUK, MINUL, UNMISS, ONUCI]. Notifier les contributions mission par mission au format SNPC++.",UNDPKO
+41000,41148,"United Nations Department of Political Affairs, Trust Fund in Support of Political Affairs",UNDPA-SZA,"Département des affaires politiques des Nations unies, fonds fiduciaire de soutien aux affaires politiques",UNDPA-SZA
+41000,41114,United Nations Development Programme,UNDP,Programme des Nations Unies pour le développement,PNUD
+41000,41314,United Nations Economic Commission for Europe (extrabudgetary contributions only),UNECE,Commission économique des Nations unies pour l'Europe (contributions extrabudgétaires uniquement),CEE-ONU
+41000,41304,"United Nations Educational, Scientific and Cultural Organisation",UNESCO,"Organisation des Nations Unies pour l’éducation, la science et la culture",UNESCO
+41000,41146,United Nations Entity for Gender Equality and the Empowerment of Women,UNWOMEN,Entité des Nations Unies pour l'égalité des sexes et l'autonomisation de la femme,ONU Femmes
+41000,41116,United Nations Environment Programme,UNEP,Programme des Nations Unies pour l'environnement,PNUE
+41000,41316,United Nations Framework Convention on Climate Change,UNFCCC,Convention-cadre des Nations unies sur les changements climatiques,CCNUCC
+41000,41313,United Nations High Commissioner for Human Rights (extrabudgetary contributions only),OHCHR,Haut-Commissariat des Nations unies aux droits de l'homme (contributions extrabudgétaires uniquement),HCDH
+41000,41120,United Nations Human Settlement Programme,UN Habitat,Programme des Nations Unies pour les établissements humains,UN Habitat
+41000,41123,United Nations Industrial Development Organisation,UNIDO,Organisation des Nations Unies pour le développement industriel,ONUDI
+41000,41125,United Nations Institute for Training and Research,UNITAR,Institut des Nations Unies pour la formation et la recherche,UNITAR
+41000,41315,United Nations International Strategy for Disaster Reduction,UNISDR,Stratégie internationale des Nations Unies pour la prévention de catastrophes,UNISDR
+41000,41126,United Nations Mine Action Service,UNMAS,Service de l'action antimines des Nations Unies,UNMAS
+41000,41502,United Nations Office for Project Services,UNOPS,Le Bureau des Nations Unies pour les services d'appui aux projets,UNOPS
+41000,41127,United Nations Office of Co-ordination of Humanitarian Affairs,UNOCHA,Bureau des Nations Unies pour la coordination de l'assistance humanitaire,OCHA
+41000,41121,United Nations Office of the United Nations High Commissioner for Refugees,UNHCR,Haut Commissariat des Nations Unies pour les réfugiés,HCR
+41000,41128,United Nations Office on Drugs and Crime,UNODC,Office des Nations Unies contre la drogue et le crime,UNODC
+41000,41311,United Nations Peacebuilding Fund (Window One:  Flexible Contributions Only),PBF Window 1,Fonds des Nations Unies pour la consolidation de la paix (Guichet un:  contributions sans conditions),PBF Guichet un
+41000,41141,United Nations Peacebuilding Fund (Window Two:  Restricted Contributions Only),PBF Window 2,Fonds des Nations Unies pour la consolidation de la paix (Guichet deux:  contributions réservées),PBF Guichet deux
+41000,41119,United Nations Population Fund,UNFPA,Fonds des Nations Unies pour la population,UNFPA
+41000,41501,United Nations Reducing Emissions from Deforestation and Forest Degradation,UN-REDD,,
+41000,41130,United Nations Relief and Works Agency for Palestine Refugees in the Near East,UNRWA,Office de secours et de travaux des Nations Unies pour les réfugiés de Palestine dans le Proche-Orient,UNRWA
+41000,41129,United Nations Research Institute for Social Development,UNRISD,Institut de recherche des Nations Unies pour le développement social,UNRISD
+41000,41133,United Nations Special Initiative on Africa,UNSIA,Initiative spéciale des Nations Unies pour l'Afrique,UNSIA
+41000,41131,United Nations System Staff College,UNSSC,Ecole des cadres du système des Nations Unies,UNSSC
+41000,41132,United Nations System Standing Committee on Nutrition,UNSCN,Comité permanent de la nutrition du système des Nations Unies,UNSCN
+41000,41134,United Nations University (including Endowment Fund),UNU,Université des Nations Unies (y compris le Fonds de dotation),UNU
+41000,41137,United Nations Voluntary Fund for Technical Co-operation in the Field of Human Rights,UNVFTC,Fonds de contributions volontaires des Nations Unies pour la coopération technique dans le domaine des droits de l'homme,
+41000,41138,United Nations Voluntary Fund for Victims of Torture,UNVFVT,Fonds de contributions volontaires des Nations Unies pour les victimes de la torture,
+41000,41136,United Nations Voluntary Fund on Disability,UNVFD,Fonds de contributions voluntaires des Nations Unies pour les handicapés,
+41000,41135,United Nations Volunteers,UNV,Programme des volontaires des Nations Unies,UNV
+41000,41306,Universal Postal Union,UPU,Union postale universelle,UPU
+41000,41140,World Food Programme,WFP,Programme alimentaire mondial,PAM
+41000,41307,World Health Organisation - assessed contributions,WHO-Assessed,Organisation mondiale de la santé - contributions obligatoires,OMS-obligatoires
+41000,41143,World Health Organisation - core voluntary contributions account,WHO-CVCA,Organisation mondiale de la santé - compte de contributions volontaires sans objet désigné,OMS-CVSOD
+41000,41308,World Intellectual Property Organisation,WIPO,Organisation mondiale de la propriété intellectuelle,OMPI
+41000,41309,World Meteorological Organisation,WMO,Organisation météorologique mondiale,OMM
+42000,42000,European Union Institution (EU),,Institution de l’Union européenne (UE),
+42000,42001,European Commission - Development Share of Budget,EC,Commission européenne - partie du budget affectée au développement,CE
+42000,42003,European Commission - European Development Fund,EDF,Commission européenne - Fonds européen de développement,FED
+42000,42004,European Investment Bank,EIB,Banque européenne d'investissement,BEI
+43000,43000,International Monetary Fund (IMF),,Fonds monétaire international (FMI),
+43000,43005,International Monetary Fund - Post-Catastrophe Debt Relief Trust,IMF-PCDR,Fonds monétaire international  - Fonds fiduciaire pour l'allégement de la dette après une catastrophe,FMI-ADAC
+43000,43002,"International Monetary Fund - Poverty Reduction and Growth - Heavily Indebted Poor Countries Debt Relief Initiative Trust Fund [includes HIPC, Extended Credit Facility (ECF), and ECF-HIPC sub-accounts]",IMF-PRG-HIPC,"Fonds monétaire international – Réduction de la pauvreté et croissance – Initiative d’allègement de la dette en faveur des pays pauvres très endettés [y compris Initiative PPTE, Facilité élargie de crédit (FEC) et sous-comptes (FEC-PPTE)]",FMI-FRPC-PPTE
+43000,43004,International Monetary Fund - Poverty Reduction and Growth - Multilateral Debt Relief Initiative Trust,IMF-PRG-MDRI,Fonds monétaire international – Facilité pour la réduction de la pauvreté et pour la croissance – Initiative d’allègement de la dette multilatérale,FMI-FRPC-IADM
+43000,43001,International Monetary Fund - Poverty Reduction and Growth Trust,IMF-PRGT,Fonds monétaire international – Facilité pour la réduction de la pauvreté et pour la croissance,FMI-FRPC
+43000,43003,International Monetary Fund - Subsidization of Emergency Post Conflict Assistance/Emergency Assistance for Natural Disasters for PRGT-eligible members,IMF-EPCA-ENDA,Fonds monétaire international – Aide d’urgence après un conflit (EPCA) et aide d’urgence à la suite de catastrophes naturelles (ENDA) pour les membres pouvant bénéficier de la FRPC,FMI-EPCA-ENDA
+43000,43006,Catastrophe Containment and Relief Trust,IMF-CCR,Fonds fiduciaire d’assistance et de riposte aux catastrophes,FMI-ARC
+44000,44000,World Bank Group (WB),,Groupe de la Banque mondiale (BM),
+44000,44006,Advance Market Commitments,AMCs,Garanties de marché,AMC
+44000,44001,International Bank for Reconstruction and Development,IBRD,Banque internationale pour la reconstruction et le développement,BIRD
+44000,44002,International Development Association,IDA,Association internationale de développement,IDA
+44000,44003,International Development Association - Heavily Indebted Poor Countries Debt Initiative Trust Fund,IDA-HIPC,Association internationale de développement - Fonds fiduciaire de l'IDA en faveur des pays pauvres très endettés,IDA-PPTE
+44000,44007,International Development Association - Multilateral Debt Relief Initiative,IDA-MDRI,Association internationale de développement - Initiative d’allégement de la dette multilatérale,IDA-IADM
+44000,44004,International Finance Corporation,IFC,Société financière internationale,SFI
+44000,44005,Multilateral Investment Guarantee Agency,MIGA,Agence multilatérale de garantie des investissements,AMGI
+45000,45000,World Trade Organisation,,Organisation mondiale du commerce (OMC),
+45000,45002,World Trade Organisation - Advisory Centre on WTO Law,WTO-ACWL,Centre consultatif sur la législation de l'Organisation mondiale du commerce,OMC-CCLO
+45000,45003,World Trade Organisation - Doha Development Agenda Global Trust Fund,WTO-DDAGTF,Organisation mondiale du commerce - Fonds global d'affectation spéciale pour le Programme de Doha pour le développement,
+45000,45001,World Trade Organisation - International Trade Centre,WTO-ITC,Centre du commerce international de l'Organisation mondiale du commerce,OMC-CCI
+46000,46000,Regional Development Bank,,Banque régionale de développement (BRD),
+46000,46002,African Development Bank,Afr.DB,Banque africaine de développement,BAfD
+46000,46003,African Development Fund,Afr.DF,Fonds africain de développement,FAD
+46000,46022,African Export Import Bank,Afreximbank,Banque Africaine d'Import-Export,Afreximbank
+46000,46008,Andean Development Corporation,CAF,Société andine de développement,CAF
+46000,46004,Asian Development Bank,AsDB,Banque asiatique de développement,BAsD
+46000,46005,Asian Development Fund,AsDF,Fonds asiatique de développement,FAsD
+46000,46006,Black Sea Trade and Development Bank,BSTDB,Black Sea Trade and Development Bank,BSTDB
+46000,46009,Caribbean Development Bank,CDB,Banque de développement des Caraïbes,BDC
+46000,46020,Central African States Development Bank,BDEAC,Banque de développement des États de l'Afrique Centrale,BDEAC
+46000,46007,Central American Bank for Economic Integration,CABEI,Banque centroaméricaine d'intégration économique,BCAIE
+46000,46024,Council of Europe Development Bank,CEB,Banque de Développement du Conseil de l'Europe,CEB
+46000,46023,Eastern and Southern African Trade and Development Bank,PTA Bank,Banque de l’Afrique de l’Est et de l’Afrique Australe pour le Commerce et le Développement,Banque de la ZEP
+46000,46015,European Bank for Reconstruction and Development,EBRD,Banque européenne pour la reconstruction et le développement,BERD
+46000,46018,European Bank for Reconstruction and Development - Early Transition Countries Fund,EBRD-ETC,Banque européenne de reconstruction et de développement - Initiative en faveur des pays en transition précoce,BERD-ETC
+46000,46017,European Bank for Reconstruction and Development – technical co-operation and special funds (all EBRD countries of operations),EBRD TFs - All Countries,Banque européenne pour la reconstruction et le développement - coopération technique et fonds spéciaux (tous pays),BERD-CTFS tous pays
+46000,46016,European Bank for Reconstruction and Development – technical co-operation and special funds (ODA-eligible countries only),EBRD TFs - ODA Countries Only,Banque européenne pour la reconstruction et le développement - coopération technique et fonds spéciaux (pays éligibles à l'APD),BERD-CTFS pays éligibles à l'APD
+46000,46019,European Bank for Reconstruction and Development - Western Balkans Joint Trust Fund,EBRD-WBJTF,Banque européenne de reconstruction et de développement - Fonds spécial pour les Balkans occidentaux,BERD-FSpBO
+46000,46013,"Inter-American Development Bank, Fund for Special Operations",IDB FSO,"Banque interaméricaine de développement, Fonds opérations spécial",BID FOS
+46000,46012,"Inter-American Development Bank, Inter-American Investment Corporation and Multilateral Investment Fund",IDB,"Banque interaméricaine de développement, Société interaméricaine d'investissements, Fonds multilatéral d'investissements",BID
+46000,46025,Islamic Development Bank,IsDB,Banque Islamique de Développement,BIsD
+46000,46021,West African Development Bank,BOAD,Banque ouest-africaine de développement,BOAD
+47000,47000,Other multilateral institution,,Autre institution multilatérale,
+47000,47111,Adaptation Fund,,Fonds pour l’adaptation,
+47000,47009,African and Malagasy Council for Higher Education,CAMES,Conseil africain et malgache pour l'enseignement supérieur,CAMES
+47000,47001,African Capacity Building Foundation,ACBF,Fondation pour le renforcement des capacités en Afrique,ACBF
+47000,47137,African Risk Capacity Group,ARC,Mutuelle panafricaine de gestion des risques,ARC
+47000,47141,African Tax Administration Forum,ATAF,Forum sur l’Administration Fiscale Africaine,ATAF
+47000,47005,African Union (excluding peacekeeping facilities),AU,Union Africaine (à l'exclusion de la Facilité de soutien à la paix),UA
+47000,21002,Agency for International Trade Information and Co-operation,AITIC,Agence de coopération et d'information pour le commerce international,ACICI
+47000,47002,Asian Productivity Organisation,APO,Organisation asiatique de productivité,APO
+47000,47109,Asia-Pacific Economic Cooperation Support Fund (except contributions tied to counter-terrorism activities),APEC ASF,Fonds de soutien de la coopération économique Asie-Pacifique (hors lutte contre le terrorisme),APEC-ASF
+47000,47068,Asia-Pacific Fishery Commission,APFIC,Commission Asie-Pacifique des pêches,APFIC
+47000,47003,Association of South East Asian Nations: Economic Co-operation,ASEAN,Association des nations de l'Asie du Sud-Est - coopération économique,ANASE
+47000,47011,Caribbean Community Secretariat,CARICOM,Secrétariat de la Communauté des Caraïbes,CARICOM
+47000,47012,Caribbean Epidemiology Centre,CAREC,Centre épidémiologique des Caraïbes,CAREC
+47000,47112,Central European Initiative - Special Fund for Climate and Environmental Protection,CEI-Climate Fund,Initiative de l’Europe centrale -  Fonds Spécial pour la protection climatique et environnementale,CEI-Climate Fund
+47000,47015,CGIAR Fund,CGIAR,CGIAR Fund,CGIAR
+47000,47134,Clean Technology Fund,CTF,Fonds pour les technologies propres,FTP
+47000,47027,Colombo Plan,CP,Plan de Colombo,CP
+47000,47105,Common Fund for Commodities,CFC,Fonds commun pour les produits de base,
+47000,47013,Commonwealth Foundation,CF,Fondation du Commonwealth,CF
+47000,47025,Commonwealth of Learning,COL,Commonwealth of Learning,COL
+47000,47132,Commonwealth Secretariat (ODA-eligible contributions only),,Secrétariat du Commonwealth (seulement les contributions éligibles à l'APD),
+47000,47026,Community of Portuguese Speaking Countries,CPLP,Communauté des pays de langue portugaise,CPLP
+47000,47022,Convention on International Trade in Endangered Species of Wild Flora and Fauna,CITES,Convention sur le commerce international des espèces de faune et de flore sauvages menacées d'extinction,CITES
+47000,47138,Council of Europe,CoE,Conseil de l’Europe,CoE
+47000,47037,Eastern-Regional Organisation of Public Administration,EROPA,Organisation régionale de l'Orient pour l'administration publique,EROPA
+47000,47113,Economic and Monetary Community of Central Africa,CEMAC,Communauté économique et monétaire de l’Afrique Centrale,CEMAC
+47000,47034,Economic Community of West African States,ECOWAS,Communauté économique des Etats de l’Afrique de l’Ouest,CEDEAO
+47000,47036,European and Mediterranean Plant Protection Organisation,EPPO,Organisation Européenne et Méditerranéenne pour la Protection des Plantes,OEPP
+47000,47504,Forest Carbon Partnership Facility,FCPF,,
+47000,47040,Forum Fisheries Agency,FFA,Agence des pêches,FFA
+47000,47106,Geneva Centre for the Democratic Control of Armed Forces,DCAF,Centre de contrôle démocratique des forces armées - Genève,DCAF
+47000,47123,Geneva International Centre for Humanitarian Demining,GICHD,Centre International de Déminage Humanitaire Genève,CIDHG
+47000,47503,Global Agriculture and Food Security Program,GAFSP,,
+47000,47122,Global Alliance for Vaccines and Immunization,GAVI,Alliance mondiale pour la vaccination et l’immunisation,GAVI
+47000,47129,Global Environment Facility - Least Developed Countries Fund,GEF-LDCF,FEM Fonds pour les pays les moins avancés,FEM - FPMA
+47000,47130,Global Environment Facility - Special Climate Change Fund,GEF-SCCF,FEM Fonds spécial pour les changements climatiques,FEM - FSpCC
+47000,47044,Global Environment Facility Trust Fund,GEF,Fonds pour l'environnement mondial - fonds fiduciaire,FEM
+47000,47502,Global Fund for Disaster Risk Reduction,GFDRR,,
+47000,47045,"Global Fund to Fight AIDS, Tuberculosis and Malaria",Global Fund,"Fonds mondial de lutte contre le SIDA, la tuberculose et la paludisme",Fonds mondial
+47000,47136,Global Green Growth Institute,GGGI,Institut mondial de la croissance verte,GGGI
+47000,47501,Global Partnership for Education,GPE,Partenariat Mondial pour l'Education,PME
+47000,47116,Integrated Framework for Trade-Related Technical Assistance to Least Developed Countries,IF,Cadre intégré pour l'assistance technique liée au commerce en faveur des pays les moins avancés,CI
+47000,47061,Inter-American Institute for Co-operation on Agriculture,IICA,Institut interaméricain de coopération pour l’agriculture,IICA
+47000,47065,Intergovernmental Oceanographic Commission,IOC,Commission océanographique intergouvernementale,COI
+47000,47067,Intergovernmental Panel on Climate Change,IPCC,Groupe d’experts intergouvernemental sur l’évolution du climat,GIEC
+47000,47019,International Centre for Advanced Mediterranean Agronomic Studies,CIHEAM,Centre international de hautes études agronomique méditerranéennes,CIHEAM
+47000,47050,International Cotton Advisory Committee,ICAC,Comité consultatif international du coton,CCIC
+47000,47059,International Development Law Organisation,IDLO,Organisation internationale de droit du développement,IDLO
+47000,30010,International drug purchase facility,UNITAID,Facilité internationale d'achat de médicaments,UNITAID
+47000,47107,International Finance Facility for Immunisation,IFFIm,Facilité internationale de financement pour la vaccination,IFFIm
+47000,47058,International Institute for Democracy and Electoral Assistance,IDEA,International Institute for Democracy and Electoral Assistance,IDEA
+47000,47064,International Network for Bamboo and Rattan,INBAR,Réseau International sur le bambou et le rotin,INBAR
+47000,47066,International Organisation for Migration,IOM,Organisation internationale des migrations,OIM
+47000,47046,International Organisation of the Francophonie,OIF,Organisation internationale de la Francophonie,OIF
+47000,47073,International Tropical Timber Organisation,ITTO,Organisation Internationale des Bois Tropicaux,OIBT
+47000,47074,International Vaccine Institute,IVI,Institut international de vaccins,IIV
+47000,47076,Justice Studies Centre of the Americas,JSCA,Centre d’études sur la justice dans les Amériques,JSCA
+47000,47127,Latin-American Energy Organisation,OLADE,Organisation latino-américaine de l'énergie,OLADE
+47000,47077,Mekong River Commission,MRC,Commission du Mékong,MRC
+47000,47078,Multilateral Fund for the Implementation of the Montreal Protocol,Montreal Protocol,Fonds multilatéral pour l’application du Protocole de Montréal,Protocol de Montréal
+47000,47117,New Partnership for Africa's Development,NEPAD,Nouveau Partenariat pour le développement de l’Afrique,NEPAD
+47000,47128,Nordic Development Fund,NDF,Nordic Development Fund,NDF
+47000,47081,OECD Development Centre,OECD-Dev. Centre,OCDE Centre de développement,OCDE-Centre de dév.
+47000,47142,OPEC Fund for International Development,OFID,Le Fonds OPEP pour le développement international,OFID
+47000,47080,Organisation for Economic Co-operation and Development (Contributions to special funds for Technical Co-operation Activities Only),OECD,Organisation de Coopération et de développement économiques (contributions aux fonds spéciaux pour les activités de coopération technique uniquement),OCDE
+47000,47079,Organisation of American States,OAS,Organisation des États américains,OEA
+47000,47082,Organisation of Eastern Caribbean States,OECS,Organisation des États des Caraïbes orientales,OECO
+47000,47140,"Organisation of Ibero-American States for Education, Science and Culture",OEI,Organización de Estados Iberoamericanos,
+47000,47110,Organisation of the Black Sea Economic Cooperation,BSEC,Organisation de coopération économique de la mer Noire,BSEC
+47000,47131,Organization for Security and Co-operation in Europe,OSCE,Organisation pour la sécurité et la oopération en Europe,OSCE
+47000,47087,Pacific Islands Forum Secretariat,PIFS,Secrétariat du Forum des Iles du Pacifique,SFIP
+47000,47097,Pacific Regional Environment Programme,SPREP,Programme régional océanien de l’environnement,PROE
+47000,47083,Pan-American Health Organisation,PAHO,Organisation panaméricaine de la santé,OPS
+47000,47084,Pan-American Institute of Geography and History,PAIGH,Institut panaméricain de géographie et d’histoire,PAIGH
+47000,47086,Private Infrastructure Development Group,PIDG,Private Infrastructure Development Group,PIDG
+47000,47118,Regional Organisation for the Strengthening of Supreme Audit Institutions of Francophone Sub-Saharan Countries,CREFIAF,Conseil Régional de Formation des Institutions Supérieures de Contrôle des Finances Publiques d’Afrique Francophone Subsaharienne,CREFIAF
+47000,47119,Sahara and Sahel Observatory,OSS,Observatoire du Sahara et du Sahel,OSS
+47000,47029,Sahel and West Africa Club,SWAC,Club du Sahel et de l’Afrique de l’Ouest,CSAO
+47000,47096,Secretariat of the Pacific Community,SPC,Secrétariat Général de la Communauté du Pacifique,CPS
+47000,47120,South Asian Association for Regional Cooperation,SAARC,Association de l'Asie du Sud pour la coopération régionale,SAARC
+47000,47092,South East Asian Fisheries Development Centre,SEAFDC,Centre de développement des pêches de l’Asie du Sud-Est,SEAFDC
+47000,47093,South East Asian Ministers of Education,SEAMEO,Organisation des Ministres de l’éducation de l’Asie du Sud-Est,SEAMEO
+47000,47095,South Pacific Board for Educational Assessment,SPBEA,Conseil d’évaluation du Pacifique Sud pour l'éducation,SPBEA
+47000,47089,Southern African Development Community,SADC,Communauté pour le développement de l’Afrique australe,SADC
+47000,47135,Strategic Climate Fund,SCF,Fonds stratégique pour le climat,FSC
+47000,47121,United Cities and Local Governments of Africa,UCLGA,Cités et gouvernements locaux unis d’Afrique,CGLUA
+47000,47098,Unrepresented Nations and Peoples’ Organisation,UNPO,Organisation des peuples et des nations non représentés,UNPO
+47000,47100,West African Monetary Union,WAMU,Union monétaire ouest-africaine,UMOA
+47000,47139,World Customs Organization Customs Co-operation Fund,WCO CCF,Organisation Mondiale des Douanes Fonds de coopération douanière,OMD CCF
+47000,47143,Global Community Engagement and Resilience Fund,GCERF,Fonds mondial pour l’engagement de la communauté et la résilience,GCERF
+47000,47144,International Renewable Energy Agency,IRENA,Agence internationale pour les energies renouvelables,IRENA
+50000,50000,OTHER,,AUTRE,
+51000,51000,"University, college or other teaching institution, research institute or think‑tank",,"Université, institut d’éducation et autre institution d’enseignement, institut de recherche ou groupe de réflexion",
+51000,47101,Africa Rice Centre,WARDA,Centre du riz pour l’Afrique,ADRAO
+51000,47069,Bioversity International,,Bioversity International,
+51000,47018,Centre for International Forestry Research,CIFOR,Centre de recherche forestière internationale,CIFOR
+51000,21004,Council for the Development of Economic and Social Research in Africa,CODESRIA,Conseil pour le développement de la recherche en sciences sociales en Afrique,CODESRIA
+51000,47041,Food and Fertilizer Technology Centre,FFTC,Centre des techniques de l'alimentation et des engrais,FFTC
+51000,21009,Forum for Agricultural Research in Africa,FARA,Forum pour la recherche agricole en Afrique,FARA
+51000,47047,International African Institute,IAI,Institut international africain,IIA
+51000,47051,International Centre for Agricultural Research in Dry Areas,ICARDA,Centre international de recherche agricole dans les zones arides,ICARDA
+51000,47055,International Centre for Development Oriented Research in Agriculture,ICRA,Centre International pour la Recherche Agricole orientée vers le développement,ICRA
+51000,47053,"International Centre for Diarrhoeal Disease Research, Bangladesh","ICDDR,B","International Centre for Diarrhoeal Disease Research, Bangladesh","ICDDR,B"
+51000,47017,International Centre for Tropical Agriculture,CIAT,Centre international d'agriculture tropicale,CIAT
+51000,47054,International Centre of Insect Physiology and Ecology,ICIPE,Centre international sur la physiologie et l’écologie des insectes,ICIPE
+51000,47057,International Crop Research for Semi-Arid Tropics,ICRISAT,Institut international de recherche sur les cultures des zones tropicales semi-arides,ICRISAT
+51000,51001,International Food Policy Research Institute,IFPRI,Institut International de Recherche sur les Politiques Alimentaires,IFPRI
+51000,21021,International Institute for Environment and Development,IIED,Institut international pour l’environnement et le développement,IIED
+51000,21039,International Institute for Sustainable Development,IISD,Institut international de développement durable,IIDD
+51000,47062,International Institute of Tropical Agriculture,IITA,Institut international d’agriculture tropicale,IITA
+51000,47063,International Livestock Research Institute,ILRI,International Livestock Research Institute,ILRI
+51000,47020,International Maize and Wheat Improvement Centre,CIMMYT,Centre international d’amélioration du maïs et du blé,CIMMYT
+51000,47021,International Potato Centre,CIP,Centre international de la pomme de terre,CIP
+51000,47070,International Rice Research Institute,IRRI,Institut international de recherche sur le riz,IIRR
+51000,47071,International Seed Testing Association,ISTA,Association internationale d’essais de semences,ISTA
+51000,47075,International Water Management Institute,IWMI,Institut international de gestion des ressources en eau,IWMI
+51000,47099,University of the South Pacific,USP,Université du Pacifique Sud,USP
+51000,47056,World AgroForestry Centre,ICRAF,Centre mondial de l’agroforesterie,ICRAF
+51000,47103,World Maritime University,WMU,Université maritime mondiale,UMM
+51000,47008,World Vegetable Centre,AVRDC,Centre international de cultures maraîchères,AVRDC
+51000,47104,WorldFish Centre,WorldFish Centre,Centre international pour l’aménagement des ressources bioaquatiques,WorldFish Centre
+60000,60000,Private sector institution,,Institutions du Secteur Privé,
+61000,61000,Private sector in provider country,,Secteur privé du pays donneur,
+61000,61001,Private bank in provider country,,Banque privée dans le pays donneur,
+61000,61002,Private exporter in provider country,,Exportateur privé dans le pays donneur,
+61000,61003,Private investor in provider country,,Investisseur privé dans le pays donneur,
+61000,61004,Other non-bank entity in provider country,,Autre entité non-bancaire dans le pays donneur,
+62000,62000,Private sector in recipient country,,Secteur privé du pays bénéficiaire,
+62000,62001,Private bank in recipient country,,Banque privée dans le pays bénéficiaire,
+62000,62002,Joint-venture in recipient country,,Co-entreprise dans le pays bénéficiaire,
+62000,62003,Other non-bank in recipient country,,Autre entité non-bancaire dans le pays bénéficiaire,
+63000,63000,Private sector in third country,,Secteur privé d'un pays tiers,
+63000,63001,Private bank in third country,,Banque privée d'un pays tiers,
+63000,63002,Private non-bank in third country,,Secteur privé non-bancaire dans le pays bénéficiaire,
+90000,90000,Other,,Autre,

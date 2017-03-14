@@ -1,0 +1,117 @@
+---
+layout: default
+---
+
+  <div class='container'>
+  <div class="well pull-right">
+    <p><a class="btn btn-primary btn-block" href="datapackage.json"><i class="fa fa-cloud-download"></i> Download Datapackage</a></p>
+    <p><a class="btn btn-default btn-block" href="{{ site.github.repository_url }}"><i class="fa fa-github"></i> View on GitHub</a></p>
+    <p><a class="btn btn-default btn-block" href="{{ site.github.repository_url }}/commits/gh-pages.atom"><i class="fa fa-rss"></i> Subscribe to changes</a></p>
+  </div>
+
+  <h1 property="dct:title">{{ site.data.datapackage.title }}</h1>
+
+  <p property="dct:description">{{ site.data.datapackage.description }}</p>
+
+  <p property="dct:license" resource="{{ site.data.datapackage.licenses.first['url'] }}">
+    <strong>License</strong><br />
+    <a href="{{ site.data.datapackage.licenses.first['url'] }}"><span property="dct:title">{{ site.data.datapackage.licenses.first['title'] }}</span></a>
+  </p>
+
+  <p property="dct:publisher" resource="{{ site.data.datapackage.publishers.first['web'] }}">
+  	<strong property="rdfs:label">Publisher</strong><br />
+  	<a href="{{ site.data.datapackage.publishers.first.['web'] }}" about="{{ site.data.datapackage.publishers.first['web'] }}" property="foaf:homepage">
+  		<span property="foaf:name">{{ site.data.datapackage.publishers.first['name'] }}</span>
+  	</a>
+  </p>
+
+  <p>
+  	<strong property="rdfs:label">Update frequency</strong><br />
+  	<span property="dcat:accrualPeriodicity">{{ site.update_frequency }}</span>
+  </p>
+
+  <h2>Files</h2>
+
+  <table class="table table-striped">
+    <thead>
+      <tr>
+        <th>Name</th>
+        <th>Format</th>
+        <th>Description</th>
+        <th>Data</th>
+        <th>Download</th>
+        <th></th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for resource in site.data.datapackage.resources %}
+      <tr property='dcat:distribution' typeof='dcat:Distribution'>
+        <td property="dcat:title">{{ resource.name }}</td>
+        <td property="dcat:format">{{ resource.mediatype }}</td>
+        <td property="dcat:description">{{ resource.description }}</td>
+	      <td><a href="{{ resource.path | split:"." | first }}"><i class="fa fa-search"></i> View</a></td>
+        <td><a href="{{ resource.path }}" property='dcat:accessURL'><i class="fa fa-cloud-download"></i> Download</a></td>
+        {% unless resource.path contains 'http' %}
+          <td><a href="http://csvlint.io/?uri={{ site.github.url }}/{{ resource.path }}"><img src="http://csvlint.io/?uri={{ site.github.url }}/{{ resource.path }}&format=svg" alt="CSVlint validation result" /></a></td>
+        {% else %}
+          <td><a href="http://csvlint.io/?uri={{ resource.path }}"><img src="http://csvlint.io/?uri={{ resource.path }}&format=svg" alt="CSVlint validation result" /></a></td>
+        {% endunless %}
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+
+  <h2>Schemas</h2>
+
+  {% for resource in site.data.datapackage.resources %}
+    {% if resource.schema %}
+      <h3>{{resource.schema.name}}</h3>
+      <p>{{resource.schema.description}}</p>
+      <table class='table table-striped'>
+        <tr>
+          <th>ID</th>
+          <th>Title</th>
+          <th>Description</th>
+          <th>Type</th>
+          <th>Required</th>
+        </tr>
+        {% for field in resource.schema.fields %}
+          <tr>
+            <td>{{field.name}}</td>
+            <td>{{field.title}}</td>
+            <td>{{field.description}}</td>
+            <td>{{field.constraints.type | split:'#' | last }}</td>
+            <td>{{field.constraints.required}}</td>
+          </tr>
+        {% endfor %}
+      </table>
+    {% endif %}
+  {% endfor %}
+
+  {% assign index_length = 0 %}
+
+  {% for item in site.data.index %}
+    {% assign index_length = forloop.length %}
+  {% endfor %}
+
+  {% if index_length > 0 %}
+    <h2>API</h2>
+
+    <ul>
+      {% for item in site.data.index %}
+        <li><a href="{{ item['url'] | | remove: '.json'}}">{{ item['url'] | | remove: '.json' | capitalize}}</a></li>
+      {% endfor %}
+    </ul>
+  {% endif %}
+
+  <script src="{{ site.certificate_url }}"></script>
+
+  <h2>Support</h2>
+
+    <p>If you have support queries, suggestions or corrections to the data, please <a href="{{ site.github.issues_url }}" target="_blank">file a new issue</a> in our GitHub repository.</p>
+
+	  <p>All comments and subsequent fixes will be <a href="{{ site.github.issues_url }}" target="_blank">logged openly</a> such that you can easily see the provenance of each object in this dataset.</p>
+
+    <p class="lastUpdate text-right">Last update: {{ site.time | date: '%Y-%m-%d at %H:%M' }}</p>
+
+  </div>
