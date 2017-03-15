@@ -14,7 +14,7 @@ def fetch_xls():
     xls_filepath = join(output_dir, 'DAC-CRS-CODES.xls')
 
     r = requests.get(codelists_url)
-    soup = bs(r.text, 'lxml')
+    soup = bs(r.text, 'html.parser')
 
     xls_url = soup.find(class_='document').find('a')['href']
     if xls_url.startswith('/'):
