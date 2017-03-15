@@ -1,4 +1,4 @@
-from os import environ
+import csv
 from os.path import join
 
 from bs4 import BeautifulSoup as bs
@@ -83,10 +83,9 @@ def get_crs_codelist(book, mapping):
 
     return cldata
 
-def save_csv(name):
+def save_csv(name, codelist, fieldnames):
     with open(join(output_dir, name + '.csv'), 'w') as f:
-        url = 'https://morph.io/andylolz/dac-crs-codes/data.csv?key={api_key}&query=select+%2A+from+%27{table_name}%27'.format(
-            api_key=environ.get('MORPH_API_KEY'),
-            table_name=name)
-        r = requests.get(url)
-        f.write(r.text)
+        writer = csv.DictWriter(f, fieldnames=fieldnames)
+        writer.writeheader()
+        for row in codelist:
+            writer.writerow(row)
