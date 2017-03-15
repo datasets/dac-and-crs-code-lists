@@ -1,5 +1,4 @@
 scraperwiki
 beautifulsoup4
-lxml
 requests
 xlrd
