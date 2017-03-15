@@ -1,4 +1,85 @@
 {
+    "dac_members": {
+        "start_row": 4,
+        "cols": [
+            [0, "code"],
+            [1, "name_en"],
+            [2, "name_fr"]
+        ],
+        "sheet_name": "Donor"
+    },
+    "multilateral_donors": {
+        "start_row": 4,
+        "cols": [
+            [4, "code"],
+            [5, "name_en"],
+            [6, "name_fr"]
+        ],
+        "sheet_name": "Donor"
+    },
+    "non_dac_donors": {
+        "start_row": 4,
+        "cols": [
+            [8, "code"],
+            [9, "name_en"],
+            [10, "name_fr"]
+        ],
+        "sheet_name": "Donor"
+    },
+    "private_donors": {
+        "start_row": 4,
+        "cols": [
+            [12, "code"],
+            [13, "name_en"],
+            [14, "name_fr"]
+        ],
+        "sheet_name": "Donor"
+    },
+    "agencies": {
+        "start_row": 1,
+        "cols": [
+            [0, "code"],
+            [1, "donor_name_en"],
+            [2, "donor_name_fr"],
+            [3, "agency_code"],
+            [4, "agency_name_en"],
+            [5, "agency_name_fr"],
+            [6, "acronym"]
+        ],
+        "sheet_name": "Agency"
+    },
+    "nature_of_submission": {
+        "start_row": 1,
+        "cols": [
+            [0, "code"],
+            [1, "name_en"],
+            [2, "name_fr"]
+        ],
+        "sheet_name": "Nature of submission"
+    },
+    "recipient": {
+        "start_row": 1,
+        "cols": [
+            [0, "code"],
+            [1, "name_en"],
+            [2, "name_fr"],
+            [3, "income_group"],
+            [4, "geography"]
+        ],
+        "sheet_name": "Recipient"
+    },
+    "channel_codes": {
+        "start_row": 8,
+        "cols": [
+            [0, "category"],
+            [1, "code"],
+            [4, "name_en"],
+            [3, "acronym_en"],
+            [6, "name_fr"],
+            [5, "acronym_fr"]
+        ],
+        "sheet_name": "Channel codes "
+    },
     "collaboration_type": {
         "start_row": 1,
         "cols": [
@@ -22,11 +103,13 @@
         "sheet_name": "Type of flow"
     },
     "finance_type": {
-        "start_row": 7,
+        "start_row": 8,
         "cols": [
             [0, "category"],
+            [1, "heading_en"],
             [2, "code"],
             [3, "name_en"],
+            [6, "heading_fr"],
             [8, "name_fr"]
         ],
         "exclude_blank": ["code"],
