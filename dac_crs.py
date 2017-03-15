@@ -1,5 +1,6 @@
 import csv
-from os.path import join
+from os.path import join, exists
+from os import makedirs
 
 from bs4 import BeautifulSoup as bs
 import requests
@@ -7,6 +8,8 @@ import xlrd
 
 
 output_dir = 'output'
+if not exists(output_dir):
+    makedirs(output_dir)
 
 def fetch_xls():
     base_url = 'http://www.oecd.org'
