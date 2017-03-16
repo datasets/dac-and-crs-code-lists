@@ -15,6 +15,8 @@ Generates codelist files from CRS codelists.
 with open('crs_mappings.json') as f:
     crs_mappings = json.load(f)
 
+dac_crs.init_git_repo()
+
 crs_xls = dac_crs.fetch_xls()
 
 for name, mapping in crs_mappings.items():
@@ -35,3 +37,5 @@ fieldnames = [x[1] for x in crs_mappings['sector_en']['cols']] + ['name_fr', 'de
 print('Saving sectors.csv')
 dac_crs.save_csv('sectors', sectors_en, fieldnames)
 scraperwiki.sqlite.save(['code'], sectors_en, 'sector')
+
+dac_crs.push_to_github()

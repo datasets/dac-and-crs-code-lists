@@ -1,20 +1,22 @@
 import csv
-from os.path import join, exists
-from os import makedirs
+from glob import glob
+from os.path import join
+from os import remove
+import shutil
 
 from bs4 import BeautifulSoup as bs
 import requests
 import xlrd
+from git import Repo
 
 
 output_dir = 'output'
-if not exists(output_dir):
-    makedirs(output_dir)
+data_dir = join(output_dir, 'data')
 
 def fetch_xls():
     base_url = 'http://www.oecd.org'
     codelists_url = base_url + '/dac/stats/dacandcrscodelists.htm'
-    xls_filepath = join(output_dir, 'DAC-CRS-CODES.xls')
+    xls_filepath = join(data_dir, 'DAC-CRS-CODES.xls')
 
     r = requests.get(codelists_url)
     soup = bs(r.text, 'html.parser')
@@ -87,8 +89,21 @@ def get_crs_codelist(book, mapping):
     return cldata
 
 def save_csv(name, codelist, fieldnames):
-    with open(join(output_dir, name + '.csv'), 'w') as f:
+    with open(join(data_dir, name + '.csv'), 'w') as f:
         writer = csv.DictWriter(f, fieldnames=fieldnames)
         writer.writeheader()
         for row in codelist:
             writer.writerow(row)
+
+def init_git_repo():
+    shutil.rmtree(output_dir, ignore_errors=True)
+    git = Repo.init(output_dir).git
+    git.remote('add', 'origin', 'https://github.com/andylolz/dac-crs-codes.git')
+    git.pull('origin', 'gh-pages')
+    git.checkout(b='pr')
+    for to_remove in glob(join(data_dir, '*')):
+        remove(to_remove)
+
+def push_to_github():
+    git = Repo.init(output_dir).git
+    shutil.rmtree(output_dir, ignore_errors=True)
