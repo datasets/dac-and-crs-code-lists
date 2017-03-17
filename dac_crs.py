@@ -115,7 +115,7 @@ def init_git_repo():
     except:
         git.pull('origin', 'gh-pages')
         git.checkout(b='update')
-    for to_remove in glob(join(data_dir, '*')):
+    for to_remove in glob(join(data_dir, '*.csv')):
         remove(to_remove)
 
 def push_to_github():
