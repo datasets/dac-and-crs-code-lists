@@ -43,8 +43,15 @@ def get_crs_codelist(book, mapping):
         return str(val).strip()
 
     def relevant_row(mapping, row_data):
-        for eb in mapping.get('exclude_blank', []):
-            if str(row_data[eb]).strip() == '': return False
+        for ebs in mapping.get('exclude_blank', []):
+            if type(ebs) is not list:
+                ebs = [ebs]
+            ignore = True
+            for eb in ebs:
+                if str(row_data[eb]).strip() != '':
+                    ignore = False
+            if ignore:
+                return False
         return True
 
     # Get sheet and create array for this codelist
@@ -79,16 +86,21 @@ def get_crs_codelist(book, mapping):
 
         # Check whether we should ignore this row based on `exclude_blank`
         if relevant_row(mapping, row_data):
-            if fill_down_vals:
-                row_data.update(fill_down_vals)
+            for col_name, fill_down_val in fill_down_vals.items():
+                if row_data[col_name].strip() == '':
+                    row_data[col_name] = fill_down_val
+            row_data['withdrawn'] = False
             cldata.append(row_data)
 
-        if mapping.get('fill_down') and (row_data[mapping['fill_down']] != ''):
-            fill_down_vals[mapping['fill_down']] = row_data[mapping['fill_down']]
+        if mapping.get('fill_down'):
+            for fill_down_col in mapping['fill_down']:
+                if row_data[fill_down_col] != '':
+                    fill_down_vals[fill_down_col] = row_data[fill_down_col]
 
     return cldata
 
 def save_csv(name, codelist, fieldnames):
+    fieldnames += ['withdrawn']
     with open(join(data_dir, name + '.csv'), 'w') as f:
         writer = csv.DictWriter(f, fieldnames=fieldnames)
         writer.writeheader()
@@ -99,11 +111,14 @@ def init_git_repo():
     shutil.rmtree(output_dir, ignore_errors=True)
     git = Repo.init(output_dir).git
     git.remote('add', 'origin', 'https://github.com/andylolz/dac-crs-codes.git')
-    git.pull('origin', 'gh-pages')
-    git.checkout(b='pr')
+    try:
+        git.pull('origin', 'pr')
+    except:
+        git.pull('origin', 'gh-pages')
+        git.checkout(b='pr')
     for to_remove in glob(join(data_dir, '*')):
         remove(to_remove)
 
 def push_to_github():
     git = Repo.init(output_dir).git
-    shutil.rmtree(output_dir, ignore_errors=True)
+    # shutil.rmtree(output_dir, ignore_errors=True)

@@ -114,7 +114,7 @@
         ],
         "exclude_blank": ["code"],
         "sheet_name": "Type of finance",
-        "fill_down": "category"
+        "fill_down": ["category"]
     },
     "aid_type": {
         "start_row": 3,
@@ -128,19 +128,21 @@
         ],
         "exclude_blank": ["code", "name_en"],
         "sheet_name": "Type of aid",
-        "fill_down": "category"
+        "fill_down": ["category"]
     },
     "sector_en": {
         "start_row": 4,
         "cols": [
             [0, "category"],
-            [[1, 2], "code"],
+            [1, "code"],
+            [2, "voluntary_code"],
             [3, "name_en"],
             [4, "description_en"]
         ],
-        "exclude_blank": ["code"],
+        "key": ["code", "voluntary_code"],
+        "exclude_blank": [["code", "voluntary_code"]],
         "sheet_name": "Purpose codes",
-        "fill_down": "category",
+        "fill_down": ["category", "code"],
         "ignore": [
             ["category", "DAC 5"],
             ["category", "CODE"],
@@ -152,13 +154,15 @@
         "start_row": 4,
         "cols": [
             [0, "category"],
-            [[1, 2], "code"],
+            [1, "code"],
+            [2, "voluntary_code"],
             [3, "name_fr"],
             [4, "description_fr"]
         ],
-        "exclude_blank": ["code"],
+        "key": ["code", "voluntary_code"],
+        "exclude_blank": [["code", "voluntary_code"]],
         "sheet_name": "Codes objet",
-        "fill_down": "category",
+        "fill_down": ["category", "code"],
         "ignore": [
             ["category", "CODE"],
             ["category", "CAD 5"]
