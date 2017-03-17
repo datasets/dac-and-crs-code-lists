@@ -1,5 +1,6 @@
 import json
 from os import environ
+import shutil
 
 # hack to override sqlite database filename
 # see: https://help.morph.io/t/using-python-3-with-morph-scraperwiki-fork/148
@@ -11,6 +12,8 @@ import dac_crs
 '''
 Generates codelist files from CRS codelists.
 '''
+
+shutil.rmtree('data.sqlite', ignore_errors=True)
 
 with open('crs_mappings.json') as f:
     crs_mappings = json.load(f)
