@@ -90,7 +90,6 @@ def get_crs_codelist(book, mapping):
             for col_name, fill_down_val in fill_down_vals.items():
                 if row_data[col_name].strip() == '':
                     row_data[col_name] = fill_down_val
-            row_data['withdrawn'] = False
             cldata.append(row_data)
 
         if mapping.get('fill_down'):
@@ -101,7 +100,6 @@ def get_crs_codelist(book, mapping):
     return cldata
 
 def save_csv(name, codelist, fieldnames):
-    fieldnames += ['withdrawn']
     with open(join(data_dir, name + '.csv'), 'w') as f:
         writer = csv.DictWriter(f, fieldnames=fieldnames)
         writer.writeheader()
@@ -119,15 +117,6 @@ def init_git_repo():
         git.checkout(b='pr')
     for to_remove in glob(join(data_dir, '*')):
         remove(to_remove)
-
-def mark_all_as_withdrawn(name, key):
-    try:
-        codelist = scraperwiki.sqlite.select('* from {}'.format(name))
-        for row_data in codelist:
-            row_data['withdrawn'] = True
-        scraperwiki.sqlite.save(key, codelist, name)
-    except:
-        pass
 
 def push_to_github():
     git = Repo.init(output_dir).git
