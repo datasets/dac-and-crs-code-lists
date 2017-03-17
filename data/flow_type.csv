@@ -1,6 +1,5 @@
 code,name_en,description_en,name_fr,description_fr
 10,ODA,Official Development Assistance,APD,Aide Publique au Développement
-20,OOF,Other Official Flows,AASP,Autres Apports du Secteur Public
 21,Non-export credit OOF,"Other Official Flows, excl. export credits.",AASP hors crédits-export,"Autres Apports du Secteur Public, à l'exclusion des crédits à  l'exportation"
 22,Officially supported export credits,Officially supported export credits. Covers both official direct export credits and private export credits under official guarantee or insurance.,AASP dont crédits export,Autres Apports du Secteur Public. comprenant les crédits à  l'exportation soutenus par le secteur public et les exportations privées bénéficiant de garantie ou d'assurance publiques.
 30,Private grants,made by NGOs and other civil society organisations (e.e. philantropic foundations) based in the reporting DAC country,Dons privés,Dons fournis par les ONG et autres organismes privés (par exemple fondations philantropiques) résidents dans le pays donneur
