@@ -1,353 +1,353 @@
 category,code,name_en,acronym_en,name_fr,acronym_fr
-10000,10000,PUBLIC SECTOR INSTITUTIONS,,INSTITUTIONS DU SECTEUR PUBLIC,
-11000,11000,Donor Government,,Gouvernement du donneur,
-11000,11001,Central Government,,Gouvernment central,
-11000,11002,Local Government,,Gouvernment local,
-11000,11003,Public corporations,,Entreprise publique,
-11000,11004,Other public entities in donor country,,Autres entité publique dans le pays donneur,
-12000,12000,Recipient Government,,Gouvernement du bénéficiaire,
-12000,12001,Central Government,,Gouvernment central,
-12000,12002,Local Government,,Gouvernment local,
-12000,12003,Public corporations,,Entreprise publique,
-12000,12004,Other public entities in recipient country,,Autres entité publique dans le pays bénéficiaire,
-13000,13000,Third Country Government (Delegated co-operation),,Gouvernement tiers (coopération déléguée),
-20000,20000,NON-GOVERNMENTAL ORGANISATIONS (NGOs) AND CIVIL SOCIETY,,ORGANISATIONS NON GOUVERNEMENTALES (ONG) et SOCIÉTÉ CIVILE,
-21000,21000,INTERNATIONAL NGO,,ONG INTERNATIONALE,
-21000,21045,African Medical and Research Foundation,AMREF,Fondation africaine pour la médecine et la recherche,AMREF
-21000,21046,Agency for Cooperation and Research in Development,ACORD,Association de Coopération et de Recherche pour le Développement,ACORD
-21000,21001,Association of Geoscientists for International Development,AGID,Association de géoscientifiques pour le développement international,AGID
-21000,21005,Consumer Unity and Trust Society International,CUTS,Consumer Unity and Trust Society International,CUTS
-21000,21029,Doctors Without Borders,MSF,Médecins Sans Frontières,MSF
-21000,47035,Environmental Development Action in the Third World,ENDA,Environnement et développement du Tiers-monde,ENDA
-21000,21007,Environmental Liaison Centre International,ELCI,Centre international de liaison pour l’environnement,CILE
-21000,21503,Family Health International 360,FHI360,,
-21000,21011,Global Campaign for Education,GCE,Campagne mondiale pour l’éducation,CME
-21000,21013,Health Action International,HAI,Health Action International,HAI
-21000,21024,"Inter Press Service, International Association",IPS,"Inter Press Service, International Association",IPS
-21000,21038,International Alert,,International Alert,
-21000,21057,International Centre for Transitional Justice,ICTJ,Centre International pour la Justice Transitionnelle,ICTJ
-21000,21016,International Committee of the Red Cross,ICRC,Comité international de la Croix-Rouge,CICR
-21000,21044,International Council for the Control of Iodine Deficiency Disorders,ICCIDD,Conseil international pour la lutte contre les troubles dus à une carence en iode,ICCIDD
-21000,21018,International Federation of Red Cross and Red Crescent Societies,IFRCRCS,Fédération internationale des Sociétés de la Croix-Rouge et du Croissant-Rouge,FISCRCR
-21000,21020,International HIV/AIDS Alliance,,International HIV/AIDS Alliance,
-21000,21022,International Network for Alternative Financial Institutions,INAFI,Réseau international d’institutions financières,INAFI
-21000,21042,International Peacebuilding Alliance,Interpeace,Alliance internationale pour la consolidation de la paix,Interpeace
-21000,21023,International Planned Parenthood Federation,IPPF,Fédération internationale pour le planning familial,IPPF
-21000,21061,International Rehabilitation Council for Torture,IRTC,Conseil international de réhabilitation pour les victimes de torture,IRTC
-21000,21504,International Relief and Development,IRD,,
-21000,21506,International Rescue Committee,IRC,,
-21000,21034,International Union Against Tuberculosis and Lung Disease,UNION,Union Internationale Contre la Tuberculose et les Maladies Respiratoires,UNION
-21000,21053,"IPAS-Protecting Women’s Health, Advancing Women’s Reproductive Rights",,"IPAS-Protecting Womens Health, Advancing Womens Reproductive Rights",
-21000,21054,Life and Peace Institute,LPI,Institut Vie et Paix,IVP
-21000,21501,OXFAM International,OXFAM-I,,
-21000,21507,Pact World,PACT,,
-21000,21031,PANOS Institute,PANOS,Institut PANOS,PANOS
-21000,21032,Population Services International,PSI,Organisation internationale pour les services en matière de population,PSI
-21000,21505,Save the Children,,,
-21000,21041,Society for International Development,SID,Société pour le développement international,SDI
-21000,21062,The Nature Conservancy,TNC,The Nature Conservancy,TNC
-21000,21036,World University Service,WUS,Entraide universitaire mondiale,EUM
-21000,21502,World Vision,,,
-22000,22000,Donor country-based NGO,,ONG basée dans un pays donneur,
-22000,21047,AgriCord,,AgriCord,
-22000,21060,Association for the Prevention of Torture,APT,Association pour la prévention de la torture,APT
-22000,21006,Development Gateway Foundation,,Development Gateway Foundation,
-22000,21049,European Centre for Development Policy Management,ECDPM,Centre européen de gestion de politiques de développement,ECDPM
-22000,21008,Eurostep,Eurostep,Eurostep,Eurostep
-22000,47042,Foundation for International Training,FIT,Fondation pour la formation internationale dans les pays du tiers monde,FIT
-22000,21050,Geneva Call,,Appel de Genève,
-22000,21014,Human Rights Information and Documentation Systems,HURIDOCS,Systèmes d’Information et de Documentation sur les Droits de l’Homme,HURIDOCS
-22000,21015,International Catholic Rural Association,ICRA,Association internationale rurale catholique,ICRA
-22000,21058,International Crisis Group,ICG,International Crisis Group,ICG
-22000,21019,International Federation of Settlements and Neighbourhood Centres,IFS,Fédération internationale des centres sociaux et communautaires,IFS
-22000,21025,International Seismological Centre,ISC,Centre séismologique international,ISC
-22000,21026,International Service for Human Rights,ISHR,Service International pour les Droits de l’Homme,ISHR
-22000,21027,International Trust Fund for Demining and Mine Victims Assistance,ITF,Fonds international d’affectation spéciale pour le déminage et l’assistance aux victimes des mines,ITF
-22000,21040,International Women's Tribune Centre,IWTC,Centre de la tribune internationale de la femme,CTIF
-22000,22501,OXFAM - provider country office,OXFAM,,
-22000,22502,Save the Children - donor country office,,,
-22000,21033,Transparency International,TI,Transparency International,TI
-22000,21037,Women's World Banking,WWB,Banque mondiale des femmes,WWB
-22000,21035,World Organisation Against Torture,OMCT,Organisation mondiale contre la torture,OMCT
-23000,23000,Developing country-based NGO,,ONG basée dans un pays en développement,
-23000,21059,Africa Solidarity Fund,ASF,Fonds solidaire pour l'Afrique,ASF
-23000,21048,Association of African Universities,AAU,Association des universités africaines,AUA
-23000,21010,Forum for African Women Educationalists,FAWE,Forum des éducatrices africaines,FAWE
-23000,21051,Institut Supérieur Panafricaine d’Economie Coopérative,ISPEC,Institut supérieur panafricaine d’economie coopérative,ISPEC
-23000,21028,International University Exchange Fund - IUEF Stip. in Africa and Latin America,IUEF,Fonds international d’échanges universitaires - Échanges intéressant l’Afrique et l’Amérique latine,FIEU
-23000,21003,Latin American Council for Social Sciences,CLASCO,Conseil latino-américain des sciences sociales,CLASCO
-23000,21030,Pan African Institute for Development,PAID,Institut panafricain pour le développement,IPD
-23000,21055,Regional AIDS Training Network,RATN,Réseau régional de formation sur le SIDA,RRFS
-30000,30000,PUBLIC-PRIVATE PARTNERSHIPS (PPPs) and NETWORKS,,PARTENARIATS PUBLIC-PRIVÉ ET RÉSEAUX,
-31000,31000,Public-Private Partnership (PPP),,Partenariat public-privé (PPP),
-31000,30008,Cities Alliance,,Alliance pour les villes,
-31000,30016,European Fund for Southeast Europe,EFSE,European Fund for Southeast Europe,EFSE
-31000,30007,Global Alliance for ICT and Development,GAID,Alliance mondiale pour les TIC et le développement,GAID
-31000,30001,Global Alliance for Improved Nutrition,GAIN,Alliance mondiale pour une meilleure nutrition,GAIN
-31000,30012,Global Climate Partnership Fund,GCPF,Global Climate Partnership Fund,GCPF
-31000,47043,Global Crop Diversity Trust,,Global Crop Diversity Trust,
-31000,30015,Global Energy Efficiency and Renewable Energy Fund,GEEREF,Fonds mondial pour la promotion de l'efficacité énergétique et des énergies renouvelables,GEEREF
-31000,30003,Global e-Schools and Communities Initiative,GeSCI,Initiative mondiale en faveur de l’informatique dans les écoles et dans les communautés,GeSCI
-31000,30004,Global Water Partnership,GWP,Partenariat mondial pour l'eau,GWP
-31000,30005,International AIDS Vaccine Initiative,IAVI,Initiative internationale pour un vaccin contre le SIDA,IAVI
-31000,30006,International Partnership on Microbicides,IPM,Partenariat international pour des microbicides,IPM
-31000,30011,International Union for the Conservation of Nature,IUCN,Union internationale pour la conservation de la nature,UICN
-31000,30013,Microfinance Enhancement Facility,MEF,Mécanisme de soutien au microfinancement,MEF
-31000,30014,"Regional Micro, Small and Medium Enterprise Investment Fund for Sub-Saharan Africa",REGMIFA,"Fonds régional d’investissement pour les très petites, petites et moyennes entreprises d’Afrique subsaharienne",REGMIFA
-31000,21056,Renewable Energy and Energy Efficiency Partnership,REEEP,Partenariat pour les énergies renouvelables et l'efficience énergétique,REEEP
-31000,30017,"SANAD Fund for Micro, Small and Medium Enterprises",SANAD,"SANAD Fund for Micro, Small and Medium Enterprises",SANAD
-31000,30009,Small Arms Survey,SAS,Small Arms Survey,SAS
-32000,32000,Network,,RÉSEAU,
-32000,47010,Commonwealth Agency for Public Administration and Management,CAPAM,Agence du Commonwealth pour l'administration et la gestion publiques,CAPAM
-32000,47028,Commonwealth Partnership for Technical Management,CPTM,Partenariat pour la gestion technique (Commonwealth),CPTM
-32000,21043,European Parliamentarians for Africa,AWEPA,Association des parlementaires d’Europe pour l’Afrique,AWEPA
-32000,31004,Extractive Industries Transparency Initiative International Secretariat,EITI,Secrétariat de l'Initiative pour la transparence dans les industries extractives,ITIE
-32000,31001,Global Development Network,GDN,Réseau de développement mondial,GDN
-32000,31002,Global Knowledge Partnership,GKP,Alliance mondiale pour le savoir,GKP
-32000,21017,International Centre for Trade and Sustainable Development,ICTSD,Centre international de commerce et de développement durable,ICTSD
-32000,31003,International Land Coalition,ILC,Coalition internationale pour l'accès à la terre,ILC
-32000,31005,Parliamentary Network on the World Bank,PNoWB,Réseau parlementaire sur la Banque mondaile,RPsBM
-40000,40000,MULTILATERAL ORGANISATIONS,,ORGANISATIONS MULTILATÉRALES,
-41000,41000,"United Nations agency, fund or commission (UN)",,"Agence, fonds ou commission des Nations unies (NU)",
-41000,41147,Central Emergency Response Fund,CERF,Fonds central pour les interventions d'urgence,CERF
-41000,41101,Convention to Combat Desertification,UNCCD,Convention sur la lutte contre la désertification,CCD
-41000,41102,Desert Locust Control Organisation for Eastern Africa,DLCO-EA,Organisation de lutte contre le criquet pèlerin dans l'Est Africain,OLCP-EA
-41000,41106,Economic and Social Commission for Asia and the Pacific,ESCAP,Commission économique et sociale pour l'Asie et le Pacifique,CESAP
-41000,41105,Economic and Social Commission for Western Asia,ESCWA,Commission économique et sociale pour l'Asie occidentale,CESAO
-41000,41103,Economic Commission for Africa,ECA,Commission économique pour l'Afrique,CEA
-41000,41104,Economic Commission for Latin America and the Caribbean,ECLAC,Commission économique pour l'Amérique latine et les Caraïbes,CEPALC
-41000,41301,Food and Agricultural Organisation,FAO,Organisation des Nations Unies pour l'alimentation et l'agriculture,FAO
-41000,41318,Global Mechanism,GM,Mécanisme mondial,MM
-47000,41317,Green Climate Fund,GCF,Fonds vert pour le climat,GCF
-41000,41312,International Atomic Energy Agency - assessed contributions,IAEA-Assessed,Agence internationale de l'énergie atomique - contributions obligatoires,AIEA-obligatoires
-41000,41107,International Atomic Energy Agency (Contributions to Technical Cooperation Fund Only),IAEA-TCF,Agence internationale de l'énergie atomique (Contributions au Fonds de Coopération Technique uniquement),AIEA-FTC
-41000,41108,International Fund for Agricultural Development,IFAD,Fonds international de développement agricole,FIDA
-41000,41302,International Labour Organisation - Assessed Contributions,ILO-Assessed,Organisation internationale du travail - contributions obligatoires,OIT-Obligatoires
-41000,41144,International Labour Organisation - Regular Budget Supplementary Account,ILO-RBSA,Organisation internationale du Travail - Compte supplémentaire du budget ordinaire,OIT-CSBO
-41000,41145,International Maritime Organization - Technical Co-operation Fund,IMO-TCF,Organisation maritime internationale - Programme intégré de coopération technique,OMI-PICT
-41000,41303,International Telecommunications Union,ITU,Union internationale des télécommunications,UIT
-41000,41110,Joint United Nations Programme on HIV/AIDS,UNAIDS,Programme commun des Nations Unies sur le VIH/SIDA,ONUSIDA
-41000,41305,United Nations,UN,Organisation des Nations Unies,ONU
-41000,41111,United Nations Capital Development Fund,UNCDF,Fonds d’équipement des Nations Unies,FENU
-41000,41122,United Nations Children’s Fund,UNICEF,Fonds des Nations Unies pour l'enfance,UNICEF
-41000,41112,United Nations Conference on Trade and Development,UNCTAD,Conférence des Nations Unies sur le commerce et le développement,CNUCED
-41000,41142,United Nations Democracy Fund,UNDEF,Fonds des Nations Unies pour la démocratie,FNUD
-41000,41310,"United Nations Department of Peacekeeping Operations [only MINURSO, MINUSCA, MINUSMA, MINUSTAH, MONUSCO, UNAMID, UNIFIL, UNIFSA, UNMIK, UNMIL, UNMISS, UNOCI]. Report contributions mission by mission in CRS++.",UNDPKO,"Département des opérations de maintien de la paix des Nations unies [seulement MINURSO, MINUSCA, MINUSMA, MINUSTAH, MONUSCO, MINUAD, FINUL, FISNUA, MINUK, MINUL, UNMISS, ONUCI]. Notifier les contributions mission par mission au format SNPC++.",UNDPKO
-41000,41148,"United Nations Department of Political Affairs, Trust Fund in Support of Political Affairs",UNDPA-SZA,"Département des affaires politiques des Nations unies, fonds fiduciaire de soutien aux affaires politiques",UNDPA-SZA
-41000,41114,United Nations Development Programme,UNDP,Programme des Nations Unies pour le développement,PNUD
-41000,41314,United Nations Economic Commission for Europe (extrabudgetary contributions only),UNECE,Commission économique des Nations unies pour l'Europe (contributions extrabudgétaires uniquement),CEE-ONU
-41000,41304,"United Nations Educational, Scientific and Cultural Organisation",UNESCO,"Organisation des Nations Unies pour l’éducation, la science et la culture",UNESCO
-41000,41146,United Nations Entity for Gender Equality and the Empowerment of Women,UNWOMEN,Entité des Nations Unies pour l'égalité des sexes et l'autonomisation de la femme,ONU Femmes
-41000,41116,United Nations Environment Programme,UNEP,Programme des Nations Unies pour l'environnement,PNUE
-41000,41316,United Nations Framework Convention on Climate Change,UNFCCC,Convention-cadre des Nations unies sur les changements climatiques,CCNUCC
-41000,41313,United Nations High Commissioner for Human Rights (extrabudgetary contributions only),OHCHR,Haut-Commissariat des Nations unies aux droits de l'homme (contributions extrabudgétaires uniquement),HCDH
-41000,41120,United Nations Human Settlement Programme,UN Habitat,Programme des Nations Unies pour les établissements humains,UN Habitat
-41000,41123,United Nations Industrial Development Organisation,UNIDO,Organisation des Nations Unies pour le développement industriel,ONUDI
-41000,41125,United Nations Institute for Training and Research,UNITAR,Institut des Nations Unies pour la formation et la recherche,UNITAR
-41000,41315,United Nations International Strategy for Disaster Reduction,UNISDR,Stratégie internationale des Nations Unies pour la prévention de catastrophes,UNISDR
-41000,41126,United Nations Mine Action Service,UNMAS,Service de l'action antimines des Nations Unies,UNMAS
-41000,41502,United Nations Office for Project Services,UNOPS,Le Bureau des Nations Unies pour les services d'appui aux projets,UNOPS
-41000,41127,United Nations Office of Co-ordination of Humanitarian Affairs,UNOCHA,Bureau des Nations Unies pour la coordination de l'assistance humanitaire,OCHA
-41000,41121,United Nations Office of the United Nations High Commissioner for Refugees,UNHCR,Haut Commissariat des Nations Unies pour les réfugiés,HCR
-41000,41128,United Nations Office on Drugs and Crime,UNODC,Office des Nations Unies contre la drogue et le crime,UNODC
-41000,41311,United Nations Peacebuilding Fund (Window One:  Flexible Contributions Only),PBF Window 1,Fonds des Nations Unies pour la consolidation de la paix (Guichet un:  contributions sans conditions),PBF Guichet un
-41000,41141,United Nations Peacebuilding Fund (Window Two:  Restricted Contributions Only),PBF Window 2,Fonds des Nations Unies pour la consolidation de la paix (Guichet deux:  contributions réservées),PBF Guichet deux
-41000,41119,United Nations Population Fund,UNFPA,Fonds des Nations Unies pour la population,UNFPA
-41000,41501,United Nations Reducing Emissions from Deforestation and Forest Degradation,UN-REDD,,
-41000,41130,United Nations Relief and Works Agency for Palestine Refugees in the Near East,UNRWA,Office de secours et de travaux des Nations Unies pour les réfugiés de Palestine dans le Proche-Orient,UNRWA
-41000,41129,United Nations Research Institute for Social Development,UNRISD,Institut de recherche des Nations Unies pour le développement social,UNRISD
-41000,41133,United Nations Special Initiative on Africa,UNSIA,Initiative spéciale des Nations Unies pour l'Afrique,UNSIA
-41000,41131,United Nations System Staff College,UNSSC,Ecole des cadres du système des Nations Unies,UNSSC
-41000,41132,United Nations System Standing Committee on Nutrition,UNSCN,Comité permanent de la nutrition du système des Nations Unies,UNSCN
-41000,41134,United Nations University (including Endowment Fund),UNU,Université des Nations Unies (y compris le Fonds de dotation),UNU
-41000,41137,United Nations Voluntary Fund for Technical Co-operation in the Field of Human Rights,UNVFTC,Fonds de contributions volontaires des Nations Unies pour la coopération technique dans le domaine des droits de l'homme,
-41000,41138,United Nations Voluntary Fund for Victims of Torture,UNVFVT,Fonds de contributions volontaires des Nations Unies pour les victimes de la torture,
-41000,41136,United Nations Voluntary Fund on Disability,UNVFD,Fonds de contributions voluntaires des Nations Unies pour les handicapés,
-41000,41135,United Nations Volunteers,UNV,Programme des volontaires des Nations Unies,UNV
-41000,41306,Universal Postal Union,UPU,Union postale universelle,UPU
-41000,41140,World Food Programme,WFP,Programme alimentaire mondial,PAM
-41000,41307,World Health Organisation - assessed contributions,WHO-Assessed,Organisation mondiale de la santé - contributions obligatoires,OMS-obligatoires
-41000,41143,World Health Organisation - core voluntary contributions account,WHO-CVCA,Organisation mondiale de la santé - compte de contributions volontaires sans objet désigné,OMS-CVSOD
-41000,41308,World Intellectual Property Organisation,WIPO,Organisation mondiale de la propriété intellectuelle,OMPI
-41000,41309,World Meteorological Organisation,WMO,Organisation météorologique mondiale,OMM
-42000,42000,European Union Institution (EU),,Institution de l’Union européenne (UE),
-42000,42001,European Commission - Development Share of Budget,EC,Commission européenne - partie du budget affectée au développement,CE
-42000,42003,European Commission - European Development Fund,EDF,Commission européenne - Fonds européen de développement,FED
-42000,42004,European Investment Bank,EIB,Banque européenne d'investissement,BEI
-43000,43000,International Monetary Fund (IMF),,Fonds monétaire international (FMI),
-43000,43005,International Monetary Fund - Post-Catastrophe Debt Relief Trust,IMF-PCDR,Fonds monétaire international  - Fonds fiduciaire pour l'allégement de la dette après une catastrophe,FMI-ADAC
-43000,43002,"International Monetary Fund - Poverty Reduction and Growth - Heavily Indebted Poor Countries Debt Relief Initiative Trust Fund [includes HIPC, Extended Credit Facility (ECF), and ECF-HIPC sub-accounts]",IMF-PRG-HIPC,"Fonds monétaire international – Réduction de la pauvreté et croissance – Initiative d’allègement de la dette en faveur des pays pauvres très endettés [y compris Initiative PPTE, Facilité élargie de crédit (FEC) et sous-comptes (FEC-PPTE)]",FMI-FRPC-PPTE
-43000,43004,International Monetary Fund - Poverty Reduction and Growth - Multilateral Debt Relief Initiative Trust,IMF-PRG-MDRI,Fonds monétaire international – Facilité pour la réduction de la pauvreté et pour la croissance – Initiative d’allègement de la dette multilatérale,FMI-FRPC-IADM
-43000,43001,International Monetary Fund - Poverty Reduction and Growth Trust,IMF-PRGT,Fonds monétaire international – Facilité pour la réduction de la pauvreté et pour la croissance,FMI-FRPC
-43000,43003,International Monetary Fund - Subsidization of Emergency Post Conflict Assistance/Emergency Assistance for Natural Disasters for PRGT-eligible members,IMF-EPCA-ENDA,Fonds monétaire international – Aide d’urgence après un conflit (EPCA) et aide d’urgence à la suite de catastrophes naturelles (ENDA) pour les membres pouvant bénéficier de la FRPC,FMI-EPCA-ENDA
-43000,43006,Catastrophe Containment and Relief Trust,IMF-CCR,Fonds fiduciaire d’assistance et de riposte aux catastrophes,FMI-ARC
-44000,44000,World Bank Group (WB),,Groupe de la Banque mondiale (BM),
-44000,44006,Advance Market Commitments,AMCs,Garanties de marché,AMC
-44000,44001,International Bank for Reconstruction and Development,IBRD,Banque internationale pour la reconstruction et le développement,BIRD
-44000,44002,International Development Association,IDA,Association internationale de développement,IDA
-44000,44003,International Development Association - Heavily Indebted Poor Countries Debt Initiative Trust Fund,IDA-HIPC,Association internationale de développement - Fonds fiduciaire de l'IDA en faveur des pays pauvres très endettés,IDA-PPTE
-44000,44007,International Development Association - Multilateral Debt Relief Initiative,IDA-MDRI,Association internationale de développement - Initiative d’allégement de la dette multilatérale,IDA-IADM
-44000,44004,International Finance Corporation,IFC,Société financière internationale,SFI
-44000,44005,Multilateral Investment Guarantee Agency,MIGA,Agence multilatérale de garantie des investissements,AMGI
-45000,45000,World Trade Organisation,,Organisation mondiale du commerce (OMC),
-45000,45002,World Trade Organisation - Advisory Centre on WTO Law,WTO-ACWL,Centre consultatif sur la législation de l'Organisation mondiale du commerce,OMC-CCLO
-45000,45003,World Trade Organisation - Doha Development Agenda Global Trust Fund,WTO-DDAGTF,Organisation mondiale du commerce - Fonds global d'affectation spéciale pour le Programme de Doha pour le développement,
-45000,45001,World Trade Organisation - International Trade Centre,WTO-ITC,Centre du commerce international de l'Organisation mondiale du commerce,OMC-CCI
-46000,46000,Regional Development Bank,,Banque régionale de développement (BRD),
-46000,46002,African Development Bank,Afr.DB,Banque africaine de développement,BAfD
-46000,46003,African Development Fund,Afr.DF,Fonds africain de développement,FAD
-46000,46022,African Export Import Bank,Afreximbank,Banque Africaine d'Import-Export,Afreximbank
-46000,46008,Andean Development Corporation,CAF,Société andine de développement,CAF
-46000,46004,Asian Development Bank,AsDB,Banque asiatique de développement,BAsD
-46000,46005,Asian Development Fund,AsDF,Fonds asiatique de développement,FAsD
-46000,46006,Black Sea Trade and Development Bank,BSTDB,Black Sea Trade and Development Bank,BSTDB
-46000,46009,Caribbean Development Bank,CDB,Banque de développement des Caraïbes,BDC
-46000,46020,Central African States Development Bank,BDEAC,Banque de développement des États de l'Afrique Centrale,BDEAC
-46000,46007,Central American Bank for Economic Integration,CABEI,Banque centroaméricaine d'intégration économique,BCAIE
-46000,46024,Council of Europe Development Bank,CEB,Banque de Développement du Conseil de l'Europe,CEB
-46000,46023,Eastern and Southern African Trade and Development Bank,PTA Bank,Banque de l’Afrique de l’Est et de l’Afrique Australe pour le Commerce et le Développement,Banque de la ZEP
-46000,46015,European Bank for Reconstruction and Development,EBRD,Banque européenne pour la reconstruction et le développement,BERD
-46000,46018,European Bank for Reconstruction and Development - Early Transition Countries Fund,EBRD-ETC,Banque européenne de reconstruction et de développement - Initiative en faveur des pays en transition précoce,BERD-ETC
-46000,46017,European Bank for Reconstruction and Development – technical co-operation and special funds (all EBRD countries of operations),EBRD TFs - All Countries,Banque européenne pour la reconstruction et le développement - coopération technique et fonds spéciaux (tous pays),BERD-CTFS tous pays
-46000,46016,European Bank for Reconstruction and Development – technical co-operation and special funds (ODA-eligible countries only),EBRD TFs - ODA Countries Only,Banque européenne pour la reconstruction et le développement - coopération technique et fonds spéciaux (pays éligibles à l'APD),BERD-CTFS pays éligibles à l'APD
-46000,46019,European Bank for Reconstruction and Development - Western Balkans Joint Trust Fund,EBRD-WBJTF,Banque européenne de reconstruction et de développement - Fonds spécial pour les Balkans occidentaux,BERD-FSpBO
-46000,46013,"Inter-American Development Bank, Fund for Special Operations",IDB FSO,"Banque interaméricaine de développement, Fonds opérations spécial",BID FOS
-46000,46012,"Inter-American Development Bank, Inter-American Investment Corporation and Multilateral Investment Fund",IDB,"Banque interaméricaine de développement, Société interaméricaine d'investissements, Fonds multilatéral d'investissements",BID
-46000,46025,Islamic Development Bank,IsDB,Banque Islamique de Développement,BIsD
-46000,46021,West African Development Bank,BOAD,Banque ouest-africaine de développement,BOAD
-47000,47000,Other multilateral institution,,Autre institution multilatérale,
-47000,47111,Adaptation Fund,,Fonds pour l’adaptation,
-47000,47009,African and Malagasy Council for Higher Education,CAMES,Conseil africain et malgache pour l'enseignement supérieur,CAMES
-47000,47001,African Capacity Building Foundation,ACBF,Fondation pour le renforcement des capacités en Afrique,ACBF
-47000,47137,African Risk Capacity Group,ARC,Mutuelle panafricaine de gestion des risques,ARC
-47000,47141,African Tax Administration Forum,ATAF,Forum sur l’Administration Fiscale Africaine,ATAF
-47000,47005,African Union (excluding peacekeeping facilities),AU,Union Africaine (à l'exclusion de la Facilité de soutien à la paix),UA
-47000,21002,Agency for International Trade Information and Co-operation,AITIC,Agence de coopération et d'information pour le commerce international,ACICI
-47000,47002,Asian Productivity Organisation,APO,Organisation asiatique de productivité,APO
-47000,47109,Asia-Pacific Economic Cooperation Support Fund (except contributions tied to counter-terrorism activities),APEC ASF,Fonds de soutien de la coopération économique Asie-Pacifique (hors lutte contre le terrorisme),APEC-ASF
-47000,47068,Asia-Pacific Fishery Commission,APFIC,Commission Asie-Pacifique des pêches,APFIC
-47000,47003,Association of South East Asian Nations: Economic Co-operation,ASEAN,Association des nations de l'Asie du Sud-Est - coopération économique,ANASE
-47000,47011,Caribbean Community Secretariat,CARICOM,Secrétariat de la Communauté des Caraïbes,CARICOM
-47000,47012,Caribbean Epidemiology Centre,CAREC,Centre épidémiologique des Caraïbes,CAREC
-47000,47112,Central European Initiative - Special Fund for Climate and Environmental Protection,CEI-Climate Fund,Initiative de l’Europe centrale -  Fonds Spécial pour la protection climatique et environnementale,CEI-Climate Fund
-47000,47015,CGIAR Fund,CGIAR,CGIAR Fund,CGIAR
-47000,47134,Clean Technology Fund,CTF,Fonds pour les technologies propres,FTP
-47000,47027,Colombo Plan,CP,Plan de Colombo,CP
-47000,47105,Common Fund for Commodities,CFC,Fonds commun pour les produits de base,
-47000,47013,Commonwealth Foundation,CF,Fondation du Commonwealth,CF
-47000,47025,Commonwealth of Learning,COL,Commonwealth of Learning,COL
-47000,47132,Commonwealth Secretariat (ODA-eligible contributions only),,Secrétariat du Commonwealth (seulement les contributions éligibles à l'APD),
-47000,47026,Community of Portuguese Speaking Countries,CPLP,Communauté des pays de langue portugaise,CPLP
-47000,47022,Convention on International Trade in Endangered Species of Wild Flora and Fauna,CITES,Convention sur le commerce international des espèces de faune et de flore sauvages menacées d'extinction,CITES
-47000,47138,Council of Europe,CoE,Conseil de l’Europe,CoE
-47000,47037,Eastern-Regional Organisation of Public Administration,EROPA,Organisation régionale de l'Orient pour l'administration publique,EROPA
-47000,47113,Economic and Monetary Community of Central Africa,CEMAC,Communauté économique et monétaire de l’Afrique Centrale,CEMAC
-47000,47034,Economic Community of West African States,ECOWAS,Communauté économique des Etats de l’Afrique de l’Ouest,CEDEAO
-47000,47036,European and Mediterranean Plant Protection Organisation,EPPO,Organisation Européenne et Méditerranéenne pour la Protection des Plantes,OEPP
-47000,47504,Forest Carbon Partnership Facility,FCPF,,
-47000,47040,Forum Fisheries Agency,FFA,Agence des pêches,FFA
-47000,47106,Geneva Centre for the Democratic Control of Armed Forces,DCAF,Centre de contrôle démocratique des forces armées - Genève,DCAF
-47000,47123,Geneva International Centre for Humanitarian Demining,GICHD,Centre International de Déminage Humanitaire Genève,CIDHG
-47000,47503,Global Agriculture and Food Security Program,GAFSP,,
-47000,47122,Global Alliance for Vaccines and Immunization,GAVI,Alliance mondiale pour la vaccination et l’immunisation,GAVI
-47000,47129,Global Environment Facility - Least Developed Countries Fund,GEF-LDCF,FEM Fonds pour les pays les moins avancés,FEM - FPMA
-47000,47130,Global Environment Facility - Special Climate Change Fund,GEF-SCCF,FEM Fonds spécial pour les changements climatiques,FEM - FSpCC
-47000,47044,Global Environment Facility Trust Fund,GEF,Fonds pour l'environnement mondial - fonds fiduciaire,FEM
-47000,47502,Global Fund for Disaster Risk Reduction,GFDRR,,
-47000,47045,"Global Fund to Fight AIDS, Tuberculosis and Malaria",Global Fund,"Fonds mondial de lutte contre le SIDA, la tuberculose et la paludisme",Fonds mondial
-47000,47136,Global Green Growth Institute,GGGI,Institut mondial de la croissance verte,GGGI
-47000,47501,Global Partnership for Education,GPE,Partenariat Mondial pour l'Education,PME
-47000,47116,Integrated Framework for Trade-Related Technical Assistance to Least Developed Countries,IF,Cadre intégré pour l'assistance technique liée au commerce en faveur des pays les moins avancés,CI
-47000,47061,Inter-American Institute for Co-operation on Agriculture,IICA,Institut interaméricain de coopération pour l’agriculture,IICA
-47000,47065,Intergovernmental Oceanographic Commission,IOC,Commission océanographique intergouvernementale,COI
-47000,47067,Intergovernmental Panel on Climate Change,IPCC,Groupe d’experts intergouvernemental sur l’évolution du climat,GIEC
-47000,47019,International Centre for Advanced Mediterranean Agronomic Studies,CIHEAM,Centre international de hautes études agronomique méditerranéennes,CIHEAM
-47000,47050,International Cotton Advisory Committee,ICAC,Comité consultatif international du coton,CCIC
-47000,47059,International Development Law Organisation,IDLO,Organisation internationale de droit du développement,IDLO
-47000,30010,International drug purchase facility,UNITAID,Facilité internationale d'achat de médicaments,UNITAID
-47000,47107,International Finance Facility for Immunisation,IFFIm,Facilité internationale de financement pour la vaccination,IFFIm
-47000,47058,International Institute for Democracy and Electoral Assistance,IDEA,International Institute for Democracy and Electoral Assistance,IDEA
-47000,47064,International Network for Bamboo and Rattan,INBAR,Réseau International sur le bambou et le rotin,INBAR
-47000,47066,International Organisation for Migration,IOM,Organisation internationale des migrations,OIM
-47000,47046,International Organisation of the Francophonie,OIF,Organisation internationale de la Francophonie,OIF
-47000,47073,International Tropical Timber Organisation,ITTO,Organisation Internationale des Bois Tropicaux,OIBT
-47000,47074,International Vaccine Institute,IVI,Institut international de vaccins,IIV
-47000,47076,Justice Studies Centre of the Americas,JSCA,Centre d’études sur la justice dans les Amériques,JSCA
-47000,47127,Latin-American Energy Organisation,OLADE,Organisation latino-américaine de l'énergie,OLADE
-47000,47077,Mekong River Commission,MRC,Commission du Mékong,MRC
-47000,47078,Multilateral Fund for the Implementation of the Montreal Protocol,Montreal Protocol,Fonds multilatéral pour l’application du Protocole de Montréal,Protocol de Montréal
-47000,47117,New Partnership for Africa's Development,NEPAD,Nouveau Partenariat pour le développement de l’Afrique,NEPAD
-47000,47128,Nordic Development Fund,NDF,Nordic Development Fund,NDF
-47000,47081,OECD Development Centre,OECD-Dev. Centre,OCDE Centre de développement,OCDE-Centre de dév.
-47000,47142,OPEC Fund for International Development,OFID,Le Fonds OPEP pour le développement international,OFID
-47000,47080,Organisation for Economic Co-operation and Development (Contributions to special funds for Technical Co-operation Activities Only),OECD,Organisation de Coopération et de développement économiques (contributions aux fonds spéciaux pour les activités de coopération technique uniquement),OCDE
-47000,47079,Organisation of American States,OAS,Organisation des États américains,OEA
-47000,47082,Organisation of Eastern Caribbean States,OECS,Organisation des États des Caraïbes orientales,OECO
-47000,47140,"Organisation of Ibero-American States for Education, Science and Culture",OEI,Organización de Estados Iberoamericanos,
-47000,47110,Organisation of the Black Sea Economic Cooperation,BSEC,Organisation de coopération économique de la mer Noire,BSEC
-47000,47131,Organization for Security and Co-operation in Europe,OSCE,Organisation pour la sécurité et la oopération en Europe,OSCE
-47000,47087,Pacific Islands Forum Secretariat,PIFS,Secrétariat du Forum des Iles du Pacifique,SFIP
-47000,47097,Pacific Regional Environment Programme,SPREP,Programme régional océanien de l’environnement,PROE
-47000,47083,Pan-American Health Organisation,PAHO,Organisation panaméricaine de la santé,OPS
-47000,47084,Pan-American Institute of Geography and History,PAIGH,Institut panaméricain de géographie et d’histoire,PAIGH
-47000,47086,Private Infrastructure Development Group,PIDG,Private Infrastructure Development Group,PIDG
-47000,47118,Regional Organisation for the Strengthening of Supreme Audit Institutions of Francophone Sub-Saharan Countries,CREFIAF,Conseil Régional de Formation des Institutions Supérieures de Contrôle des Finances Publiques d’Afrique Francophone Subsaharienne,CREFIAF
-47000,47119,Sahara and Sahel Observatory,OSS,Observatoire du Sahara et du Sahel,OSS
-47000,47029,Sahel and West Africa Club,SWAC,Club du Sahel et de l’Afrique de l’Ouest,CSAO
-47000,47096,Secretariat of the Pacific Community,SPC,Secrétariat Général de la Communauté du Pacifique,CPS
-47000,47120,South Asian Association for Regional Cooperation,SAARC,Association de l'Asie du Sud pour la coopération régionale,SAARC
-47000,47092,South East Asian Fisheries Development Centre,SEAFDC,Centre de développement des pêches de l’Asie du Sud-Est,SEAFDC
-47000,47093,South East Asian Ministers of Education,SEAMEO,Organisation des Ministres de l’éducation de l’Asie du Sud-Est,SEAMEO
-47000,47095,South Pacific Board for Educational Assessment,SPBEA,Conseil d’évaluation du Pacifique Sud pour l'éducation,SPBEA
-47000,47089,Southern African Development Community,SADC,Communauté pour le développement de l’Afrique australe,SADC
-47000,47135,Strategic Climate Fund,SCF,Fonds stratégique pour le climat,FSC
-47000,47121,United Cities and Local Governments of Africa,UCLGA,Cités et gouvernements locaux unis d’Afrique,CGLUA
-47000,47098,Unrepresented Nations and Peoples’ Organisation,UNPO,Organisation des peuples et des nations non représentés,UNPO
-47000,47100,West African Monetary Union,WAMU,Union monétaire ouest-africaine,UMOA
-47000,47139,World Customs Organization Customs Co-operation Fund,WCO CCF,Organisation Mondiale des Douanes Fonds de coopération douanière,OMD CCF
-47000,47143,Global Community Engagement and Resilience Fund,GCERF,Fonds mondial pour l’engagement de la communauté et la résilience,GCERF
-47000,47144,International Renewable Energy Agency,IRENA,Agence internationale pour les energies renouvelables,IRENA
-50000,50000,OTHER,,AUTRE,
-51000,51000,"University, college or other teaching institution, research institute or think‑tank",,"Université, institut d’éducation et autre institution d’enseignement, institut de recherche ou groupe de réflexion",
-51000,47101,Africa Rice Centre,WARDA,Centre du riz pour l’Afrique,ADRAO
-51000,47069,Bioversity International,,Bioversity International,
-51000,47018,Centre for International Forestry Research,CIFOR,Centre de recherche forestière internationale,CIFOR
-51000,21004,Council for the Development of Economic and Social Research in Africa,CODESRIA,Conseil pour le développement de la recherche en sciences sociales en Afrique,CODESRIA
-51000,47041,Food and Fertilizer Technology Centre,FFTC,Centre des techniques de l'alimentation et des engrais,FFTC
-51000,21009,Forum for Agricultural Research in Africa,FARA,Forum pour la recherche agricole en Afrique,FARA
-51000,47047,International African Institute,IAI,Institut international africain,IIA
-51000,47051,International Centre for Agricultural Research in Dry Areas,ICARDA,Centre international de recherche agricole dans les zones arides,ICARDA
-51000,47055,International Centre for Development Oriented Research in Agriculture,ICRA,Centre International pour la Recherche Agricole orientée vers le développement,ICRA
-51000,47053,"International Centre for Diarrhoeal Disease Research, Bangladesh","ICDDR,B","International Centre for Diarrhoeal Disease Research, Bangladesh","ICDDR,B"
-51000,47017,International Centre for Tropical Agriculture,CIAT,Centre international d'agriculture tropicale,CIAT
-51000,47054,International Centre of Insect Physiology and Ecology,ICIPE,Centre international sur la physiologie et l’écologie des insectes,ICIPE
-51000,47057,International Crop Research for Semi-Arid Tropics,ICRISAT,Institut international de recherche sur les cultures des zones tropicales semi-arides,ICRISAT
-51000,51001,International Food Policy Research Institute,IFPRI,Institut International de Recherche sur les Politiques Alimentaires,IFPRI
-51000,21021,International Institute for Environment and Development,IIED,Institut international pour l’environnement et le développement,IIED
-51000,21039,International Institute for Sustainable Development,IISD,Institut international de développement durable,IIDD
-51000,47062,International Institute of Tropical Agriculture,IITA,Institut international d’agriculture tropicale,IITA
-51000,47063,International Livestock Research Institute,ILRI,International Livestock Research Institute,ILRI
-51000,47020,International Maize and Wheat Improvement Centre,CIMMYT,Centre international d’amélioration du maïs et du blé,CIMMYT
-51000,47021,International Potato Centre,CIP,Centre international de la pomme de terre,CIP
-51000,47070,International Rice Research Institute,IRRI,Institut international de recherche sur le riz,IIRR
-51000,47071,International Seed Testing Association,ISTA,Association internationale d’essais de semences,ISTA
-51000,47075,International Water Management Institute,IWMI,Institut international de gestion des ressources en eau,IWMI
-51000,47099,University of the South Pacific,USP,Université du Pacifique Sud,USP
-51000,47056,World AgroForestry Centre,ICRAF,Centre mondial de l’agroforesterie,ICRAF
-51000,47103,World Maritime University,WMU,Université maritime mondiale,UMM
-51000,47008,World Vegetable Centre,AVRDC,Centre international de cultures maraîchères,AVRDC
-51000,47104,WorldFish Centre,WorldFish Centre,Centre international pour l’aménagement des ressources bioaquatiques,WorldFish Centre
-60000,60000,Private sector institution,,Institutions du Secteur Privé,
-61000,61000,Private sector in provider country,,Secteur privé du pays donneur,
-61000,61001,Private bank in provider country,,Banque privée dans le pays donneur,
-61000,61002,Private exporter in provider country,,Exportateur privé dans le pays donneur,
-61000,61003,Private investor in provider country,,Investisseur privé dans le pays donneur,
-61000,61004,Other non-bank entity in provider country,,Autre entité non-bancaire dans le pays donneur,
-62000,62000,Private sector in recipient country,,Secteur privé du pays bénéficiaire,
-62000,62001,Private bank in recipient country,,Banque privée dans le pays bénéficiaire,
-62000,62002,Joint-venture in recipient country,,Co-entreprise dans le pays bénéficiaire,
-62000,62003,Other non-bank in recipient country,,Autre entité non-bancaire dans le pays bénéficiaire,
-63000,63000,Private sector in third country,,Secteur privé d'un pays tiers,
-63000,63001,Private bank in third country,,Banque privée d'un pays tiers,
-63000,63002,Private non-bank in third country,,Secteur privé non-bancaire dans le pays bénéficiaire,
-90000,90000,Other,,Autre,
+b'10000',b'10000',b'PUBLIC SECTOR INSTITUTIONS',b'',b'INSTITUTIONS DU SECTEUR PUBLIC',b''
+b'11000',b'11000',b'Donor Government',b'',b'Gouvernement du donneur',b''
+b'11000',b'11001',b'Central Government',b'',b'Gouvernment central',b''
+b'11000',b'11002',b'Local Government',b'',b'Gouvernment local',b''
+b'11000',b'11003',b'Public corporations',b'',b'Entreprise publique',b''
+b'11000',b'11004',b'Other public entities in donor country',b'',b'Autres entit\xc3\xa9 publique dans le pays donneur',b''
+b'12000',b'12000',b'Recipient Government',b'',b'Gouvernement du b\xc3\xa9n\xc3\xa9ficiaire',b''
+b'12000',b'12001',b'Central Government',b'',b'Gouvernment central',b''
+b'12000',b'12002',b'Local Government',b'',b'Gouvernment local',b''
+b'12000',b'12003',b'Public corporations',b'',b'Entreprise publique',b''
+b'12000',b'12004',b'Other public entities in recipient country',b'',b'Autres entit\xc3\xa9 publique dans le pays b\xc3\xa9n\xc3\xa9ficiaire',b''
+b'13000',b'13000',b'Third Country Government (Delegated co-operation)',b'',b'Gouvernement tiers (coop\xc3\xa9ration d\xc3\xa9l\xc3\xa9gu\xc3\xa9e)',b''
+b'20000',b'20000',b'NON-GOVERNMENTAL ORGANISATIONS (NGOs) AND CIVIL SOCIETY',b'',b'ORGANISATIONS NON GOUVERNEMENTALES (ONG) et SOCI\xc3\x89T\xc3\x89 CIVILE',b''
+b'21000',b'21000',b'INTERNATIONAL NGO',b'',b'ONG INTERNATIONALE',b''
+b'21000',b'21045',b'African Medical and Research Foundation',b'AMREF',b'Fondation africaine pour la m\xc3\xa9decine et la recherche',b'AMREF'
+b'21000',b'21046',b'Agency for Cooperation and Research in Development',b'ACORD',b'Association de Coop\xc3\xa9ration et de Recherche pour le D\xc3\xa9veloppement',b'ACORD'
+b'21000',b'21001',b'Association of Geoscientists for International Development',b'AGID',b'Association de g\xc3\xa9oscientifiques pour le d\xc3\xa9veloppement international',b'AGID'
+b'21000',b'21005',b'Consumer Unity and Trust Society International',b'CUTS',b'Consumer Unity and Trust Society International',b'CUTS'
+b'21000',b'21029',b'Doctors Without Borders',b'MSF',b'M\xc3\xa9decins Sans Fronti\xc3\xa8res',b'MSF'
+b'21000',b'47035',b'Environmental Development Action in the Third World',b'ENDA',b'Environnement et d\xc3\xa9veloppement du Tiers-monde',b'ENDA'
+b'21000',b'21007',b'Environmental Liaison Centre International',b'ELCI',b'Centre international de liaison pour l\xe2\x80\x99environnement',b'CILE'
+b'21000',b'21503',b'Family Health International 360',b'FHI360',b'',b''
+b'21000',b'21011',b'Global Campaign for Education',b'GCE',b'Campagne mondiale pour l\xe2\x80\x99\xc3\xa9ducation',b'CME'
+b'21000',b'21013',b'Health Action International',b'HAI',b'Health Action International',b'HAI'
+b'21000',b'21024',"b'Inter Press Service, International Association'",b'IPS',"b'Inter Press Service, International Association'",b'IPS'
+b'21000',b'21038',b'International Alert',b'',b'International Alert',b''
+b'21000',b'21057',b'International Centre for Transitional Justice',b'ICTJ',b'Centre International pour la Justice Transitionnelle',b'ICTJ'
+b'21000',b'21016',b'International Committee of the Red Cross',b'ICRC',b'Comit\xc3\xa9 international de la Croix-Rouge',b'CICR'
+b'21000',b'21044',b'International Council for the Control of Iodine Deficiency Disorders',b'ICCIDD',b'Conseil international pour la lutte contre les troubles dus \xc3\xa0 une carence en iode',b'ICCIDD'
+b'21000',b'21018',b'International Federation of Red Cross and Red Crescent Societies',b'IFRCRCS',b'F\xc3\xa9d\xc3\xa9ration internationale des Soci\xc3\xa9t\xc3\xa9s de la Croix-Rouge et du Croissant-Rouge',b'FISCRCR'
+b'21000',b'21020',b'International HIV/AIDS Alliance',b'',b'International HIV/AIDS Alliance',b''
+b'21000',b'21022',b'International Network for Alternative Financial Institutions',b'INAFI',b'R\xc3\xa9seau international d\xe2\x80\x99institutions financi\xc3\xa8res',b'INAFI'
+b'21000',b'21042',b'International Peacebuilding Alliance',b'Interpeace',b'Alliance internationale pour la consolidation de la paix',b'Interpeace'
+b'21000',b'21023',b'International Planned Parenthood Federation',b'IPPF',b'F\xc3\xa9d\xc3\xa9ration internationale pour le planning familial',b'IPPF'
+b'21000',b'21061',b'International Rehabilitation Council for Torture',b'IRTC',b'Conseil international de r\xc3\xa9habilitation pour les victimes de torture',b'IRTC'
+b'21000',b'21504',b'International Relief and Development',b'IRD',b'',b''
+b'21000',b'21506',b'International Rescue Committee',b'IRC',b'',b''
+b'21000',b'21034',b'International Union Against Tuberculosis and Lung Disease',b'UNION',b'Union Internationale Contre la Tuberculose et les Maladies Respiratoires',b'UNION'
+b'21000',b'21053',"b'IPAS-Protecting Women\xe2\x80\x99s Health, Advancing Women\xe2\x80\x99s Reproductive Rights'",b'',"b'IPAS-Protecting Women\xc2\x92s Health, Advancing Women\xc2\x92s Reproductive Rights'",b''
+b'21000',b'21054',b'Life and Peace Institute',b'LPI',b'Institut Vie et Paix',b'IVP'
+b'21000',b'21501',b'OXFAM International',b'OXFAM-I',b'',b''
+b'21000',b'21507',b'Pact World',b'PACT',b'',b''
+b'21000',b'21031',b'PANOS Institute',b'PANOS',b'Institut PANOS',b'PANOS'
+b'21000',b'21032',b'Population Services International',b'PSI',b'Organisation internationale pour les services en mati\xc3\xa8re de population',b'PSI'
+b'21000',b'21505',b'Save the Children',b'',b'',b''
+b'21000',b'21041',b'Society for International Development',b'SID',b'Soci\xc3\xa9t\xc3\xa9 pour le d\xc3\xa9veloppement international',b'SDI'
+b'21000',b'21062',b'The Nature Conservancy',b'TNC',b'The Nature Conservancy',b'TNC'
+b'21000',b'21036',b'World University Service',b'WUS',b'Entraide universitaire mondiale',b'EUM'
+b'21000',b'21502',b'World Vision',b'',b'',b''
+b'22000',b'22000',b'Donor country-based NGO',b'',b'ONG bas\xc3\xa9e dans un pays donneur',b''
+b'22000',b'21047',b'AgriCord',b'',b'AgriCord',b''
+b'22000',b'21060',b'Association for the Prevention of Torture',b'APT',b'Association pour la pr\xc3\xa9vention de la torture',b'APT'
+b'22000',b'21006',b'Development Gateway Foundation',b'',b'Development Gateway Foundation',b''
+b'22000',b'21049',b'European Centre for Development Policy Management',b'ECDPM',b'Centre europ\xc3\xa9en de gestion de politiques de d\xc3\xa9veloppement',b'ECDPM'
+b'22000',b'21008',b'Eurostep',b'Eurostep',b'Eurostep',b'Eurostep'
+b'22000',b'47042',b'Foundation for International Training',b'FIT',b'Fondation pour la formation internationale dans les pays du tiers monde',b'FIT'
+b'22000',b'21050',b'Geneva Call',b'',b'Appel de Gen\xc3\xa8ve',b''
+b'22000',b'21014',b'Human Rights Information and Documentation Systems',b'HURIDOCS',b'Syst\xc3\xa8mes d\xe2\x80\x99Information et de Documentation sur les Droits de l\xe2\x80\x99Homme',b'HURIDOCS'
+b'22000',b'21015',b'International Catholic Rural Association',b'ICRA',b'Association internationale rurale catholique',b'ICRA'
+b'22000',b'21058',b'International Crisis Group',b'ICG',b'International Crisis Group',b'ICG'
+b'22000',b'21019',b'International Federation of Settlements and Neighbourhood Centres',b'IFS',b'F\xc3\xa9d\xc3\xa9ration internationale des centres sociaux et communautaires',b'IFS'
+b'22000',b'21025',b'International Seismological Centre',b'ISC',b'Centre s\xc3\xa9ismologique international',b'ISC'
+b'22000',b'21026',b'International Service for Human Rights',b'ISHR',b'Service International pour les Droits de l\xe2\x80\x99Homme',b'ISHR'
+b'22000',b'21027',b'International Trust Fund for Demining and Mine Victims Assistance',b'ITF',b'Fonds international d\xe2\x80\x99affectation sp\xc3\xa9ciale pour le d\xc3\xa9minage et l\xe2\x80\x99assistance aux victimes des mines',b'ITF'
+b'22000',b'21040',"b""International Women's Tribune Centre""",b'IWTC',b'Centre de la tribune internationale de la femme',b'CTIF'
+b'22000',b'22501',b'OXFAM - provider country office',b'OXFAM',b'',b''
+b'22000',b'22502',b'Save the Children - donor country office',b'',b'',b''
+b'22000',b'21033',b'Transparency International',b'TI',b'Transparency International',b'TI'
+b'22000',b'21037',"b""Women's World Banking""",b'WWB',b'Banque mondiale des femmes',b'WWB'
+b'22000',b'21035',b'World Organisation Against Torture',b'OMCT',b'Organisation mondiale contre la torture',b'OMCT'
+b'23000',b'23000',b'Developing country-based NGO',b'',b'ONG bas\xc3\xa9e dans un pays en d\xc3\xa9veloppement',b''
+b'23000',b'21059',b'Africa Solidarity Fund',b'ASF',"b""Fonds solidaire pour l'Afrique""",b'ASF'
+b'23000',b'21048',b'Association of African Universities',b'AAU',b'Association des universit\xc3\xa9s africaines',b'AUA'
+b'23000',b'21010',b'Forum for African Women Educationalists',b'FAWE',b'Forum des \xc3\xa9ducatrices africaines',b'FAWE'
+b'23000',b'21051',b'Institut Sup\xc3\xa9rieur Panafricaine d\xe2\x80\x99Economie Coop\xc3\xa9rative',b'ISPEC',b'Institut sup\xc3\xa9rieur panafricaine d\xe2\x80\x99economie coop\xc3\xa9rative',b'ISPEC'
+b'23000',b'21028',b'International University Exchange Fund - IUEF Stip. in Africa and Latin America',b'IUEF',b'Fonds international d\xe2\x80\x99\xc3\xa9changes universitaires - \xc3\x89changes int\xc3\xa9ressant l\xe2\x80\x99Afrique et l\xe2\x80\x99Am\xc3\xa9rique latine',b'FIEU'
+b'23000',b'21003',b'Latin American Council for Social Sciences',b'CLASCO',b'Conseil latino-am\xc3\xa9ricain des sciences sociales',b'CLASCO'
+b'23000',b'21030',b'Pan African Institute for Development',b'PAID',b'Institut panafricain pour le d\xc3\xa9veloppement',b'IPD'
+b'23000',b'21055',b'Regional AIDS Training Network',b'RATN',b'R\xc3\xa9seau r\xc3\xa9gional de formation sur le SIDA',b'RRFS'
+b'30000',b'30000',b'PUBLIC-PRIVATE PARTNERSHIPS (PPPs) and NETWORKS',b'',b'PARTENARIATS PUBLIC-PRIV\xc3\x89 ET R\xc3\x89SEAUX',b''
+b'31000',b'31000',b'Public-Private Partnership (PPP)',b'',b'Partenariat public-priv\xc3\xa9 (PPP)',b''
+b'31000',b'30008',b'Cities Alliance',b'',b'Alliance pour les villes',b''
+b'31000',b'30016',b'European Fund for Southeast Europe',b'EFSE',b'European Fund for Southeast Europe',b'EFSE'
+b'31000',b'30007',b'Global Alliance for ICT and Development',b'GAID',b'Alliance mondiale pour les TIC et le d\xc3\xa9veloppement',b'GAID'
+b'31000',b'30001',b'Global Alliance for Improved Nutrition',b'GAIN',b'Alliance mondiale pour une meilleure nutrition',b'GAIN'
+b'31000',b'30012',b'Global Climate Partnership Fund',b'GCPF',b'Global Climate Partnership Fund',b'GCPF'
+b'31000',b'47043',b'Global Crop Diversity Trust',b'',b'Global Crop Diversity Trust',b''
+b'31000',b'30015',b'Global Energy Efficiency and Renewable Energy Fund',b'GEEREF',"b""Fonds mondial pour la promotion de l\xc2\x92'efficacit\xc3\xa9 \xc3\xa9nerg\xc3\xa9tique et des \xc3\xa9nergies renouvelables""",b'GEEREF'
+b'31000',b'30003',b'Global e-Schools and Communities Initiative',b'GeSCI',b'Initiative mondiale en faveur de l\xe2\x80\x99informatique dans les \xc3\xa9coles et dans les communaut\xc3\xa9s',b'GeSCI'
+b'31000',b'30004',b'Global Water Partnership',b'GWP',"b""Partenariat mondial pour l'eau""",b'GWP'
+b'31000',b'30005',b'International AIDS Vaccine Initiative',b'IAVI',b'Initiative internationale pour un vaccin contre le SIDA',b'IAVI'
+b'31000',b'30006',b'International Partnership on Microbicides',b'IPM',b'Partenariat international pour des microbicides',b'IPM'
+b'31000',b'30011',b'International Union for the Conservation of Nature',b'IUCN',b'Union internationale pour la conservation de la nature',b'UICN'
+b'31000',b'30013',b'Microfinance Enhancement Facility',b'MEF',b'M\xc3\xa9canisme de soutien au microfinancement',b'MEF'
+b'31000',b'30014',"b'Regional Micro, Small and Medium Enterprise Investment Fund for Sub-Saharan Africa'",b'REGMIFA',"b'Fonds r\xc3\xa9gional d\xe2\x80\x99investissement pour les tr\xc3\xa8s petites, petites et moyennes entreprises d\xe2\x80\x99Afrique subsaharienne'",b'REGMIFA'
+b'31000',b'21056',b'Renewable Energy and Energy Efficiency Partnership',b'REEEP',"b""Partenariat pour les \xc3\xa9nergies renouvelables et l\xc2\x92'efficience \xc3\xa9nerg\xc3\xa9tique""",b'REEEP'
+b'31000',b'30017',"b'SANAD Fund for Micro, Small and Medium Enterprises'",b'SANAD',"b'SANAD Fund for Micro, Small and Medium Enterprises'",b'SANAD'
+b'31000',b'30009',b'Small Arms Survey',b'SAS',b'Small Arms Survey',b'SAS'
+b'32000',b'32000',b'Network',b'',b'R\xc3\x89SEAU',b''
+b'32000',b'47010',b'Commonwealth Agency for Public Administration and Management',b'CAPAM',"b""Agence du Commonwealth pour l'administration et la gestion publiques""",b'CAPAM'
+b'32000',b'47028',b'Commonwealth Partnership for Technical Management',b'CPTM',b'Partenariat pour la gestion technique (Commonwealth)',b'CPTM'
+b'32000',b'21043',b'European Parliamentarians for Africa',b'AWEPA',b'Association des parlementaires d\xe2\x80\x99Europe pour l\xe2\x80\x99Afrique',b'AWEPA'
+b'32000',b'31004',b'Extractive Industries Transparency Initiative International Secretariat',b'EITI',"b""Secr\xc3\xa9tariat de l'Initiative pour la transparence dans les industries extractives""",b'ITIE'
+b'32000',b'31001',b'Global Development Network',b'GDN',b'R\xc3\xa9seau de d\xc3\xa9veloppement mondial',b'GDN'
+b'32000',b'31002',b'Global Knowledge Partnership',b'GKP',b'Alliance mondiale pour le savoir',b'GKP'
+b'32000',b'21017',b'International Centre for Trade and Sustainable Development',b'ICTSD',b'Centre international de commerce et de d\xc3\xa9veloppement durable',b'ICTSD'
+b'32000',b'31003',b'International Land Coalition',b'ILC',"b""Coalition internationale pour l'acc\xc3\xa8s \xc3\xa0 la terre""",b'ILC'
+b'32000',b'31005',b'Parliamentary Network on the World Bank',b'PNoWB',b'R\xc3\xa9seau parlementaire sur la Banque mondaile',b'RPsBM'
+b'40000',b'40000',b'MULTILATERAL ORGANISATIONS',b'',b'ORGANISATIONS MULTILAT\xc3\x89RALES',b''
+b'41000',b'41000',"b'United Nations agency, fund or commission (UN)'",b'',"b'Agence, fonds ou commission des Nations unies (NU)'",b''
+b'41000',b'41147',b'Central Emergency Response Fund',b'CERF',"b""Fonds central pour les interventions d'urgence""",b'CERF'
+b'41000',b'41101',b'Convention to Combat Desertification',b'UNCCD',b'Convention sur la lutte contre la d\xc3\xa9sertification',b'CCD'
+b'41000',b'41102',b'Desert Locust Control Organisation for Eastern Africa',b'DLCO-EA',"b""Organisation de lutte contre le criquet p\xc3\xa8lerin dans l'Est Africain""",b'OLCP-EA'
+b'41000',b'41106',b'Economic and Social Commission for Asia and the Pacific',b'ESCAP',"b""Commission \xc3\xa9conomique et sociale pour l'Asie et le Pacifique""",b'CESAP'
+b'41000',b'41105',b'Economic and Social Commission for Western Asia',b'ESCWA',"b""Commission \xc3\xa9conomique et sociale pour l'Asie occidentale""",b'CESAO'
+b'41000',b'41103',b'Economic Commission for Africa',b'ECA',"b""Commission \xc3\xa9conomique pour l'Afrique""",b'CEA'
+b'41000',b'41104',b'Economic Commission for Latin America and the Caribbean',b'ECLAC',"b""Commission \xc3\xa9conomique pour l'Am\xc3\xa9rique latine et les Cara\xc3\xafbes""",b'CEPALC'
+b'41000',b'41301',b'Food and Agricultural Organisation',b'FAO',"b""Organisation des Nations Unies pour l'alimentation et l'agriculture""",b'FAO'
+b'41000',b'41318',b'Global Mechanism',b'GM',b'M\xc3\xa9canisme mondial',b'MM'
+b'47000',b'41317',b'Green Climate Fund',b'GCF',b'Fonds vert pour le climat',b'GCF'
+b'41000',b'41312',b'International Atomic Energy Agency - assessed contributions',b'IAEA-Assessed',"b""Agence internationale de l'\xc3\xa9nergie atomique - contributions obligatoires""",b'AIEA-obligatoires'
+b'41000',b'41107',b'International Atomic Energy Agency (Contributions to Technical Cooperation Fund Only)',b'IAEA-TCF',"b""Agence internationale de l'\xc3\xa9nergie atomique (Contributions au Fonds de Coop\xc3\xa9ration Technique uniquement)""",b'AIEA-FTC'
+b'41000',b'41108',b'International Fund for Agricultural Development',b'IFAD',b'Fonds international de d\xc3\xa9veloppement agricole',b'FIDA'
+b'41000',b'41302',b'International Labour Organisation - Assessed Contributions',b'ILO-Assessed',b'Organisation internationale du travail - contributions obligatoires',b'OIT-Obligatoires'
+b'41000',b'41144',b'International Labour Organisation - Regular Budget Supplementary Account',b'ILO-RBSA',b'Organisation internationale du Travail - Compte suppl\xc3\xa9mentaire du budget ordinaire',b'OIT-CSBO'
+b'41000',b'41145',b'International Maritime Organization - Technical Co-operation Fund',b'IMO-TCF',b'Organisation maritime internationale - Programme int\xc3\xa9gr\xc3\xa9 de coop\xc3\xa9ration technique',b'OMI-PICT'
+b'41000',b'41303',b'International Telecommunications Union',b'ITU',b'Union internationale des t\xc3\xa9l\xc3\xa9communications',b'UIT'
+b'41000',b'41110',b'Joint United Nations Programme on HIV/AIDS',b'UNAIDS',b'Programme commun des Nations Unies sur le VIH/SIDA',b'ONUSIDA'
+b'41000',b'41305',b'United Nations',b'UN',b'Organisation des Nations Unies',b'ONU'
+b'41000',b'41111',b'United Nations Capital Development Fund',b'UNCDF',b'Fonds d\xe2\x80\x99\xc3\xa9quipement des Nations Unies',b'FENU'
+b'41000',b'41122',b'United Nations Children\xe2\x80\x99s Fund',b'UNICEF',"b""Fonds des Nations Unies pour l'enfance""",b'UNICEF'
+b'41000',b'41112',b'United Nations Conference on Trade and Development',b'UNCTAD',b'Conf\xc3\xa9rence des Nations Unies sur le commerce et le d\xc3\xa9veloppement',b'CNUCED'
+b'41000',b'41142',b'United Nations Democracy Fund',b'UNDEF',b'Fonds des Nations Unies pour la d\xc3\xa9mocratie',b'FNUD'
+b'41000',b'41310',"b'United Nations Department of Peacekeeping Operations [only MINURSO, MINUSCA, MINUSMA, MINUSTAH, MONUSCO, UNAMID, UNIFIL, UNIFSA, UNMIK, UNMIL, UNMISS, UNOCI]. Report contributions mission by mission in CRS++.'",b'UNDPKO',"b'D\xc3\xa9partement des op\xc3\xa9rations de maintien de la paix des Nations unies [seulement MINURSO, MINUSCA, MINUSMA, MINUSTAH, MONUSCO, MINUAD, FINUL, FISNUA, MINUK, MINUL, UNMISS, ONUCI]. Notifier les contributions mission par mission au format SNPC++.'",b'UNDPKO'
+b'41000',b'41148',"b'United Nations Department of Political Affairs, Trust Fund in Support of Political Affairs'",b'UNDPA-SZA',"b'D\xc3\xa9partement des affaires politiques des Nations unies, fonds fiduciaire de soutien aux affaires politiques'",b'UNDPA-SZA'
+b'41000',b'41114',b'United Nations Development Programme',b'UNDP',b'Programme des Nations Unies pour le d\xc3\xa9veloppement',b'PNUD'
+b'41000',b'41314',b'United Nations Economic Commission for Europe (extrabudgetary contributions only)',b'UNECE',"b""Commission \xc3\xa9conomique des Nations unies pour l'Europe (contributions extrabudg\xc3\xa9taires uniquement)""",b'CEE-ONU'
+b'41000',b'41304',"b'United Nations Educational, Scientific and Cultural Organisation'",b'UNESCO',"b'Organisation des Nations Unies pour l\xe2\x80\x99\xc3\xa9ducation, la science et la culture'",b'UNESCO'
+b'41000',b'41146',b'United Nations Entity for Gender Equality and the Empowerment of Women',b'UNWOMEN',"b""Entit\xc3\xa9 des Nations Unies pour l'\xc3\xa9galit\xc3\xa9 des sexes et l'autonomisation de la femme""",b'ONU Femmes'
+b'41000',b'41116',b'United Nations Environment Programme',b'UNEP',"b""Programme des Nations Unies pour l'environnement""",b'PNUE'
+b'41000',b'41316',b'United Nations Framework Convention on Climate Change',b'UNFCCC',b'Convention-cadre des Nations unies sur les changements climatiques',b'CCNUCC'
+b'41000',b'41313',b'United Nations High Commissioner for Human Rights (extrabudgetary contributions only)',b'OHCHR',"b""Haut-Commissariat des Nations unies aux droits de l'homme (contributions extrabudg\xc3\xa9taires uniquement)""",b'HCDH'
+b'41000',b'41120',b'United Nations Human Settlement Programme',b'UN Habitat',b'Programme des Nations Unies pour les \xc3\xa9tablissements humains',b'UN Habitat'
+b'41000',b'41123',b'United Nations Industrial Development Organisation',b'UNIDO',b'Organisation des Nations Unies pour le d\xc3\xa9veloppement industriel',b'ONUDI'
+b'41000',b'41125',b'United Nations Institute for Training and Research',b'UNITAR',b'Institut des Nations Unies pour la formation et la recherche',b'UNITAR'
+b'41000',b'41315',b'United Nations International Strategy for Disaster Reduction',b'UNISDR',b'Strat\xc3\xa9gie internationale des Nations Unies pour la pr\xc3\xa9vention de catastrophes',b'UNISDR'
+b'41000',b'41126',b'United Nations Mine Action Service',b'UNMAS',"b""Service de l'action antimines des Nations Unies""",b'UNMAS'
+b'41000',b'41502',b'United Nations Office for Project Services',b'UNOPS',"b""Le Bureau des Nations Unies pour les services d'appui aux projets""",b'UNOPS'
+b'41000',b'41127',b'United Nations Office of Co-ordination of Humanitarian Affairs',b'UNOCHA',"b""Bureau des Nations Unies pour la coordination de l'assistance humanitaire""",b'OCHA'
+b'41000',b'41121',b'United Nations Office of the United Nations High Commissioner for Refugees',b'UNHCR',b'Haut Commissariat des Nations Unies pour les r\xc3\xa9fugi\xc3\xa9s',b'HCR'
+b'41000',b'41128',b'United Nations Office on Drugs and Crime',b'UNODC',b'Office des Nations Unies contre la drogue et le crime',b'UNODC'
+b'41000',b'41311',b'United Nations Peacebuilding Fund (Window One:  Flexible Contributions Only)',b'PBF Window 1',b'Fonds des Nations Unies pour la consolidation de la paix (Guichet un:  contributions sans conditions)',b'PBF Guichet un'
+b'41000',b'41141',b'United Nations Peacebuilding Fund (Window Two:  Restricted Contributions Only)',b'PBF Window 2',b'Fonds des Nations Unies pour la consolidation de la paix (Guichet deux:  contributions r\xc3\xa9serv\xc3\xa9es)',b'PBF Guichet deux'
+b'41000',b'41119',b'United Nations Population Fund',b'UNFPA',b'Fonds des Nations Unies pour la population',b'UNFPA'
+b'41000',b'41501',b'United Nations Reducing Emissions from Deforestation and Forest Degradation',b'UN-REDD',b'',b''
+b'41000',b'41130',b'United Nations Relief and Works Agency for Palestine Refugees in the Near East',b'UNRWA',b'Office de secours et de travaux des Nations Unies pour les r\xc3\xa9fugi\xc3\xa9s de Palestine dans le Proche-Orient',b'UNRWA'
+b'41000',b'41129',b'United Nations Research Institute for Social Development',b'UNRISD',b'Institut de recherche des Nations Unies pour le d\xc3\xa9veloppement social',b'UNRISD'
+b'41000',b'41133',b'United Nations Special Initiative on Africa',b'UNSIA',"b""Initiative sp\xc3\xa9ciale des Nations Unies pour l'Afrique""",b'UNSIA'
+b'41000',b'41131',b'United Nations System Staff College',b'UNSSC',b'Ecole des cadres du syst\xc3\xa8me des Nations Unies',b'UNSSC'
+b'41000',b'41132',b'United Nations System Standing Committee on Nutrition',b'UNSCN',b'Comit\xc3\xa9 permanent de la nutrition du syst\xc3\xa8me des Nations Unies',b'UNSCN'
+b'41000',b'41134',b'United Nations University (including Endowment Fund)',b'UNU',b'Universit\xc3\xa9 des Nations Unies (y compris le Fonds de dotation)',b'UNU'
+b'41000',b'41137',b'United Nations Voluntary Fund for Technical Co-operation in the Field of Human Rights',b'UNVFTC',"b""Fonds de contributions volontaires des Nations Unies pour la coop\xc3\xa9ration technique dans le domaine des droits de l'homme""",b''
+b'41000',b'41138',b'United Nations Voluntary Fund for Victims of Torture',b'UNVFVT',b'Fonds de contributions volontaires des Nations Unies pour les victimes de la torture',b''
+b'41000',b'41136',b'United Nations Voluntary Fund on Disability',b'UNVFD',b'Fonds de contributions voluntaires des Nations Unies pour les handicap\xc3\xa9s',b''
+b'41000',b'41135',b'United Nations Volunteers',b'UNV',b'Programme des volontaires des Nations Unies',b'UNV'
+b'41000',b'41306',b'Universal Postal Union',b'UPU',b'Union postale universelle',b'UPU'
+b'41000',b'41140',b'World Food Programme',b'WFP',b'Programme alimentaire mondial',b'PAM'
+b'41000',b'41307',b'World Health Organisation - assessed contributions',b'WHO-Assessed',b'Organisation mondiale de la sant\xc3\xa9 - contributions obligatoires',b'OMS-obligatoires'
+b'41000',b'41143',b'World Health Organisation - core voluntary contributions account',b'WHO-CVCA',b'Organisation mondiale de la sant\xc3\xa9 - compte de contributions volontaires sans objet d\xc3\xa9sign\xc3\xa9',b'OMS-CVSOD'
+b'41000',b'41308',b'World Intellectual Property Organisation',b'WIPO',b'Organisation mondiale de la propri\xc3\xa9t\xc3\xa9 intellectuelle',b'OMPI'
+b'41000',b'41309',b'World Meteorological Organisation',b'WMO',b'Organisation m\xc3\xa9t\xc3\xa9orologique mondiale',b'OMM'
+b'42000',b'42000',b'European Union Institution (EU)',b'',b'Institution de l\xe2\x80\x99Union europ\xc3\xa9enne (UE)',b''
+b'42000',b'42001',b'European Commission - Development Share of Budget',b'EC',b'Commission europ\xc3\xa9enne - partie du budget affect\xc3\xa9e au d\xc3\xa9veloppement',b'CE'
+b'42000',b'42003',b'European Commission - European Development Fund',b'EDF',b'Commission europ\xc3\xa9enne - Fonds europ\xc3\xa9en de d\xc3\xa9veloppement',b'FED'
+b'42000',b'42004',b'European Investment Bank',b'EIB',"b""Banque europ\xc3\xa9enne d'investissement""",b'BEI'
+b'43000',b'43000',b'International Monetary Fund (IMF)',b'',b'Fonds mon\xc3\xa9taire international (FMI)',b''
+b'43000',b'43005',b'International Monetary Fund - Post-Catastrophe Debt Relief Trust',b'IMF-PCDR',"b""Fonds mon\xc3\xa9taire international  - Fonds fiduciaire pour l'all\xc3\xa9gement de la dette apr\xc3\xa8s une catastrophe""",b'FMI-ADAC'
+b'43000',b'43002',"b'International Monetary Fund - Poverty Reduction and Growth - Heavily Indebted Poor Countries Debt Relief Initiative Trust Fund [includes HIPC, Extended Credit Facility (ECF), and ECF-HIPC sub-accounts]'",b'IMF-PRG-HIPC',"b'Fonds mon\xc3\xa9taire international \xe2\x80\x93 R\xc3\xa9duction de la pauvret\xc3\xa9 et croissance \xe2\x80\x93 Initiative d\xe2\x80\x99all\xc3\xa8gement de la dette en faveur des pays pauvres tr\xc3\xa8s endett\xc3\xa9s [y compris Initiative PPTE, Facilit\xc3\xa9 \xc3\xa9largie de cr\xc3\xa9dit (FEC) et sous-comptes (FEC-PPTE)]'",b'FMI-FRPC-PPTE'
+b'43000',b'43004',b'International Monetary Fund - Poverty Reduction and Growth - Multilateral Debt Relief Initiative Trust',b'IMF-PRG-MDRI',b'Fonds mon\xc3\xa9taire international \xe2\x80\x93 Facilit\xc3\xa9 pour la r\xc3\xa9duction de la pauvret\xc3\xa9 et pour la croissance \xe2\x80\x93 Initiative d\xe2\x80\x99all\xc3\xa8gement de la dette multilat\xc3\xa9rale',b'FMI-FRPC-IADM'
+b'43000',b'43001',b'International Monetary Fund - Poverty Reduction and Growth Trust',b'IMF-PRGT',b'Fonds mon\xc3\xa9taire international \xe2\x80\x93 Facilit\xc3\xa9 pour la r\xc3\xa9duction de la pauvret\xc3\xa9 et pour la croissance',b'FMI-FRPC'
+b'43000',b'43003',b'International Monetary Fund - Subsidization of Emergency Post Conflict Assistance/Emergency Assistance for Natural Disasters for PRGT-eligible members',b'IMF-EPCA-ENDA',b'Fonds mon\xc3\xa9taire international \xe2\x80\x93 Aide d\xe2\x80\x99urgence apr\xc3\xa8s un conflit (EPCA) et aide d\xe2\x80\x99urgence \xc3\xa0 la suite de catastrophes naturelles (ENDA) pour les membres pouvant b\xc3\xa9n\xc3\xa9ficier de la FRPC',b'FMI-EPCA-ENDA'
+b'43000',b'43006',b'Catastrophe Containment and Relief Trust',b'IMF-CCR',b'Fonds fiduciaire d\xe2\x80\x99assistance et de riposte aux catastrophes',b'FMI-ARC'
+b'44000',b'44000',b'World Bank Group (WB)',b'',b'Groupe de la Banque mondiale (BM)',b''
+b'44000',b'44006',b'Advance Market Commitments',b'AMCs',b'Garanties de march\xc3\xa9',b'AMC'
+b'44000',b'44001',b'International Bank for Reconstruction and Development',b'IBRD',b'Banque internationale pour la reconstruction et le d\xc3\xa9veloppement',b'BIRD'
+b'44000',b'44002',b'International Development Association',b'IDA',b'Association internationale de d\xc3\xa9veloppement',b'IDA'
+b'44000',b'44003',b'International Development Association - Heavily Indebted Poor Countries Debt Initiative Trust Fund',b'IDA-HIPC',"b""Association internationale de d\xc3\xa9veloppement - Fonds fiduciaire de l'IDA en faveur des pays pauvres tr\xc3\xa8s endett\xc3\xa9s""",b'IDA-PPTE'
+b'44000',b'44007',b'International Development Association - Multilateral Debt Relief Initiative',b'IDA-MDRI',b'Association internationale de d\xc3\xa9veloppement - Initiative d\xe2\x80\x99all\xc3\xa9gement de la dette multilat\xc3\xa9rale',b'IDA-IADM'
+b'44000',b'44004',b'International Finance Corporation',b'IFC',b'Soci\xc3\xa9t\xc3\xa9 financi\xc3\xa8re internationale',b'SFI'
+b'44000',b'44005',b'Multilateral Investment Guarantee Agency',b'MIGA',b'Agence multilat\xc3\xa9rale de garantie des investissements',b'AMGI'
+b'45000',b'45000',b'World Trade Organisation',b'',b'Organisation mondiale du commerce (OMC)',b''
+b'45000',b'45002',b'World Trade Organisation - Advisory Centre on WTO Law',b'WTO-ACWL',"b""Centre consultatif sur la l\xc3\xa9gislation de l'Organisation mondiale du commerce""",b'OMC-CCLO'
+b'45000',b'45003',b'World Trade Organisation - Doha Development Agenda Global Trust Fund',b'WTO-DDAGTF',"b""Organisation mondiale du commerce - Fonds global d'affectation sp\xc3\xa9ciale pour le Programme de Doha pour le d\xc3\xa9veloppement""",b''
+b'45000',b'45001',b'World Trade Organisation - International Trade Centre',b'WTO-ITC',"b""Centre du commerce international de l'Organisation mondiale du commerce""",b'OMC-CCI'
+b'46000',b'46000',b'Regional Development Bank',b'',b'Banque r\xc3\xa9gionale de d\xc3\xa9veloppement (BRD)',b''
+b'46000',b'46002',b'African Development Bank',b'Afr.DB',b'Banque africaine de d\xc3\xa9veloppement',b'BAfD'
+b'46000',b'46003',b'African Development Fund',b'Afr.DF',b'Fonds africain de d\xc3\xa9veloppement',b'FAD'
+b'46000',b'46022',b'African Export Import Bank',b'Afreximbank',"b""Banque Africaine d'Import-Export""",b'Afreximbank'
+b'46000',b'46008',b'Andean Development Corporation',b'CAF',b'Soci\xc3\xa9t\xc3\xa9 andine de d\xc3\xa9veloppement',b'CAF'
+b'46000',b'46004',b'Asian Development Bank',b'AsDB',b'Banque asiatique de d\xc3\xa9veloppement',b'BAsD'
+b'46000',b'46005',b'Asian Development Fund',b'AsDF',b'Fonds asiatique de d\xc3\xa9veloppement',b'FAsD'
+b'46000',b'46006',b'Black Sea Trade and Development Bank',b'BSTDB',b'Black Sea Trade and Development Bank',b'BSTDB'
+b'46000',b'46009',b'Caribbean Development Bank',b'CDB',b'Banque de d\xc3\xa9veloppement des Cara\xc3\xafbes',b'BDC'
+b'46000',b'46020',b'Central African States Development Bank',b'BDEAC',"b""Banque de d\xc3\xa9veloppement des \xc3\x89tats de l'Afrique Centrale""",b'BDEAC'
+b'46000',b'46007',b'Central American Bank for Economic Integration',b'CABEI',"b""Banque centroam\xc3\xa9ricaine d'int\xc3\xa9gration \xc3\xa9conomique""",b'BCAIE'
+b'46000',b'46024',b'Council of Europe Development Bank',b'CEB',"b""Banque de D\xc3\xa9veloppement\xc2\xa0du\xc2\xa0Conseil de l'Europe""",b'CEB'
+b'46000',b'46023',b'Eastern and Southern African Trade and Development Bank',b'PTA Bank',b'Banque de l\xe2\x80\x99Afrique de l\xe2\x80\x99Est et de l\xe2\x80\x99Afrique Australe pour le Commerce et le D\xc3\xa9veloppement',b'Banque de la ZEP'
+b'46000',b'46015',b'European Bank for Reconstruction and Development',b'EBRD',b'Banque europ\xc3\xa9enne pour la reconstruction et le d\xc3\xa9veloppement',b'BERD'
+b'46000',b'46018',b'European Bank for Reconstruction and Development - Early Transition Countries Fund',b'EBRD-ETC',b'Banque europ\xc3\xa9enne de reconstruction et de d\xc3\xa9veloppement - Initiative en faveur des pays en transition pr\xc3\xa9coce',b'BERD-ETC'
+b'46000',b'46017',b'European Bank for Reconstruction and Development \xe2\x80\x93 technical co-operation and special funds (all EBRD countries of operations)',b'EBRD TFs - All Countries',b'Banque europ\xc3\xa9enne pour la reconstruction et le d\xc3\xa9veloppement - coop\xc3\xa9ration technique et fonds sp\xc3\xa9ciaux (tous pays)',b'BERD-CTFS tous pays'
+b'46000',b'46016',b'European Bank for Reconstruction and Development \xe2\x80\x93 technical co-operation and special funds (ODA-eligible countries only)',b'EBRD TFs - ODA Countries Only',"b""Banque europ\xc3\xa9enne pour la reconstruction et le d\xc3\xa9veloppement - coop\xc3\xa9ration technique et fonds sp\xc3\xa9ciaux (pays \xc3\xa9ligibles \xc3\xa0 l'APD)""","b""BERD-CTFS pays \xc3\xa9ligibles \xc3\xa0 l'APD"""
+b'46000',b'46019',b'European Bank for Reconstruction and Development - Western Balkans Joint Trust Fund',b'EBRD-WBJTF',b'Banque europ\xc3\xa9enne de reconstruction et de d\xc3\xa9veloppement - Fonds sp\xc3\xa9cial pour les Balkans occidentaux',b'BERD-FSpBO'
+b'46000',b'46013',"b'Inter-American Development Bank, Fund for Special Operations'",b'IDB FSO',"b'Banque interam\xc3\xa9ricaine de d\xc3\xa9veloppement, Fonds op\xc3\xa9rations sp\xc3\xa9cial'",b'BID FOS'
+b'46000',b'46012',"b'Inter-American Development Bank, Inter-American Investment Corporation and Multilateral Investment Fund'",b'IDB',"b""Banque interam\xc3\xa9ricaine de d\xc3\xa9veloppement, Soci\xc3\xa9t\xc3\xa9 interam\xc3\xa9ricaine d'investissements, Fonds multilat\xc3\xa9ral d'investissements""",b'BID'
+b'46000',b'46025',b'Islamic Development Bank',b'IsDB',b'Banque Islamique de D\xc3\xa9veloppement',b'BIsD'
+b'46000',b'46021',b'West African Development Bank',b'BOAD',b'Banque ouest-africaine de d\xc3\xa9veloppement',b'BOAD'
+b'47000',b'47000',b'Other multilateral institution',b'',b'Autre institution multilat\xc3\xa9rale',b''
+b'47000',b'47111',b'Adaptation Fund',b'',b'Fonds pour l\xe2\x80\x99adaptation',b''
+b'47000',b'47009',b'African and Malagasy Council for Higher Education',b'CAMES',"b""Conseil africain et malgache pour l'enseignement sup\xc3\xa9rieur""",b'CAMES'
+b'47000',b'47001',b'African Capacity Building Foundation',b'ACBF',b'Fondation pour le renforcement des capacit\xc3\xa9s en Afrique',b'ACBF'
+b'47000',b'47137',b'African Risk Capacity Group',b'ARC',b'Mutuelle panafricaine de gestion des risques',b'ARC'
+b'47000',b'47141',b'African Tax Administration Forum',b'ATAF',b'Forum sur l\xe2\x80\x99Administration Fiscale Africaine',b'ATAF'
+b'47000',b'47005',b'African Union (excluding peacekeeping facilities)',b'AU',"b""Union Africaine (\xc3\xa0 l'exclusion de la Facilit\xc3\xa9 de soutien \xc3\xa0 la paix)""",b'UA'
+b'47000',b'21002',b'Agency for International Trade Information and Co-operation',b'AITIC',"b""Agence de coop\xc3\xa9ration et d'information pour le commerce international""",b'ACICI'
+b'47000',b'47002',b'Asian Productivity Organisation',b'APO',b'Organisation asiatique de productivit\xc3\xa9',b'APO'
+b'47000',b'47109',b'Asia-Pacific Economic Cooperation Support Fund (except contributions tied to counter-terrorism activities)',b'APEC ASF',b'Fonds de soutien de la coop\xc3\xa9ration \xc3\xa9conomique Asie-Pacifique (hors lutte contre le terrorisme)',b'APEC-ASF'
+b'47000',b'47068',b'Asia-Pacific Fishery Commission',b'APFIC',b'Commission Asie-Pacifique des p\xc3\xaaches',b'APFIC'
+b'47000',b'47003',b'Association of South East Asian Nations: Economic Co-operation',b'ASEAN',"b""Association des nations de l'Asie du Sud-Est - coop\xc3\xa9ration \xc3\xa9conomique""",b'ANASE'
+b'47000',b'47011',b'Caribbean Community Secretariat',b'CARICOM',b'Secr\xc3\xa9tariat de la Communaut\xc3\xa9 des Cara\xc3\xafbes',b'CARICOM'
+b'47000',b'47012',b'Caribbean Epidemiology Centre',b'CAREC',b'Centre \xc3\xa9pid\xc3\xa9miologique des Cara\xc3\xafbes',b'CAREC'
+b'47000',b'47112',b'Central European Initiative - Special Fund for Climate and Environmental Protection',b'CEI-Climate Fund',b'Initiative de l\xe2\x80\x99Europe centrale - \xc2\x96 Fonds Sp\xc3\xa9cial pour la protection climatique et environnementale',b'CEI-Climate Fund'
+b'47000',b'47015',b'CGIAR Fund',b'CGIAR',b'CGIAR Fund',b'CGIAR'
+b'47000',b'47134',b'Clean Technology Fund',b'CTF',b'Fonds pour les technologies propres',b'FTP'
+b'47000',b'47027',b'Colombo Plan',b'CP',b'Plan de Colombo',b'CP'
+b'47000',b'47105',b'Common Fund for Commodities',b'CFC',b'Fonds commun pour les produits de base',b''
+b'47000',b'47013',b'Commonwealth Foundation',b'CF',b'Fondation du Commonwealth',b'CF'
+b'47000',b'47025',b'Commonwealth of Learning',b'COL',b'Commonwealth of Learning',b'COL'
+b'47000',b'47132',b'Commonwealth Secretariat (ODA-eligible contributions only)',b'',"b""Secr\xc3\xa9tariat du Commonwealth (seulement les contributions \xc3\xa9ligibles \xc3\xa0 l'APD)""",b''
+b'47000',b'47026',b'Community of Portuguese Speaking Countries',b'CPLP',b'Communaut\xc3\xa9 des pays de langue portugaise',b'CPLP'
+b'47000',b'47022',b'Convention on International Trade in Endangered Species of Wild Flora and Fauna',b'CITES',"b""Convention sur le commerce international des esp\xc3\xa8ces de faune et de flore sauvages menac\xc3\xa9es d'extinction""",b'CITES'
+b'47000',b'47138',b'Council of Europe',b'CoE',b'Conseil de l\xe2\x80\x99Europe',b'CoE'
+b'47000',b'47037',b'Eastern-Regional Organisation of Public Administration',b'EROPA',"b""Organisation r\xc3\xa9gionale de l'Orient pour l'administration publique""",b'EROPA'
+b'47000',b'47113',b'Economic and Monetary Community of Central Africa',b'CEMAC',b'Communaut\xc3\xa9 \xc3\xa9conomique et mon\xc3\xa9taire de l\xe2\x80\x99Afrique Centrale',b'CEMAC'
+b'47000',b'47034',b'Economic Community of West African States',b'ECOWAS',b'Communaut\xc3\xa9 \xc3\xa9conomique des Etats de l\xe2\x80\x99Afrique de l\xe2\x80\x99Ouest',b'CEDEAO'
+b'47000',b'47036',b'European and Mediterranean Plant Protection Organisation',b'EPPO',b'Organisation Europ\xc3\xa9enne et M\xc3\xa9diterran\xc3\xa9enne pour la Protection des Plantes',b'OEPP'
+b'47000',b'47504',b'Forest Carbon Partnership Facility',b'FCPF',b'',b''
+b'47000',b'47040',b'Forum Fisheries Agency',b'FFA',b'Agence des p\xc3\xaaches',b'FFA'
+b'47000',b'47106',b'Geneva Centre for the Democratic Control of Armed Forces',b'DCAF',b'Centre de contr\xc3\xb4le d\xc3\xa9mocratique des forces arm\xc3\xa9es - Gen\xc3\xa8ve',b'DCAF'
+b'47000',b'47123',b'Geneva International Centre for Humanitarian Demining',b'GICHD',b'Centre International de D\xc3\xa9minage Humanitaire Gen\xc3\xa8ve',b'CIDHG'
+b'47000',b'47503',b'Global Agriculture and Food Security Program',b'GAFSP',b'',b''
+b'47000',b'47122',b'Global Alliance for Vaccines and Immunization',b'GAVI',b'Alliance mondiale pour la vaccination et l\xe2\x80\x99immunisation',b'GAVI'
+b'47000',b'47129',b'Global Environment Facility - Least Developed Countries Fund',b'GEF-LDCF',b'FEM Fonds pour les pays les moins avanc\xc3\xa9s',b'FEM - FPMA'
+b'47000',b'47130',b'Global Environment Facility - Special Climate Change Fund',b'GEF-SCCF',b'FEM Fonds sp\xc3\xa9cial pour les changements climatiques',b'FEM - FSpCC'
+b'47000',b'47044',b'Global Environment Facility Trust Fund',b'GEF',"b""Fonds pour l'environnement mondial - fonds fiduciaire""",b'FEM'
+b'47000',b'47502',b'Global Fund for Disaster Risk Reduction',b'GFDRR',b'',b''
+b'47000',b'47045',"b'Global Fund to Fight AIDS, Tuberculosis and Malaria'",b'Global Fund',"b'Fonds mondial de lutte contre le SIDA, la tuberculose et la paludisme'",b'Fonds mondial'
+b'47000',b'47136',b'Global Green Growth Institute',b'GGGI',b'Institut mondial de la croissance verte',b'GGGI'
+b'47000',b'47501',b'Global Partnership for Education',b'GPE',"b""Partenariat Mondial pour l'Education""",b'PME'
+b'47000',b'47116',b'Integrated Framework for Trade-Related Technical Assistance to Least Developed Countries',b'IF',"b""Cadre int\xc3\xa9gr\xc3\xa9 pour l\xc2\x92'assistance technique li\xc3\xa9e au commerce en faveur des pays les moins avanc\xc3\xa9s""",b'CI'
+b'47000',b'47061',b'Inter-American Institute for Co-operation on Agriculture',b'IICA',b'Institut interam\xc3\xa9ricain de coop\xc3\xa9ration pour l\xe2\x80\x99agriculture',b'IICA'
+b'47000',b'47065',b'Intergovernmental Oceanographic Commission',b'IOC',b'Commission oc\xc3\xa9anographique intergouvernementale',b'COI'
+b'47000',b'47067',b'Intergovernmental Panel on Climate Change',b'IPCC',b'Groupe d\xe2\x80\x99experts intergouvernemental sur l\xe2\x80\x99\xc3\xa9volution du climat',b'GIEC'
+b'47000',b'47019',b'International Centre for Advanced Mediterranean Agronomic Studies',b'CIHEAM',b'Centre international de hautes \xc3\xa9tudes agronomique m\xc3\xa9diterran\xc3\xa9ennes',b'CIHEAM'
+b'47000',b'47050',b'International Cotton Advisory Committee',b'ICAC',b'Comit\xc3\xa9 consultatif international du coton',b'CCIC'
+b'47000',b'47059',b'International Development Law Organisation',b'IDLO',b'Organisation internationale de droit du d\xc3\xa9veloppement',b'IDLO'
+b'47000',b'30010',b'International drug purchase facility',b'UNITAID',"b""Facilit\xc3\xa9 internationale d'achat de m\xc3\xa9dicaments""",b'UNITAID'
+b'47000',b'47107',b'International Finance Facility for Immunisation',b'IFFIm',b'Facilit\xc3\xa9 internationale de financement pour la vaccination',b'IFFIm'
+b'47000',b'47058',b'International Institute for Democracy and Electoral Assistance',b'IDEA',b'International Institute for Democracy and Electoral Assistance',b'IDEA'
+b'47000',b'47064',b'International Network for Bamboo and Rattan',b'INBAR',b'R\xc3\xa9seau International sur le bambou et le rotin',b'INBAR'
+b'47000',b'47066',b'International Organisation for Migration',b'IOM',b'Organisation internationale des migrations',b'OIM'
+b'47000',b'47046',b'International Organisation of the Francophonie',b'OIF',b'Organisation internationale de la Francophonie',b'OIF'
+b'47000',b'47073',b'International Tropical Timber Organisation',b'ITTO',b'Organisation Internationale des Bois Tropicaux',b'OIBT'
+b'47000',b'47074',b'International Vaccine Institute',b'IVI',b'Institut international de vaccins',b'IIV'
+b'47000',b'47076',b'Justice Studies Centre of the Americas',b'JSCA',b'Centre d\xe2\x80\x99\xc3\xa9tudes sur la justice dans les Am\xc3\xa9riques',b'JSCA'
+b'47000',b'47127',b'Latin-American Energy Organisation',b'OLADE',"b""Organisation latino-am\xc3\xa9ricaine de l'\xc3\xa9nergie""",b'OLADE'
+b'47000',b'47077',b'Mekong River Commission',b'MRC',b'Commission du M\xc3\xa9kong',b'MRC'
+b'47000',b'47078',b'Multilateral Fund for the Implementation of the Montreal Protocol',b'Montreal Protocol',b'Fonds multilat\xc3\xa9ral pour l\xe2\x80\x99application du Protocole de Montr\xc3\xa9al',b'Protocol de Montr\xc3\xa9al'
+b'47000',b'47117',"b""New Partnership for Africa's Development""",b'NEPAD',b'Nouveau Partenariat pour le d\xc3\xa9veloppement de l\xe2\x80\x99Afrique',b'NEPAD'
+b'47000',b'47128',b'Nordic Development Fund',b'NDF',b'Nordic Development Fund',b'NDF'
+b'47000',b'47081',b'OECD Development Centre',b'OECD-Dev. Centre',b'OCDE Centre de d\xc3\xa9veloppement',b'OCDE-Centre de d\xc3\xa9v.'
+b'47000',b'47142',b'OPEC Fund for International Development',b'OFID',b'Le Fonds OPEP pour le d\xc3\xa9veloppement international',b'OFID'
+b'47000',b'47080',b'Organisation for Economic Co-operation and Development (Contributions to special funds for Technical Co-operation Activities Only)',b'OECD',b'Organisation de Coop\xc3\xa9ration et de d\xc3\xa9veloppement \xc3\xa9conomiques (contributions aux fonds sp\xc3\xa9ciaux pour les activit\xc3\xa9s de coop\xc3\xa9ration technique uniquement)',b'OCDE'
+b'47000',b'47079',b'Organisation of American States',b'OAS',b'Organisation des \xc3\x89tats am\xc3\xa9ricains',b'OEA'
+b'47000',b'47082',b'Organisation of Eastern Caribbean States',b'OECS',b'Organisation des \xc3\x89tats des Cara\xc3\xafbes orientales',b'OECO'
+b'47000',b'47140',"b'Organisation of Ibero-American States for Education, Science and Culture'",b'OEI',b'Organizaci\xc3\xb3n de Estados Iberoamericanos',b''
+b'47000',b'47110',b'Organisation of the Black Sea Economic Cooperation',b'BSEC',b'Organisation de coop\xc3\xa9ration \xc3\xa9conomique de la mer Noire',b'BSEC'
+b'47000',b'47131',b'Organization for Security and Co-operation in Europe',b'OSCE',b'Organisation pour la s\xc3\xa9curit\xc3\xa9 et la oop\xc3\xa9ration en Europe',b'OSCE'
+b'47000',b'47087',b'Pacific Islands Forum Secretariat',b'PIFS',b'Secr\xc3\xa9tariat du Forum des Iles du Pacifique',b'SFIP'
+b'47000',b'47097',b'Pacific Regional Environment Programme',b'SPREP',b'Programme r\xc3\xa9gional oc\xc3\xa9anien de l\xe2\x80\x99environnement',b'PROE'
+b'47000',b'47083',b'Pan-American Health Organisation',b'PAHO',b'Organisation panam\xc3\xa9ricaine de la sant\xc3\xa9',b'OPS'
+b'47000',b'47084',b'Pan-American Institute of Geography and History',b'PAIGH',b'Institut panam\xc3\xa9ricain de g\xc3\xa9ographie et d\xe2\x80\x99histoire',b'PAIGH'
+b'47000',b'47086',b'Private Infrastructure Development Group',b'PIDG',b'Private Infrastructure Development Group',b'PIDG'
+b'47000',b'47118',b'Regional Organisation for the Strengthening of Supreme Audit Institutions of Francophone Sub-Saharan Countries',b'CREFIAF',b'Conseil R\xc3\xa9gional de Formation des Institutions Sup\xc3\xa9rieures de Contr\xc3\xb4le des Finances Publiques d\xe2\x80\x99Afrique Francophone Subsaharienne',b'CREFIAF'
+b'47000',b'47119',b'Sahara and Sahel Observatory',b'OSS',b'Observatoire du Sahara et du Sahel',b'OSS'
+b'47000',b'47029',b'Sahel and West Africa Club',b'SWAC',b'Club du Sahel et de l\xe2\x80\x99Afrique de l\xe2\x80\x99Ouest',b'CSAO'
+b'47000',b'47096',b'Secretariat of the Pacific Community',b'SPC',b'Secr\xc3\xa9tariat G\xc3\xa9n\xc3\xa9ral de la Communaut\xc3\xa9 du Pacifique',b'CPS'
+b'47000',b'47120',b'South Asian Association for Regional Cooperation',b'SAARC',"b""Association de l'Asie du Sud pour la coop\xc3\xa9ration r\xc3\xa9gionale""",b'SAARC'
+b'47000',b'47092',b'South East Asian Fisheries Development Centre',b'SEAFDC',b'Centre de d\xc3\xa9veloppement des p\xc3\xaaches de l\xe2\x80\x99Asie du Sud-Est',b'SEAFDC'
+b'47000',b'47093',b'South East Asian Ministers of Education',b'SEAMEO',b'Organisation des Ministres de l\xe2\x80\x99\xc3\xa9ducation de l\xe2\x80\x99Asie du Sud-Est',b'SEAMEO'
+b'47000',b'47095',b'South Pacific Board for Educational Assessment',b'SPBEA',"b""Conseil d\xe2\x80\x99\xc3\xa9valuation du Pacifique Sud pour l'\xc3\xa9ducation""",b'SPBEA'
+b'47000',b'47089',b'Southern African Development Community',b'SADC',b'Communaut\xc3\xa9 pour le d\xc3\xa9veloppement de l\xe2\x80\x99Afrique australe',b'SADC'
+b'47000',b'47135',b'Strategic Climate Fund',b'SCF',b'Fonds strat\xc3\xa9gique pour le climat',b'FSC'
+b'47000',b'47121',b'United Cities and Local Governments of Africa',b'UCLGA',b'Cit\xc3\xa9s et gouvernements locaux unis d\xe2\x80\x99Afrique',b'CGLUA'
+b'47000',b'47098',b'Unrepresented Nations and Peoples\xe2\x80\x99 Organisation',b'UNPO',b'Organisation des peuples et des nations non repr\xc3\xa9sent\xc3\xa9s',b'UNPO'
+b'47000',b'47100',b'West African Monetary Union',b'WAMU',b'Union mon\xc3\xa9taire ouest-africaine',b'UMOA'
+b'47000',b'47139',b'World Customs Organization Customs Co-operation Fund',b'WCO CCF',b'Organisation Mondiale des Douanes Fonds de coop\xc3\xa9ration douani\xc3\xa8re',b'OMD CCF'
+b'47000',b'47143',b'Global Community Engagement and Resilience Fund',b'GCERF',b'Fonds mondial pour l\xe2\x80\x99engagement de la communaut\xc3\xa9 et la r\xc3\xa9silience',b'GCERF'
+b'47000',b'47144',b'International Renewable Energy Agency',b'IRENA',b'Agence internationale pour les energies renouvelables',b'IRENA'
+b'50000',b'50000',b'OTHER',b'',b'AUTRE',b''
+b'51000',b'51000',"b'University, college or other teaching institution, research institute or think\xe2\x80\x91tank'",b'',"b'Universit\xc3\xa9, institut d\xe2\x80\x99\xc3\xa9ducation et autre institution d\xe2\x80\x99enseignement, institut de recherche ou groupe de r\xc3\xa9flexion'",b''
+b'51000',b'47101',b'Africa Rice Centre',b'WARDA',b'Centre du riz pour l\xe2\x80\x99Afrique',b'ADRAO'
+b'51000',b'47069',b'Bioversity International',b'',b'Bioversity International',b''
+b'51000',b'47018',b'Centre for International Forestry Research',b'CIFOR',b'Centre de recherche foresti\xc3\xa8re internationale',b'CIFOR'
+b'51000',b'21004',b'Council for the Development of Economic and Social Research in Africa',b'CODESRIA',b'Conseil pour le d\xc3\xa9veloppement de la recherche en sciences sociales en Afrique',b'CODESRIA'
+b'51000',b'47041',b'Food and Fertilizer Technology Centre',b'FFTC',"b""Centre des techniques de l'alimentation et des engrais""",b'FFTC'
+b'51000',b'21009',b'Forum for Agricultural Research in Africa',b'FARA',b'Forum pour la recherche agricole en Afrique',b'FARA'
+b'51000',b'47047',b'International African Institute',b'IAI',b'Institut international africain',b'IIA'
+b'51000',b'47051',b'International Centre for Agricultural Research in Dry Areas',b'ICARDA',b'Centre international de recherche agricole dans les zones arides',b'ICARDA'
+b'51000',b'47055',b'International Centre for Development Oriented Research in Agriculture',b'ICRA',b'Centre International pour la Recherche Agricole orient\xc3\xa9e vers le d\xc3\xa9veloppement',b'ICRA'
+b'51000',b'47053',"b'International Centre for Diarrhoeal Disease Research, Bangladesh'","b'ICDDR,B'","b'International Centre for Diarrhoeal Disease Research, Bangladesh'","b'ICDDR,B'"
+b'51000',b'47017',b'International Centre for Tropical Agriculture',b'CIAT',"b""Centre international d'agriculture tropicale""",b'CIAT'
+b'51000',b'47054',b'International Centre of Insect Physiology and Ecology',b'ICIPE',b'Centre international sur la physiologie et l\xe2\x80\x99\xc3\xa9cologie des insectes',b'ICIPE'
+b'51000',b'47057',b'International Crop Research for Semi-Arid Tropics',b'ICRISAT',b'Institut international de recherche sur les cultures des zones tropicales semi-arides',b'ICRISAT'
+b'51000',b'51001',b'International Food Policy Research Institute',b'IFPRI',b'Institut International de Recherche sur les Politiques Alimentaires',b'IFPRI'
+b'51000',b'21021',b'International Institute for Environment and Development',b'IIED',b'Institut international pour l\xe2\x80\x99environnement et le d\xc3\xa9veloppement',b'IIED'
+b'51000',b'21039',b'International Institute for Sustainable Development',b'IISD',b'Institut international de d\xc3\xa9veloppement durable',b'IIDD'
+b'51000',b'47062',b'International Institute of Tropical Agriculture',b'IITA',b'Institut international d\xe2\x80\x99agriculture tropicale',b'IITA'
+b'51000',b'47063',b'International Livestock Research Institute',b'ILRI',b'International Livestock Research Institute',b'ILRI'
+b'51000',b'47020',b'International Maize and Wheat Improvement Centre',b'CIMMYT',b'Centre international d\xe2\x80\x99am\xc3\xa9lioration du ma\xc3\xafs et du bl\xc3\xa9',b'CIMMYT'
+b'51000',b'47021',b'International Potato Centre',b'CIP',b'Centre international de la pomme de terre',b'CIP'
+b'51000',b'47070',b'International Rice Research Institute',b'IRRI',b'Institut international de recherche sur le riz',b'IIRR'
+b'51000',b'47071',b'International Seed Testing Association',b'ISTA',b'Association internationale d\xe2\x80\x99essais de semences',b'ISTA'
+b'51000',b'47075',b'International Water Management Institute',b'IWMI',b'Institut international de gestion des ressources en eau',b'IWMI'
+b'51000',b'47099',b'University of the South Pacific',b'USP',b'Universit\xc3\xa9 du Pacifique Sud',b'USP'
+b'51000',b'47056',b'World AgroForestry Centre',b'ICRAF',b'Centre mondial de l\xe2\x80\x99agroforesterie',b'ICRAF'
+b'51000',b'47103',b'World Maritime University',b'WMU',b'Universit\xc3\xa9 maritime mondiale',b'UMM'
+b'51000',b'47008',b'World Vegetable Centre',b'AVRDC',b'Centre international de cultures mara\xc3\xaech\xc3\xa8res',b'AVRDC'
+b'51000',b'47104',b'WorldFish Centre',b'WorldFish Centre',b'Centre international pour l\xe2\x80\x99am\xc3\xa9nagement des ressources bioaquatiques',b'WorldFish Centre'
+b'60000',b'60000',b'Private sector institution',b'',b'Institutions du Secteur Priv\xc3\xa9',b''
+b'61000',b'61000',b'Private sector in provider country',b'',b'Secteur priv\xc3\xa9 du pays donneur',b''
+b'61000',b'61001',b'Private bank in provider country',b'',b'Banque priv\xc3\xa9e dans le pays donneur',b''
+b'61000',b'61002',b'Private exporter in provider country',b'',b'Exportateur priv\xc3\xa9 dans le pays donneur',b''
+b'61000',b'61003',b'Private investor in provider country',b'',b'Investisseur priv\xc3\xa9 dans le pays donneur',b''
+b'61000',b'61004',b'Other non-bank entity in provider country',b'',b'Autre entit\xc3\xa9 non-bancaire dans le pays donneur',b''
+b'62000',b'62000',b'Private sector in recipient country',b'',b'Secteur priv\xc3\xa9 du pays b\xc3\xa9n\xc3\xa9ficiaire',b''
+b'62000',b'62001',b'Private bank in recipient country',b'',b'Banque priv\xc3\xa9e dans le pays b\xc3\xa9n\xc3\xa9ficiaire',b''
+b'62000',b'62002',b'Joint-venture in recipient country',b'',b'Co-entreprise dans le pays b\xc3\xa9n\xc3\xa9ficiaire',b''
+b'62000',b'62003',b'Other non-bank in recipient country',b'',b'Autre entit\xc3\xa9 non-bancaire dans le pays b\xc3\xa9n\xc3\xa9ficiaire',b''
+b'63000',b'63000',b'Private sector in third country',b'',"b""Secteur priv\xc3\xa9 d'un pays tiers""",b''
+b'63000',b'63001',b'Private bank in third country',b'',"b""Banque priv\xc3\xa9e d'un pays tiers""",b''
+b'63000',b'63002',b'Private non-bank in third country',b'',b'Secteur priv\xc3\xa9 non-bancaire dans le pays b\xc3\xa9n\xc3\xa9ficiaire',b''
+b'90000',b'90000',b'Other',b'',b'Autre',b''

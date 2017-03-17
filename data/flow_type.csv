@@ -1,10 +1,10 @@
 code,name_en,description_en,name_fr,description_fr
-10,ODA,Official Development Assistance,APD,Aide Publique au Développement
-21,Non-export credit OOF,"Other Official Flows, excl. export credits.",AASP hors crédits-export,"Autres Apports du Secteur Public, à l'exclusion des crédits à  l'exportation"
-22,Officially supported export credits,Officially supported export credits. Covers both official direct export credits and private export credits under official guarantee or insurance.,AASP dont crédits export,Autres Apports du Secteur Public. comprenant les crédits à  l'exportation soutenus par le secteur public et les exportations privées bénéficiant de garantie ou d'assurance publiques.
-30,Private grants,made by NGOs and other civil society organisations (e.e. philantropic foundations) based in the reporting DAC country,Dons privés,Dons fournis par les ONG et autres organismes privés (par exemple fondations philantropiques) résidents dans le pays donneur
-35,Private market,Private market,Apports privés aux conditions du marché,Apports privés aux conditions du marché
-36,Private Foreign Direct Investment,Private Foreign Direct Investment.,IDE,Investissements directs à l'étranger
-37,Other Private flows at market terms,Private long-term (i.e. over one-year maturity) capital transactions made by residents of DAC countries.,Autres apports privés aux conditions du marché,"Apports privés de long-terme (i.e. dont la maturité est  supérieure à un an), transactions en capital faites par des résidents de pays du CAD."
-40,Non flow,e.g. GNI,non apports,ex : RNB
-50,Other flows,e.g. non-ODA component of peacebuilding operations),Autres apports,ex : élément non APD des opérations de maintien de la paix
+b'10',b'ODA',b'Official Development Assistance',b'APD',b'Aide Publique au D\xc3\xa9veloppement'
+b'21',b'Non-export credit OOF',"b'Other Official Flows, excl. export credits.'",b'AASP hors cr\xc3\xa9dits-export',"b""Autres Apports du Secteur Public, \xc3\xa0 l'exclusion des cr\xc3\xa9dits \xc3\xa0  l'exportation"""
+b'22',b'Officially supported export credits',b'Officially supported export credits. Covers both official direct export credits and private export credits under official guarantee or insurance.',b'AASP dont cr\xc3\xa9dits export',"b""Autres Apports du Secteur Public. comprenant les cr\xc3\xa9dits \xc3\xa0  l'exportation soutenus par le secteur public et les exportations priv\xc3\xa9es b\xc3\xa9n\xc3\xa9ficiant de garantie ou d'assurance publiques."""
+b'30',b'Private grants',b'made by NGOs and other civil society organisations (e.e. philantropic foundations) based in the reporting DAC country',b'Dons priv\xc3\xa9s',b'Dons fournis par les ONG et autres organismes priv\xc3\xa9s (par exemple fondations philantropiques) r\xc3\xa9sidents dans le pays donneur'
+b'35',b'Private market',b'Private market',b'Apports priv\xc3\xa9s aux conditions du march\xc3\xa9',b'Apports priv\xc3\xa9s aux conditions du march\xc3\xa9'
+b'36',b'Private Foreign Direct Investment',b'Private Foreign Direct Investment.',b'IDE',"b""Investissements directs \xc3\xa0 l'\xc3\xa9tranger"""
+b'37',b'Other Private flows at market terms',b'Private long-term (i.e. over one-year maturity) capital transactions made by residents of DAC countries.',b'Autres apports priv\xc3\xa9s aux conditions du march\xc3\xa9',"b'Apports priv\xc3\xa9s de long-terme (i.e. dont la maturit\xc3\xa9 est  sup\xc3\xa9rieure \xc3\xa0 un an), transactions en capital faites par des r\xc3\xa9sidents de pays du CAD.'"
+b'40',b'Non flow',b'e.g. GNI',b'non apports',b'ex : RNB'
+b'50',b'Other flows',b'e.g. non-ODA component of peacebuilding operations)',b'Autres apports',b'ex : \xc3\xa9l\xc3\xa9ment non APD des op\xc3\xa9rations de maintien de la paix'
