@@ -1,7 +1,7 @@
 import csv
 from glob import glob
 from os.path import join
-from os import remove
+from os import environ, remove
 import shutil
 
 from bs4 import BeautifulSoup as bs
@@ -109,15 +109,29 @@ def save_csv(name, codelist, fieldnames):
 def init_git_repo():
     shutil.rmtree(output_dir, ignore_errors=True)
     git = Repo.init(output_dir).git
-    git.remote('add', 'origin', 'https://github.com/andylolz/dac-crs-codes.git')
+    git.remote('add', 'origin', 'https://{}@github.com/andylolz/dac-crs-codes.git'.format(environ.get('MORPH_GH_API_KEY')))
     try:
-        git.pull('origin', 'pr')
+        git.pull('origin', 'update')
     except:
         git.pull('origin', 'gh-pages')
-        git.checkout(b='pr')
+        git.checkout(b='update')
     for to_remove in glob(join(data_dir, '*')):
         remove(to_remove)
 
 def push_to_github():
+    url = 'https://api.github.com/repos/andylolz/dac-crs-codes/pulls'
     git = Repo.init(output_dir).git
-    # shutil.rmtree(output_dir, ignore_errors=True)
+    git.add('.')
+    git.config('user.email', 'no-reply@publishwhatyoufund.org')
+    git.config('user.name', 'DAC CRS Bot')
+    git.commit(m='Update')
+    git.push('origin', 'update')
+    payload = {
+        'title': 'Merge in latest codelist changes',
+        'body': 'This is an auto- pull request, sent from [the morph.io scraper](https://morph.io/andylolz/dac-crs-codes).',
+        'head': 'update',
+        'base': 'gh-pages',
+    }
+    r = requests.post(url, json=payload, auth=('andylolz', environ.get('MORPH_GH_API_KEY')))
+    print(r.status_code)
+    shutil.rmtree(output_dir, ignore_errors=True)
