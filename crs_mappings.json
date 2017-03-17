@@ -46,6 +46,7 @@
             [5, "agency_name_fr"],
             [6, "acronym"]
         ],
+        "key": ["code", "agency_code"],
         "sheet_name": "Agency"
     },
     "nature_of_submission": {
