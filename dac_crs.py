@@ -122,8 +122,8 @@ def push_to_github():
     url = 'https://api.github.com/repos/andylolz/dac-crs-codes/pulls'
     git = Repo.init(output_dir).git
     git.add('.')
-    git.config('user.email', 'no-reply@publishwhatyoufund.org')
-    git.config('user.name', 'DAC CRS Bot')
+    git.config('user.email', 'a.lulham@gmail.com')
+    git.config('user.name', 'Andy Lulham')
     git.commit(m='Update')
     git.push('origin', 'update')
     payload = {
