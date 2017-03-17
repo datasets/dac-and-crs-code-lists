@@ -133,5 +133,4 @@ def push_to_github():
         'base': 'gh-pages',
     }
     r = requests.post(url, json=payload, auth=('andylolz', environ.get('MORPH_GH_API_KEY')))
-    print(r.status_code)
     shutil.rmtree(output_dir, ignore_errors=True)
