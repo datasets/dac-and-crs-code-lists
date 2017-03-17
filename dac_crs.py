@@ -6,6 +6,7 @@ import shutil
 
 from bs4 import BeautifulSoup as bs
 import requests
+import scraperwiki
 import xlrd
 from git import Repo
 
@@ -118,6 +119,15 @@ def init_git_repo():
         git.checkout(b='pr')
     for to_remove in glob(join(data_dir, '*')):
         remove(to_remove)
+
+def mark_all_as_withdrawn(name, key):
+    try:
+        codelist = scraperwiki.sqlite.select('* from {}'.format(name))
+        for row_data in codelist:
+            row_data['withdrawn'] = True
+        scraperwiki.sqlite.save(key, codelist, name)
+    except:
+        pass
 
 def push_to_github():
     git = Repo.init(output_dir).git
