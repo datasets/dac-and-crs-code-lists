@@ -1,41 +1,41 @@
 code,name_en,name_fr
-104,Nordic Dev.Fund,Fonds du dév. nordique
-807,UNEP,PNUE
-811,GEF,FEM
-812,Montreal Protocol,Protocole de Montréal
-901,IBRD,BIRD
-903,IFC,SFI
-905,IDA,IDA
-906,CarDB,Caribank
-907,IMF,FMI
-909,IDB,BID
-912,IDB Sp.Fund,IDB Sp.Fund
-913,AfDB,BAfD
-914,AfDF,FAfD
-915,AsDB,BAsD
-916,AsDB Special Funds,BAsD fonds spéciaux
-921,Arab Fund (AFESD),Fonds arabe (FADES)
-923,UNPBF,FCP-ONU
-928,WHO,OMS
-944,IAEA,AIEA
-948,UNECE,CEE-ONU
-951,OFID,FODI
-953,BADEA,BADEA
-958,IMF (Concessional Trust Funds),FMI (Fonds fiduciaires concessionnels)
-959,UNDP,PNUD
-960,UNTA,ATNU
-963,UNICEF,UNICEF
-964,UNRWA,UNRWA
-966,WFP,PAM
-967,UNHCR,FNUAP
-971,UNAIDS,UNAIDS
-974,UNFPA,UNFPA
-976,Isl.Dev Bank,Banque de Dev.Isl.
-978,OSCE,OSCE
-988,IFAD,FIDA
-990,EBRD,BERD
-992,UN Agencies,Agences des Nations Unies
-1011,Climate Investment Funds [CIF],Fonds d'investissement climatique [FIC]
-1311,GAVI,GAVI
-1312,Global Fund,Fonds mondial
-1313,Global Green Growth Institute  (GGGI),Global Green Growth Institute  (GGGI)
+b'104',b'Nordic Dev.Fund',b'Fonds du d\xc3\xa9v. nordique'
+b'807',b'UNEP',b'PNUE'
+b'811',b'GEF',b'FEM'
+b'812',b'Montreal Protocol',b'Protocole de Montr\xc3\xa9al'
+b'901',b'IBRD',b'BIRD'
+b'903',b'IFC',b'SFI'
+b'905',b'IDA',b'IDA'
+b'906',b'CarDB',b'Caribank'
+b'907',b'IMF',b'FMI'
+b'909',b'IDB',b'BID'
+b'912',b'IDB Sp.Fund',b'IDB Sp.Fund'
+b'913',b'AfDB',b'BAfD'
+b'914',b'AfDF',b'FAfD'
+b'915',b'AsDB',b'BAsD'
+b'916',b'AsDB Special Funds',b'BAsD fonds sp\xc3\xa9ciaux'
+b'921',b'Arab Fund (AFESD)',b'Fonds arabe (FADES)'
+b'923',b'UNPBF',b'FCP-ONU'
+b'928',b'WHO',b'OMS'
+b'944',b'IAEA',b'AIEA'
+b'948',b'UNECE',b'CEE-ONU'
+b'951',b'OFID',b'FODI'
+b'953',b'BADEA',b'BADEA'
+b'958',b'IMF (Concessional Trust Funds)',b'FMI (Fonds fiduciaires concessionnels)'
+b'959',b'UNDP',b'PNUD'
+b'960',b'UNTA',b'ATNU'
+b'963',b'UNICEF',b'UNICEF'
+b'964',b'UNRWA',b'UNRWA'
+b'966',b'WFP',b'PAM'
+b'967',b'UNHCR',b'FNUAP'
+b'971',b'UNAIDS',b'UNAIDS'
+b'974',b'UNFPA',b'UNFPA'
+b'976',b'Isl.Dev Bank',b'Banque de Dev.Isl.'
+b'978',b'OSCE',b'OSCE'
+b'988',b'IFAD',b'FIDA'
+b'990',b'EBRD',b'BERD'
+b'992',b'UN Agencies',b'Agences des Nations Unies'
+b'1011',b'Climate Investment Funds [CIF]',"b""Fonds d'investissement climatique [FIC]"""
+b'1311',b'GAVI',b'GAVI'
+b'1312',b'Global Fund',b'Fonds mondial'
+b'1313',b'Global Green Growth Institute  (GGGI)',b'Global Green Growth Institute  (GGGI)'

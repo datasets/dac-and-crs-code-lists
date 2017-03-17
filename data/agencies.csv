@@ -1,366 +1,366 @@
 code,donor_name_en,donor_name_fr,agency_code,agency_name_en,agency_name_fr,acronym
-1,Austria,Autriche,1,Federal Ministry of Finance,Ministère fédéral des finances,BMF
-1,Austria,Autriche,2,Various ministries,Ministères divers,MIN
-1,Austria,Autriche,3,Federal Government of Austria,Gouvernement fédéral d’Autriche,BReg
-1,Austria,Autriche,4,Oesterreichische Kontrollbank AG,Oesterreichische Kontrollbank AG,OeKB
-1,Austria,Autriche,5,"Federal Ministry for Europe, Integration and Foreign Affairs","Ministère fédéral de l'Europe, de l'intégration et des affaires étrangères",BMeiA
-1,Austria,Autriche,6,"Provincial governments, local communities","Administrations provinciales, communautés locales",Reg
-1,Austria,Autriche,7,Federal Chancellery,,BKA
-1,Austria,Autriche,8,Austrian Development Agency,Agence autrichienne de développement,ADA
-1,Austria,Autriche,9,Education and Science Ministry,Ministère de la science et de l’éducation,BM/BWK
-1,Austria,Autriche,10,"Federal Ministry for Agriculture, Forestry, Environment and Water Management","Ministère de l’agriculture, de la forêt,  de l’environnement et de la gestion des eaux",BMLFUW
-1,Austria,Autriche,11,Ministry of Defense and Sports,Ministère de la défense et des sports,BMLVS
-1,Austria,Autriche,12,Ministry of Interior,Ministère de l’intérieur,BMI
-1,Austria,Autriche,13,Austrian Development Bank,,OeEB
-1,Austria,Autriche,14,"Ministry for Education, Arts and Culture","Ministère Fédéral de l’Education, des Arts et de la Culture",BM:UKK
-1,Austria,Autriche,15,"Ministry for Science, Research and Economy","Ministère de la science, de la recherche et de l'économie",BMWFW
-1,Austria,Autriche,16,Federal Ministry of Education and Women's Affairs,Ministère fédéral de l'éducation et des affaires des femmes,BMBF
-1,Austria,Autriche,99,Miscellaneous,Divers,MISC
-2,Belgium,Belgique,10,Directorate General for Co-operation and Development,Direction générale pour la coopération et le développement,DGCD
-2,Belgium,Belgique,20,Official Federal Service of Foreign Affaires (excl. DGCD),Service public fédéral des affaires étrangères (hors. DGCD),SPAE
-2,Belgium,Belgique,30,Official Federal Service of Finance,Service public fédéral des finances,SPFF
-2,Belgium,Belgique,31,Ducroire National Office,Office national du Ducroire,OND
-2,Belgium,Belgique,39,Other Official Federal Services,Autres services publics fédéraux,ASPF
-2,Belgium,Belgique,60,provinces/municipalities,provinces/municipalités,LOC
-2,Belgium,Belgique,70,Flanders Official Regional Ministries,Ministères régionaux publics des Flandres,MPRF
-2,Belgium,Belgique,80,Walloon Official Regional Ministries,Ministères régionaux publics de Wallonie,MPRW
-2,Belgium,Belgique,91,Brussels Official Regional Ministries,Ministères régionaux publics de Bruxelles,MPRB
-2,Belgium,Belgique,94,German speaking Official Regional Ministries,Ministères régionaux publics de langue allemande,MPRG
-2,Belgium,Belgique,99,Miscellaneous,,MISC
-3,Denmark,Danemark,1,Ministry of Foreign Affairs,Ministère des affaires étrangères,MFA
-3,Denmark,Danemark,2,Danish International Development Agency,,DANIDA
-3,Denmark,Danemark,3,Investment Fund For Developing Countries,IFU,IFU
-3,Denmark,Danemark,4,Other ministries,Autres ministères,MIN
-3,Denmark,Danemark,5,"Ministry for immigration, integration, and housing","Ministère de l'immigration, de l'intégration et du logement",UIBM
-3,Denmark,Danemark,72,Eksport Kredit Fonden,EKR,EKR
-3,Denmark,Danemark,99,Miscellaneous,,MISC
-4,France,France,1,,,GOUV
-4,France,France,3,French Development Agency,Agence française de développement,AFD
-4,France,France,6,Ministry of Foreign Affairs,Ministère des affaires étrangères,MAE
-4,France,France,8,COOP DECENTRALISED,COOP DECENTRALISEE,COOP DECENTRALISEE
-4,France,France,10,"Ministry of Economy, Finance and Industry","Ministère de l’économie, des finances et de l’industrie",MINEFI
-4,France,France,12,Ministry of Interior,Ministère de l’intérieur,Intérieur
-4,France,France,13,Ministry of Agriculture,Ministère de l'Agriculture,AGRI
-4,France,France,14,Ministry of Defense,Ministère de la Défense,DEF
-4,France,France,15,Inter-ministerial,Interministériel,INTER
-4,France,France,16,Other Ministries,Autres ministères,AUTRES
-4,France,France,17,Ministry of Higher education and Research,Ministère de l'enseignement supérieur et de la recherche,MESR
-4,France,France,37,MIN/TRAVAIL,"Ministère du Travail, de l'Emploi, de la Formation professionnelle et du Dialogue social",MIN/TRAVAIL
-4,France,France,42,Banque de France,Banque de France,MINEFI/BDF
-4,France,France,43,Coface,Coface,Coface
-4,France,France,44,Proparco,Proparco,Proparco
-4,France,France,99,Miscellaneous,,MISC
-5,Germany,Allemagne,1,Bundesministerium für Wirtschaftliche Zusammenarbeit und Entwicklung,Bundesministerium für Wirtschaftliche Zusammenarbeit und Entwicklung,BMZ
-5,Germany,Allemagne,2,Kreditanstalt für Wiederaufbau,Kreditanstalt für Wiederaufbau,KFW
-5,Germany,Allemagne,4,German Investment and Development Company,Compagnie allemande d’investissement et de développement,DEG
-5,Germany,Allemagne,5,Federal Ministry of Finance,,BMF
-5,Germany,Allemagne,7,Foreign Office,Bureau des affaires étrangères,F O
-5,Germany,Allemagne,9,"Federal Ministry for the Environment, Nature Conservation, Building and Nuclear Safety","Ministère fédéral de l'environnement, de la protection de la nature, de la construction et de la sûreté nucléaire",BMU
-5,Germany,Allemagne,12,Federal States and Local Governments,Etats fédéraux et collectivités territoriales,L G
-5,Germany,Allemagne,14,Federal Institutions,Institutions fédérales,Fed.Inst.
-5,Germany,Allemagne,15,Deutscher Entwicklungsdienst,Deutscher Entwicklungsdienst,DED
-5,Germany,Allemagne,16,Federal Ministries,Ministères fédéraux,Fed.Min.
-5,Germany,Allemagne,17,Foundations/Societies/Misc. (non federal),Fondations/Sociétés/Divers (non fédéral),Found
-5,Germany,Allemagne,34,Euler Hermes Kreditversicherungs-AG,Hermes Kreditversicherungs-AG,Euler Hermes
-5,Germany,Allemagne,52,Deutsche Gesellschaft für Internationale Zusammenarbeit,Deutsche Gesellschaft für Internationale Zusammenarbeit,GIZ
-5,Germany,Allemagne,60,Federal Ministry of the Interior,Ministère fédéral de l’Intérieur,BMI
-5,Germany,Allemagne,61,Federal Ministry of Justice and Consumer Protection,Ministère fédéral de la Justice et de la Protection des Consommateurs,BMVJ
-5,Germany,Allemagne,62,Federal Ministry for Economic Affairs and Energy,Ministère fédéral de l'Économie et de l'Énergie,BMWi
-5,Germany,Allemagne,63,Federal Ministry of Food and Agriculture,Ministère fédéral de l'Alimentation et de l'Agriculture,BMEL
-5,Germany,Allemagne,64,Federal Ministry of Defence,Ministère fédéral de la Défense,BMVg
-5,Germany,Allemagne,65,"Federal Ministry of Family Affairs, Senior Citizens, Women and Youth","Ministère fédéral de la Famille, des Personnes âgées, de la Femme et de la Jeunesse",BMFSFJ
-5,Germany,Allemagne,66,Federal Ministry of Health,Ministère fédéral de la Santé,BMG
-5,Germany,Allemagne,67,Federal Ministry of Transport and Digital Infrastructure,Ministère fédéral des Transports et des Infrastructures numériques,BMVI
-5,Germany,Allemagne,68,Federal Ministry of Education and Research,Ministère fédéral de l’Éducation et de la Recherche,BMBF
-5,Germany,Allemagne,69,Federal Government Commissioner for Culture and the Media,,BKM
-5,Germany,Allemagne,70,German Bundestag,Bundestag allemand,Bundestag
-5,Germany,Allemagne,71,Federal Ministry of Labour and Social Affairs,Ministère fédéral du Travail et des Affaires sociales,BMAS
-5,Germany,Allemagne,80,Federal State of Schleswig-Holstein,,Schleswig-Holstein
-5,Germany,Allemagne,81,City State of Hamburg,,Hamburg
-5,Germany,Allemagne,82,Federal State of Lower-Saxony,,Niedersachsen
-5,Germany,Allemagne,83,City State of Bremen,,Bremen
-5,Germany,Allemagne,84,Federal State of North Rhine-Westphalia,,Nordrhein-Westfalen
-5,Germany,Allemagne,85,Federal State of Hesse,,Hessen
-5,Germany,Allemagne,86,Federal State of Rhineland-Palatinate,,Rheinland-Pfalz
-5,Germany,Allemagne,87,Federal State of Baden-Württemberg,,Baden-Württemberg
-5,Germany,Allemagne,88,Federal State of Bavaria,,Bayern
-5,Germany,Allemagne,89,Federal State of Saarland,,Saarland
-5,Germany,Allemagne,90,City State of Berlin,,Berlin
-5,Germany,Allemagne,91,Federal State of Brandenburg,,Brandenburg
-5,Germany,Allemagne,92,Federal State of Mecklenburg-West Pomerania,,Mecklenburg-Vorpommern
-5,Germany,Allemagne,93,Federal State of Saxony-Anhalt,,Sachsen-Anhalt
-5,Germany,Allemagne,94,Federal State of Saxony,,Sachsen
-5,Germany,Allemagne,95,Federal State of Thuringia,,Thüringen
-5,Germany,Allemagne,99,Miscellaneous,,MISC
-6,Italy,Italie,1,,,MGI
-6,Italy,Italie,2,Agenzia Erogazioni Per l’Agricoltura,Agenzia Erogazioni Per l’Agricoltura,AGEA
-6,Italy,Italie,3,,,OGPI
-6,Italy,Italie,4,Direzione Generale per la Cooperazione allo Sviluppo,Direzione Generale per la Cooperazione allo Sviluppo,DGCS
-6,Italy,Italie,5,,,MC
-6,Italy,Italie,7,Central administration,Administration centrale,CA
-6,Italy,Italie,8,Local administration,Administration locale,LA
-6,Italy,Italie,9,Artigiancassa,Artigiancassa,Art.
-6,Italy,Italie,10,"Earmarked fiscal flows to NGOs & religious organizations (5x1000, 8x1000)","Flux fiscaux pré-affectés aux ONG et orga. religieuses (5x1000, 8x1000)",5x1000-8x1000
-6,Italy,Italie,11,Public universities and research institutions and Italian red cross,"Universités et institutions de recherche publiques, croix rouge italienne",
-6,Italy,Italie,74,Sezione Speciale per l’Assicurazione del Credito all’Esportazione,Sezione Speciale per l’Assicurazione del Credito all’Esportazione,SACE
-6,Italy,Italie,99,Miscellaneous,,MISC
-7,Netherlands,Pays-Bas,1,Ministry of Foreign Affairs (DGIS),Ministère des affaires étrangères (DGIS),MFA
-7,Netherlands,Pays-Bas,3,,,NG
-7,Netherlands,Pays-Bas,4,NLD Investment Bank for Developing Countries,Banque hollandaise d’investissement pour les pays en dev.,NIO
-7,Netherlands,Pays-Bas,5,,,FMO
-7,Netherlands,Pays-Bas,33,Atradius,Atradius,Atradius
-7,Netherlands,Pays-Bas,99,Miscellaneous,,MISC
-8,Norway,Norvège,1,Norwegian Agency for Development Co-operation,Agence norvégienne de coopération pour le développement,NORAD
-8,Norway,Norvège,4,Ministry of Foreign Affairs,Ministère des affaires étrangères,MFA
-8,Norway,Norvège,7,Innovation Norway,,IN
-8,Norway,Norvège,8,NORFUND,NORFUND,NORFUND
-8,Norway,Norvège,9,FK Norway,,FK
-8,Norway,Norvège,10,Office of the Auditor General,,OAG
-8,Norway,Norvège,11,Ministry of Defence,Ministère de la Défense,DEF
-8,Norway,Norvège,12,Ministry of Climate and Environment,Ministère du Climat et de l'Environnement,ENV
-8,Norway,Norvège,13,Ministry of Climate and Environment,Ministère du Climat et de l'Environnement,FIN
-8,Norway,Norvège,71,Garantiinstituttet for eksportkreditt,Garantiinstituttet for Eksportkreditt,GIEK
-8,Norway,Norvège,99,Miscellaneous,,MISC
-9,Portugal,Portugal,1,Portuguese Government,Gouvernement portugais,GP
-9,Portugal,Portugal,2,Institute for Portuguese Development Aid,Institut Portugais de l’Aide pour le Développement,IPAD
-9,Portugal,Portugal,3,Municipalities,Municipalités,MUNIC
-9,Portugal,Portugal,4,SOFID Sociedade para o Financiamento do Desenvolvimento,SOFID Société pour le Financement du Développement,SOFID Society for Development Financing
-9,Portugal,Portugal,71,Conselho de garantias financeiras,Conselho de garantias financeiras,COSEC
-9,Portugal,Portugal,99,Miscellaneous,,MISC
-10,Sweden,Suède,1,,,SIDA
-10,Sweden,Suède,2,Ministry of Foreign Affairs,Ministère des affaires étrangères,MFA
-10,Sweden,Suède,3,,,SG
-10,Sweden,Suède,4,,,SAREC
-10,Sweden,Suède,5,,,BITS
-10,Sweden,Suède,6,Swedish International Development Authority,Administration suédoise de développement international,Sida
-10,Sweden,Suède,10,Ministry of Justice,Ministère de la justice,
-10,Sweden,Suède,11,Ministry of the Environment,Ministère de l'environnement,
-10,Sweden,Suède,12,Ministry of Finance,Ministère des finances,
-10,Sweden,Suède,20,Folke Bernadotte Academy,Academie Folke Bernadotte,
-10,Sweden,Suède,21,The Nordic Africa Institute,,
-10,Sweden,Suède,22,The National Police Board,,
-10,Sweden,Suède,23,Swedish Civil Contingencies Agency,,
-10,Sweden,Suède,24,Swedish Institute,,
-10,Sweden,Suède,25,Swedish Prison and Probation Service,,
-10,Sweden,Suède,27,Swedish National Audit Office,,
-10,Sweden,Suède,28,Swedish Radiation Safety Authority,,
-10,Sweden,Suède,29,The Swedish Research Council,,
-10,Sweden,Suède,30,Swedish Council for Higher Education,,
-10,Sweden,Suède,31,Swedish Prosecution Authority,,
-10,Sweden,Suède,32,Swedish National Courts Administration,,
-10,Sweden,Suède,36,SwedFund,,SwedFund
-10,Sweden,Suède,37,Swedish Consumer Agency,,
-10,Sweden,Suède,38,Swedish National Debt Office,,
-10,Sweden,Suède,71,Swedish Export Credits Guarantee Board,Comité suédois de garantie de crédits à l’exportation,EKN
-10,Sweden,Suède,80,Statistics Sweden,,
-10,Sweden,Suède,99,Miscellaneous,,MISC
-11,Switzerland,Suisse,1,Federal Administration (various departments),Administration fédérale (plusieurs départements),FA
-11,Switzerland,Suisse,4,Swiss Agency for Development and Co-operation,Agence suisse pour le développement et la coopération,SDC
-11,Switzerland,Suisse,5,State Secretariat for Economic Affairs,Secrétariat d’Etat à l'économie,Seco
-11,Switzerland,Suisse,6,Federal Department of Foreign Affairs,Département fédéral des affaires étrangères,DFA
-11,Switzerland,Suisse,7,State Secretariat for Education and Research,Secrétariat d’Etat à l’éducation et à la recherche,SER
-11,Switzerland,Suisse,8,Federal Office for Migration,Office fédéral des migrations,FOM
-11,Switzerland,Suisse,9,"Federal Department for Defence, Civil Protection and Sports","Dép. fédéral de la défense, de la protection de la population et des sports",DDPS
-11,Switzerland,Suisse,10,"Swiss Agency for the Environment, Forests and Landscape","Agence suisse pour l’environnement, les forêts et les paysages",SAEFL
-11,Switzerland,Suisse,11,Municipalities,Municipalités,MUNIC
-11,Switzerland,Suisse,99,Miscellaneous,,MISC
-12,United Kingdom,Royaume-Uni,1,Department for International Development,Département pour le développement international,DFID
-12,United Kingdom,Royaume-Uni,2,CDC Capital Partners PLC,CDC Capital Partners PLC,CDC
-12,United Kingdom,Royaume-Uni,3,Foreign & Commonwealth Office,,FCO
-12,United Kingdom,Royaume-Uni,4,Department of Energy and Climate Change,Département de l'énergie et du changement climatique,DECC
-12,United Kingdom,Royaume-Uni,5,Export Credit Guarantee Department,Département de garantie de crédits à l’exportation,ECGD
-12,United Kingdom,Royaume-Uni,6,Home Office,,HO
-12,United Kingdom,Royaume-Uni,7,Department for Environment Food and Rural Affairs,"Département pour l environnement, l alimentation et les affaires rurales",DEFRA
-12,United Kingdom,Royaume-Uni,8,Ministry of Defence,Ministère de la Défense,MOD
-12,United Kingdom,Royaume-Uni,9,Department for Work and Pensions,,DWP
-12,United Kingdom,Royaume-Uni,10,Department of Health,Ministère de la Santé,DH
-12,United Kingdom,Royaume-Uni,11,"Department for Business, Innovation and Skills",,BIS
-12,United Kingdom,Royaume-Uni,12,"Department for Culture, Media and Sports",Département de la Culture des Médias et du Sport,DCMS
-12,United Kingdom,Royaume-Uni,21,Scottish Government,Gouvenrment Ecossais,SG
-12,United Kingdom,Royaume-Uni,22,Welsh Assembly Government,Assemblée Gouvernementale Galloise,WAG
-12,United Kingdom,Royaume-Uni,99,Miscellaneous,,MISC
-18,Finland,Finlande,1,Finnish Government,Gouvernement finlandais,FG
-18,Finland,Finlande,2,FinnFund,FinnFund,FF
-18,Finland,Finlande,3,Ministry of Foreign Affairs,Ministère des affaires étrangères,MFA
-18,Finland,Finlande,4,Other Ministries,,Other Min.
-18,Finland,Finlande,72,FinnVera,FinnVera,FinnVera
-18,Finland,Finlande,99,Miscellaneous,,MISC
-20,Iceland,Islande,1,Ministry of Foreign Affairs,,MFA
-20,Iceland,Islande,2,ICEIDA,,ICEIDA
-20,Iceland,Islande,3,ICRU,,ICRU
-21,Ireland,Irlande,1,Department of Foreign Affairs,Département des affaires étrangères,DFA
-21,Ireland,Irlande,2,Department of Finance,,DF
-21,Ireland,Irlande,3,"Department of Agriculture, Food and the Marine",,DAFM
-21,Ireland,Irlande,99,Miscellaneous,,MISC
-22,Luxembourg,Luxembourg,1,Lux-Development,Lux-Development,LuxDev
-22,Luxembourg,Luxembourg,2,Ministry of Foreign Affairs,Ministère des affaires étrangères,MFA
-22,Luxembourg,Luxembourg,22,Ducroire Office,Bureau de Ducroire,ODL
-22,Luxembourg,Luxembourg,99,Miscellaneous,,MISC
-40,Greece,Grèce,1,Ministry of the Interior,Ministère de l'intérieur,MI
-40,Greece,Grèce,2,Ministry of Finance,Ministère des finances,MF
-40,Greece,Grèce,3,Ministry of Foreign Affairs,Ministère des affaires étrangères,MFA
-40,Greece,Grèce,4,Ministry of National Defense,Ministère de la défense nationale,MND
-40,Greece,Grèce,5,"Ministry of Development, Competitiveness & Shipping","Ministère du développement, de la compétitivité et de la navigation",MDCS
-40,Greece,Grèce,6,"Ministry of the Environment, Energy & Climate Change","Ministère de l’environnement, de l’énergie et du changement climatique",MEECC
-40,Greece,Grèce,7,"Ministry of Education, Life Long Learning & Religions",Ministère de l'éducation de la formation continue et des religions,MELLLR
-40,Greece,Grèce,8,"Ministry of Infrastructure, Transport and Networks","Ministère des infrastructures, des transports et des réseaux",MITN
-40,Greece,Grèce,9,Ministry of Employment & Social Security,Ministère de l'emploi et de la sécurité sociale,MESS
-40,Greece,Grèce,10,Ministry of Health & Social Solidarity,Ministère de la santé et de la solidarité sociale,MHSS
-40,Greece,Grèce,11,Ministry of Agricultural Development & Food,Ministère du développement agricole et de l'alimentation,MADF
-40,Greece,Grèce,12,"Ministry of Justice, Transparency & Human Rights","Ministère de la Justice, de la transparence et des droits humains",MJTHR
-40,Greece,Grèce,13,Ministry of Citizen Protection,Ministère de la protection des citoyens,MCP
-40,Greece,Grèce,14,Ministry of Culture & Tourism,Ministère de la culture et du tourisme,MCT
-40,Greece,Grèce,15,Municipalities,Municipalités,LA
-40,Greece,Grèce,99,Miscellaneous,Divers,MISC
-50,Spain,Espagne,1,Instituto de Credito Oficial,Instituto de Credito Oficial,ICO
-50,Spain,Espagne,2,Compania Espanola de Seguros de Credito a la Exportacion,Compania Espanola de Seguros de Credito a la Exportación,CESCE
-50,Spain,Espagne,4,"Ministry of Agriculture, Fisheries, and Food","Ministère de l’agriculture, pêche et alimentation",AGR
-50,Spain,Espagne,5,Ministry of Foreign Affairs and Co-operation,Ministère des affaires étrangères et cooperation,MFA
-50,Spain,Espagne,6,Ministry of Economy and Competitiveness,Ministère de l’économie et de la compétitivité,ECON
-50,Spain,Espagne,7,"Ministry of Education, Culture and Sports",Ministère des sciences et de l’éducation,EDUC
-50,Spain,Espagne,8,Ministry of Public Works,Ministère des travaux publics,MPW
-50,Spain,Espagne,9,Ministry of Industry and Energy,Ministère de l’industrie et de l’énergie,MIE
-50,Spain,Espagne,10,Ministry of the Environment and Rural and Marine Environs,Ministère de l’environnement,MARM
-50,Spain,Espagne,11,Ministry of Health,Ministère de la santé,MOH
-50,Spain,Espagne,12,Ministry of Labour and Social Affairs,Ministère de l’emploi et des affaires sociales,EMP
-50,Spain,Espagne,13,Ministry of Interior,Ministère de l’intérieur,INT
-50,Spain,Espagne,14,Ministry of Public Administration,Ministère de l’administration publique,MPA
-50,Spain,Espagne,15,Autonomous Governments,Gouvernements autonomes,AG
-50,Spain,Espagne,16,Municipalities,Municipalités,MUNIC
-50,Spain,Espagne,18,Ministry of Science and Technology,Ministère des sciences et de la technologie,MST
-50,Spain,Espagne,19,Ministry of Defence,Ministère de la Défense,DEF
-50,Spain,Espagne,20,Public Universities,,UNIV
-50,Spain,Espagne,21,Spanish Agency for International Development Co-operation,,AECID
-50,Spain,Espagne,22,Others ministries,Autres ministères,Oth. Min.
-50,Spain,Espagne,99,Miscellaneous,,MISC
-61,Slovenia,Slovénie,1,Ministry of finance,Ministère des finances,FIN
-61,Slovenia,Slovénie,2,Ministry of foreign affairs,Ministère des affaires étrangères,MFA
-61,Slovenia,Slovénie,3,Ministry of interior,Ministère de l'intérieur,INT
-61,Slovenia,Slovénie,4,Ministry of  Defence,Ministère de la Défense,DEF
-61,Slovenia,Slovénie,99,Misc.,Divers,MISC
-68,Czech Republic,République tchèque,1,Czech Development Agency,,CZDA
-68,Czech Republic,République tchèque,2,Ministry of Foreign Affairs,,MFA
-68,Czech Republic,République tchèque,3,Ministry of Finance,,MOF
-68,Czech Republic,République tchèque,4,"Miinistry of Education, Youth, Sports",,MEYS
-68,Czech Republic,République tchèque,5,Ministry of the Interior,,MOI
-68,Czech Republic,République tchèque,6,Police,,Police
-68,Czech Republic,République tchèque,7,Ministry of Defence,,MD
-68,Czech Republic,République tchèque,8,Ministry of Health,,MH
-68,Czech Republic,République tchèque,9,Ministry of Industry and Trade,,MIT
-68,Czech Republic,République tchèque,10,Czech National Bank,,CNB
-68,Czech Republic,République tchèque,11,Ministry of Justice,,MJ
-68,Czech Republic,République tchèque,12,Ministry of Labour and Social Affairs,,MOLSA
-68,Czech Republic,République tchèque,13,Universities,,Universities
-68,Czech Republic,République tchèque,14,Regional Governments and Municipalities,,Regional Governments and Municipalities
-68,Czech Republic,République tchèque,15,Ministry of Environment,,MOE
-68,Czech Republic,République tchèque,16,State Office for Nuclear Saftey,,SUJB
-68,Czech Republic,République tchèque,99,Other,,Other
-69,Slovak Republic,République slovaque,1,Ministry of Foreign and European Affairs (MZVaEZ),Ministère des affaire étrangère et européennes,MZVaEZ
-69,Slovak Republic,République slovaque,2,Slovak Agency for International Deve (SAMRS),Agence Slovaque pour le dévelopmment international,SAMRS
-69,Slovak Republic,République slovaque,3,Ministry of Finance,Ministère des finances,FIN
-69,Slovak Republic,République slovaque,4,"Ministry of Education, Science, Rese (MSVVS)","Ministères de l'Education, de la Science et de la recherche",MSVVS
-69,Slovak Republic,République slovaque,18,Other ministries,autres ministères,NULL
-69,Slovak Republic,République slovaque,30,Local and Regional governments,gouvernement locaux et régionaux,VUC
-69,Slovak Republic,République slovaque,50,Export-Import bank,Banque d'Export-Import,EXIM
-69,Slovak Republic,République slovaque,99,Miscellaneous,Divers,MISC
-76,Poland,Pologne,1,Ministry of Foreign Affairs,,MFA
-76,Poland,Pologne,2,Ministry of Science and Higher Education,,MSHE
-76,Poland,Pologne,3,Ministry of the Interior,,MI
-76,Poland,Pologne,4,Ministry of Culture and National Heritage,,MCNH
-76,Poland,Pologne,5,Ministry of Finance,,MF
-76,Poland,Pologne,6,Ministry of the Environment,,ME
-76,Poland,Pologne,99,Miscellaneous,,MISC
-301,Canada,Canada,1,Canadian International Development Agency,Agence canadienne de développement international,CIDA
-301,Canada,Canada,2,International Development Research Centre,Centre de recherche pour le développement international,IDRC
-301,Canada,Canada,3,Global Affairs Canada,Affaires Mondiales Canada,GAC
-301,Canada,Canada,4,Department of Finance Canada,Département des Finances,FIN
-301,Canada,Canada,6,Foreign Affairs and International Trade Canada,Affaires étrangères et du Commerce international Canada,DFAIT
-301,Canada,Canada,7,Department of National Defence,Ministère de la Défense Nationale,DND
-301,Canada,Canada,8,Royal Canadian Mounted Police of Canada,Gendarmerie Royale du Canada,RCMP
-301,Canada,Canada,9,Provincial Governments and municipalities,Gouvernements provinciaux et municipalités,GOV
-301,Canada,Canada,31,Export Development Canada,Exportation et développement Canada,EDC
-301,Canada,Canada,99,Miscellaneous,,MISC
-302,United States,Etats-Unis,1,Agency for International Development,Agence de développement international,AID
-302,United States,Etats-Unis,2,Department of Agriculture,Département de l’agriculture,AGR
-302,United States,Etats-Unis,6,Department of Treasury,Département du trésor,DTRE
-302,United States,Etats-Unis,7,Department of Defense,Département de la défense,DOD
-302,United States,Etats-Unis,9,Department of the Interior,,INTERIOR
-302,United States,Etats-Unis,10,Peace Corps,Volontaires du développement (« Peace Corps »),PEACE
-302,United States,Etats-Unis,11,State Department,Département d’état,STATE
-302,United States,Etats-Unis,12,Trade and Development Agency,Agence du commerce et du développement,TDA
-302,United States,Etats-Unis,13,African Development Foundation,Fondation pour le développement africain,ADF
-302,United States,Etats-Unis,14,Department of Health and Human Services,,HHS
-302,United States,Etats-Unis,15,Department of Justice,,JUSTICE
-302,United States,Etats-Unis,16,Department of Commerce,,COMMERCE
-302,United States,Etats-Unis,17,Department of Labor,Département du travail,LABOR
-302,United States,Etats-Unis,18,Millennium Challenge Corporation,,MCC
-302,United States,Etats-Unis,19,Department of Homeland Security,,DHS
-302,United States,Etats-Unis,20,Department of Energy,,DOE
-302,United States,Etats-Unis,21,Inter-American Development Foundation,,IADF
-302,United States,Etats-Unis,22,Overseas Private Investment Corporation,,OPIC
-302,United States,Etats-Unis,23,Federal Trade Commission,,FTC
-302,United States,Etats-Unis,24,Nuclear Regulatory Commission,,NRC
-302,United States,Etats-Unis,25,National Science Foundation,,NSF
-302,United States,Etats-Unis,26,Department of Transportation,,DOT
-302,United States,Etats-Unis,27,United States Institute of Peace,,USIP
-302,United States,Etats-Unis,28,Open World Leadership Center,,LIC
-302,United States,Etats-Unis,29,United States Postal Service,,POSTAL
-302,United States,Etats-Unis,30,Executive Office of the President,,EOP
-302,United States,Etats-Unis,31,Export Import Bank,Banque d’import/export,EXIM
-302,United States,Etats-Unis,32,Environmental Protection Agency,,EPA
-302,United States,Etats-Unis,33,Broadcasting Board of Governors,,BBG
-302,United States,Etats-Unis,40,Private flows,,PRIVATE
-302,United States,Etats-Unis,99,Miscellaneous,,MISC
-552,Kuwait (KFAED),Koweit (FKDEA),1,,,Kuwait Fund for Arab Economic Development (KFAED)
-552,Kuwait (KFAED),Koweit (FKDEA),2,,,Government Grants administered by KFAED
-552,Kuwait (KFAED),Koweit (FKDEA),99,Miscellaneous,,MISC
-576,United Arab Emirates,Emirats arabes unis,2,Abu Dhabi Department of Finance,Département des finances d'Abu Dhabi,DOF
-576,United Arab Emirates,Emirats arabes unis,3,Abu Dhabi Fund for Development,Fonds Abu Dhabi pour le développement,ADFD
-576,United Arab Emirates,Emirats arabes unis,7,International Humanitarian City,,IHC
-576,United Arab Emirates,Emirats arabes unis,17,Khalifa Bin Zayed Al Nahyan Foundation,Fondation Khalifa Bin Zayed Al Nahyan,KZF
-576,United Arab Emirates,Emirats arabes unis,18,Mohammed Bin Rashid Al Maktoum Humanitarian and Charity Establishment,Etablissement humanitaire et de charité Mohammed Bin Rashid Al Maktoum,MRHC
-576,United Arab Emirates,Emirats arabes unis,19,Zayed Bin Sultan Al Nahyan Charitable and Humanitarian Foundation,Etablissement humanitaire et de charité Zayed Bin Sultan Al Nahyan,ZCHF
-576,United Arab Emirates,Emirats arabes unis,20,Al Maktoum Foundation,Fondation Al Maktoum,MF
-576,United Arab Emirates,Emirats arabes unis,21,Dubai Cares,,DC
-576,United Arab Emirates,Emirats arabes unis,22,UAE Red Crescent Authority,Autorité du Croissant Rouge des EAU,RCA
-576,United Arab Emirates,Emirats arabes unis,23,Noor Dubai,,ND
-576,United Arab Emirates,Emirats arabes unis,25,Other Government Entitites,autres entités gouvernementales,OTHER
-576,United Arab Emirates,Emirats arabes unis,99,Miscellaneous,,MISC
-613,Kazakhstan,Kazakhstan,1,Ministry of Foreign Affairs,Ministère des affaires étrangères,MFA
-613,Kazakhstan,Kazakhstan,2,Government of the Republic of Kazakhstan,Gouvernement de la République du Kazakhstan,GOV
-613,Kazakhstan,Kazakhstan,3,Ministry of Education and Science,Ministère de l'éducation et de la science,EDUC
-613,Kazakhstan,Kazakhstan,4,Sovereign Wealth Fund (Samruk-Kazyna),Fond souverain (Samruk-Kazyna),NULL
-613,Kazakhstan,Kazakhstan,99,Miscellaneous,Divers,MISC
-701,Japan,Japon,1,"Ministry of Agriculture, Forestry and Fisheries","Ministère de l’agriculture, de la sylviculture et de la pêche",MAFF
-701,Japan,Japon,2,Ministry of Foreign Affairs,Ministère des affaires étrangères,MOFA
-701,Japan,Japon,4,,,EXIM BANK
-701,Japan,Japon,5,,,OECF
-701,Japan,Japon,6,,,FOOD AID
-701,Japan,Japon,7,Overseas Fishery Co-operation Foundation,Bureau de coopération d’outre-mer pour la pêche,OFCF
-701,Japan,Japon,8,Japanese International Co-operation Agency,Agence japonaise de coopération internationale,JICA
-701,Japan,Japon,10,Japan Overseas Development Co-operation,Agence japonaise de coopération outre-mer,JODC
-701,Japan,Japon,11,Japan Bank for International Co-operation,Banque japonaise pour la coopération internationale,JBIC
-701,Japan,Japon,12,Other Ministries,Autres ministères,Oth. MIN
-701,Japan,Japon,13,Public Corporations,Corporations publiques,PC
-701,Japan,Japon,14,Prefectures,Préfectures,PRF
-701,Japan,Japon,15,Ordinance-designed Cities,Villes désignées par ordonnance,ODC
-701,Japan,Japon,71,Nippon Export and Investment Insurance,Assurance Nippone Exports et investissements,NEXI
-701,Japan,Japon,99,Miscellaneous,,MISC
-742,Korea,Corée,1,Ministry of Strategy and Finance,,MOSF
-742,Korea,Corée,2,Export-Import Bank of Korea,,KEXIM
-742,Korea,Corée,3,Ministry of Foreign Affairs and Trade,,MOFAT
-742,Korea,Corée,4,Korea International Cooperation Agency,,KOICA
-742,Korea,Corée,99,Miscellaneous,,MISC
-801,Australia,Australie,2,Attorney-General,,AG
-801,Australia,Australie,5,Australian government,Gouvernement australien,Aus Gov
-801,Australia,Australie,72,Export Finance and Insurance Corporation,Corporation de financement et d’assurance des exportations,EFIC
-801,Australia,Australie,99,Miscellaneous,,MISC
-820,New Zealand,Nouvelle-Zélande,1,Ministry of Foreign Affairs and Trade,Ministère des affaires étrangères et du commerce,NZG
-820,New Zealand,Nouvelle-Zélande,2,New Zealand International Aid and Development Agency,Agence néozélandaise d’aide et de développement international,NZAid
-820,New Zealand,Nouvelle-Zélande,99,Miscellaneous,,MISC
-918,EU Institutions,Institutions de l'UE,1,Commission of the European Communities,Commission des Communautés européennes,CEC
-918,EU Institutions,Institutions de l'UE,2,European Development Fund,Fonds européen de développement,EDF
-918,EU Institutions,Institutions de l'UE,3,European Investment Bank,Banque européenne d’investissement,EIB
-918,EU Institutions,Institutions de l'UE,4,Humanitarian Aid Office of the European Commission,Bureau d’aide humanitaire de la Commission européenne,ECHO
-918,EU Institutions,Institutions de l'UE,99,Miscellaneous,,MISC
-1601,Bill & Melinda Gates Foundation,Fondation Bill et Melinda Gates,1,,Fondation Bill & Melinda Gates,Bill & Melinda Gates Foundation
+b'1',b'Austria',b'Autriche',b'1',b'Federal Ministry of Finance',b'Minist\xc3\xa8re f\xc3\xa9d\xc3\xa9ral des finances',b'BMF'
+b'1',b'Austria',b'Autriche',b'2',b'Various ministries',b'Minist\xc3\xa8res divers',b'MIN'
+b'1',b'Austria',b'Autriche',b'3',b'Federal Government of Austria',b'Gouvernement f\xc3\xa9d\xc3\xa9ral d\xe2\x80\x99Autriche',b'BReg'
+b'1',b'Austria',b'Autriche',b'4',b'Oesterreichische Kontrollbank AG',b'Oesterreichische Kontrollbank AG',b'OeKB'
+b'1',b'Austria',b'Autriche',b'5',"b'Federal Ministry for Europe, Integration and Foreign Affairs'","b""Minist\xc3\xa8re f\xc3\xa9d\xc3\xa9ral de l'Europe, de l'int\xc3\xa9gration et des affaires \xc3\xa9trang\xc3\xa8res""",b'BMeiA'
+b'1',b'Austria',b'Autriche',b'6',"b'Provincial governments, local communities'","b'Administrations provinciales, communaut\xc3\xa9s locales'",b'Reg'
+b'1',b'Austria',b'Autriche',b'7',b'Federal Chancellery',b'',b'BKA'
+b'1',b'Austria',b'Autriche',b'8',b'Austrian Development Agency',b'Agence autrichienne de d\xc3\xa9veloppement',b'ADA'
+b'1',b'Austria',b'Autriche',b'9',b'Education and Science Ministry',b'Minist\xc3\xa8re de la science et de l\xe2\x80\x99\xc3\xa9ducation',b'BM/BWK'
+b'1',b'Austria',b'Autriche',b'10',"b'Federal Ministry for Agriculture, Forestry, Environment and Water Management'","b'Minist\xc3\xa8re de l\xe2\x80\x99agriculture, de la for\xc3\xaat,  de l\xe2\x80\x99environnement et de la gestion des eaux'",b'BMLFUW'
+b'1',b'Austria',b'Autriche',b'11',b'Ministry of Defense and Sports',b'Minist\xc3\xa8re de la d\xc3\xa9fense et des sports',b'BMLVS'
+b'1',b'Austria',b'Autriche',b'12',b'Ministry of Interior',b'Minist\xc3\xa8re de l\xe2\x80\x99int\xc3\xa9rieur',b'BMI'
+b'1',b'Austria',b'Autriche',b'13',b'Austrian Development Bank',b'',b'OeEB'
+b'1',b'Austria',b'Autriche',b'14',"b'Ministry for Education, Arts and Culture'","b'Minist\xc3\xa8re F\xc3\xa9d\xc3\xa9ral de l\xe2\x80\x99Education, des Arts et de la Culture'",b'BM:UKK'
+b'1',b'Austria',b'Autriche',b'15',"b'Ministry for Science, Research and Economy'","b""Minist\xc3\xa8re de la science, de la recherche et de l'\xc3\xa9conomie""",b'BMWFW'
+b'1',b'Austria',b'Autriche',b'16',"b""Federal Ministry of Education and Women's Affairs""","b""Minist\xc3\xa8re f\xc3\xa9d\xc3\xa9ral de l'\xc3\xa9ducation et des affaires des femmes""",b'BMBF'
+b'1',b'Austria',b'Autriche',b'99',b'Miscellaneous',b'Divers',b'MISC'
+b'2',b'Belgium',b'Belgique',b'10',b'Directorate General for Co-operation and Development',b'Direction g\xc3\xa9n\xc3\xa9rale pour la coop\xc3\xa9ration et le d\xc3\xa9veloppement',b'DGCD'
+b'2',b'Belgium',b'Belgique',b'20',b'Official Federal Service of Foreign Affaires (excl. DGCD)',b'Service public f\xc3\xa9d\xc3\xa9ral des affaires \xc3\xa9trang\xc3\xa8res (hors. DGCD)',b'SPAE'
+b'2',b'Belgium',b'Belgique',b'30',b'Official Federal Service of Finance',b'Service public f\xc3\xa9d\xc3\xa9ral des finances',b'SPFF'
+b'2',b'Belgium',b'Belgique',b'31',b'Ducroire National Office',b'Office national du Ducroire',b'OND'
+b'2',b'Belgium',b'Belgique',b'39',b'Other Official Federal Services',b'Autres services publics f\xc3\xa9d\xc3\xa9raux',b'ASPF'
+b'2',b'Belgium',b'Belgique',b'60',b'provinces/municipalities',b'provinces/municipalit\xc3\xa9s',b'LOC'
+b'2',b'Belgium',b'Belgique',b'70',b'Flanders Official Regional Ministries',b'Minist\xc3\xa8res r\xc3\xa9gionaux publics des Flandres',b'MPRF'
+b'2',b'Belgium',b'Belgique',b'80',b'Walloon Official Regional Ministries',b'Minist\xc3\xa8res r\xc3\xa9gionaux publics de Wallonie',b'MPRW'
+b'2',b'Belgium',b'Belgique',b'91',b'Brussels Official Regional Ministries',b'Minist\xc3\xa8res r\xc3\xa9gionaux publics de Bruxelles',b'MPRB'
+b'2',b'Belgium',b'Belgique',b'94',b'German speaking Official Regional Ministries',b'Minist\xc3\xa8res r\xc3\xa9gionaux publics de langue allemande',b'MPRG'
+b'2',b'Belgium',b'Belgique',b'99',b'Miscellaneous',b'',b'MISC'
+b'3',b'Denmark',b'Danemark',b'1',b'Ministry of Foreign Affairs',b'Minist\xc3\xa8re des affaires \xc3\xa9trang\xc3\xa8res',b'MFA'
+b'3',b'Denmark',b'Danemark',b'2',b'Danish International Development Agency',b'',b'DANIDA'
+b'3',b'Denmark',b'Danemark',b'3',b'Investment Fund For Developing Countries',b'IFU',b'IFU'
+b'3',b'Denmark',b'Danemark',b'4',b'Other ministries',b'Autres minist\xc3\xa8res',b'MIN'
+b'3',b'Denmark',b'Danemark',b'5',"b'Ministry for immigration, integration, and housing'","b""Minist\xc3\xa8re de l'immigration, de l'int\xc3\xa9gration et du logement""",b'UIBM'
+b'3',b'Denmark',b'Danemark',b'72',b'Eksport Kredit Fonden',b'EKR',b'EKR'
+b'3',b'Denmark',b'Danemark',b'99',b'Miscellaneous',b'',b'MISC'
+b'4',b'France',b'France',b'1',b'',b'',b'GOUV'
+b'4',b'France',b'France',b'3',b'French Development Agency',b'Agence fran\xc3\xa7aise de d\xc3\xa9veloppement',b'AFD'
+b'4',b'France',b'France',b'6',b'Ministry of Foreign Affairs',b'Minist\xc3\xa8re des affaires \xc3\xa9trang\xc3\xa8res',b'MAE'
+b'4',b'France',b'France',b'8',b'COOP DECENTRALISED',b'COOP DECENTRALISEE',b'COOP DECENTRALISEE'
+b'4',b'France',b'France',b'10',"b'Ministry of Economy, Finance and Industry'","b'Minist\xc3\xa8re de l\xe2\x80\x99\xc3\xa9conomie, des finances et de l\xe2\x80\x99industrie'",b'MINEFI'
+b'4',b'France',b'France',b'12',b'Ministry of Interior',b'Minist\xc3\xa8re de l\xe2\x80\x99int\xc3\xa9rieur',b'Int\xc3\xa9rieur'
+b'4',b'France',b'France',b'13',b'Ministry of Agriculture',"b""Minist\xc3\xa8re de l'Agriculture""",b'AGRI'
+b'4',b'France',b'France',b'14',b'Ministry of Defense',b'Minist\xc3\xa8re de la D\xc3\xa9fense',b'DEF'
+b'4',b'France',b'France',b'15',b'Inter-ministerial',b'Interminist\xc3\xa9riel',b'INTER'
+b'4',b'France',b'France',b'16',b'Other Ministries',b'Autres minist\xc3\xa8res',b'AUTRES'
+b'4',b'France',b'France',b'17',b'Ministry of Higher education and Research',"b""Minist\xc3\xa8re de l'enseignement sup\xc3\xa9rieur et de la recherche""",b'MESR'
+b'4',b'France',b'France',b'37',b'MIN/TRAVAIL',"b""Minist\xc3\xa8re du Travail, de l'Emploi, de la Formation professionnelle et du Dialogue social""",b'MIN/TRAVAIL'
+b'4',b'France',b'France',b'42',b'Banque de France',b'Banque de France',b'MINEFI/BDF'
+b'4',b'France',b'France',b'43',b'Coface',b'Coface',b'Coface'
+b'4',b'France',b'France',b'44',b'Proparco',b'Proparco',b'Proparco'
+b'4',b'France',b'France',b'99',b'Miscellaneous',b'',b'MISC'
+b'5',b'Germany',b'Allemagne',b'1',b'Bundesministerium f\xc3\xbcr Wirtschaftliche Zusammenarbeit und Entwicklung',b'Bundesministerium f\xc3\xbcr Wirtschaftliche Zusammenarbeit und Entwicklung',b'BMZ'
+b'5',b'Germany',b'Allemagne',b'2',b'Kreditanstalt f\xc3\xbcr Wiederaufbau',b'Kreditanstalt f\xc3\xbcr Wiederaufbau',b'KFW'
+b'5',b'Germany',b'Allemagne',b'4',b'German Investment and Development Company',b'Compagnie allemande d\xe2\x80\x99investissement et de d\xc3\xa9veloppement',b'DEG'
+b'5',b'Germany',b'Allemagne',b'5',b'Federal Ministry of Finance',b'',b'BMF'
+b'5',b'Germany',b'Allemagne',b'7',b'Foreign Office',b'Bureau des affaires \xc3\xa9trang\xc3\xa8res',b'F O'
+b'5',b'Germany',b'Allemagne',b'9',"b'Federal Ministry for the Environment, Nature Conservation, Building and Nuclear Safety'","b""Minist\xc3\xa8re f\xc3\xa9d\xc3\xa9ral de l'environnement, de la protection de la nature, de la construction et de la s\xc3\xbbret\xc3\xa9 nucl\xc3\xa9aire""",b'BMU'
+b'5',b'Germany',b'Allemagne',b'12',b'Federal States and Local Governments',b'Etats f\xc3\xa9d\xc3\xa9raux et collectivit\xc3\xa9s territoriales',b'L G'
+b'5',b'Germany',b'Allemagne',b'14',b'Federal Institutions',b'Institutions f\xc3\xa9d\xc3\xa9rales',b'Fed.Inst.'
+b'5',b'Germany',b'Allemagne',b'15',b'Deutscher Entwicklungsdienst',b'Deutscher Entwicklungsdienst',b'DED'
+b'5',b'Germany',b'Allemagne',b'16',b'Federal Ministries',b'Minist\xc3\xa8res f\xc3\xa9d\xc3\xa9raux',b'Fed.Min.'
+b'5',b'Germany',b'Allemagne',b'17',b'Foundations/Societies/Misc. (non federal)',b'Fondations/Soci\xc3\xa9t\xc3\xa9s/Divers (non f\xc3\xa9d\xc3\xa9ral)',b'Found'
+b'5',b'Germany',b'Allemagne',b'34',b'Euler Hermes Kreditversicherungs-AG',b'Hermes Kreditversicherungs-AG',b'Euler Hermes'
+b'5',b'Germany',b'Allemagne',b'52',b'Deutsche Gesellschaft f\xc3\xbcr Internationale Zusammenarbeit',b'Deutsche Gesellschaft f\xc3\xbcr Internationale Zusammenarbeit',b'GIZ'
+b'5',b'Germany',b'Allemagne',b'60',b'Federal Ministry of the Interior',b'Minist\xc3\xa8re f\xc3\xa9d\xc3\xa9ral de l\xe2\x80\x99Int\xc3\xa9rieur',b'BMI'
+b'5',b'Germany',b'Allemagne',b'61',b'Federal Ministry of Justice and Consumer Protection',b'Minist\xc3\xa8re f\xc3\xa9d\xc3\xa9ral de la Justice et de la Protection des Consommateurs',b'BMVJ'
+b'5',b'Germany',b'Allemagne',b'62',b'Federal Ministry for Economic Affairs and Energy',"b""Minist\xc3\xa8re f\xc3\xa9d\xc3\xa9ral de l'\xc3\x89conomie et de l'\xc3\x89nergie""",b'BMWi'
+b'5',b'Germany',b'Allemagne',b'63',b'Federal Ministry of Food and Agriculture',"b""Minist\xc3\xa8re f\xc3\xa9d\xc3\xa9ral de l'Alimentation et de l'Agriculture""",b'BMEL'
+b'5',b'Germany',b'Allemagne',b'64',b'Federal Ministry of Defence',b'Minist\xc3\xa8re f\xc3\xa9d\xc3\xa9ral de la D\xc3\xa9fense',b'BMVg'
+b'5',b'Germany',b'Allemagne',b'65',"b'Federal Ministry of Family Affairs, Senior Citizens, Women and Youth'","b'Minist\xc3\xa8re f\xc3\xa9d\xc3\xa9ral de la Famille, des Personnes \xc3\xa2g\xc3\xa9es, de la Femme et de la Jeunesse'",b'BMFSFJ'
+b'5',b'Germany',b'Allemagne',b'66',b'Federal Ministry of Health',b'Minist\xc3\xa8re f\xc3\xa9d\xc3\xa9ral de la Sant\xc3\xa9',b'BMG'
+b'5',b'Germany',b'Allemagne',b'67',b'Federal Ministry of Transport and Digital Infrastructure',b'Minist\xc3\xa8re f\xc3\xa9d\xc3\xa9ral des Transports et des Infrastructures num\xc3\xa9riques',b'BMVI'
+b'5',b'Germany',b'Allemagne',b'68',b'Federal Ministry of Education and Research',b'Minist\xc3\xa8re f\xc3\xa9d\xc3\xa9ral de l\xe2\x80\x99\xc3\x89ducation et de la Recherche',b'BMBF'
+b'5',b'Germany',b'Allemagne',b'69',b'Federal Government Commissioner for Culture and the Media',b'',b'BKM'
+b'5',b'Germany',b'Allemagne',b'70',b'German Bundestag',b'Bundestag allemand',b'Bundestag'
+b'5',b'Germany',b'Allemagne',b'71',b'Federal Ministry of Labour and Social Affairs',b'Minist\xc3\xa8re f\xc3\xa9d\xc3\xa9ral du Travail et des Affaires sociales',b'BMAS'
+b'5',b'Germany',b'Allemagne',b'80',b'Federal State of Schleswig-Holstein',b'',b'Schleswig-Holstein'
+b'5',b'Germany',b'Allemagne',b'81',b'City State of Hamburg',b'',b'Hamburg'
+b'5',b'Germany',b'Allemagne',b'82',b'Federal State of Lower-Saxony',b'',b'Niedersachsen'
+b'5',b'Germany',b'Allemagne',b'83',b'City State of Bremen',b'',b'Bremen'
+b'5',b'Germany',b'Allemagne',b'84',b'Federal State of North Rhine-Westphalia',b'',b'Nordrhein-Westfalen'
+b'5',b'Germany',b'Allemagne',b'85',b'Federal State of Hesse',b'',b'Hessen'
+b'5',b'Germany',b'Allemagne',b'86',b'Federal State of Rhineland-Palatinate',b'',b'Rheinland-Pfalz'
+b'5',b'Germany',b'Allemagne',b'87',b'Federal State of Baden-W\xc3\xbcrttemberg',b'',b'Baden-W\xc3\xbcrttemberg'
+b'5',b'Germany',b'Allemagne',b'88',b'Federal State of Bavaria',b'',b'Bayern'
+b'5',b'Germany',b'Allemagne',b'89',b'Federal State of Saarland',b'',b'Saarland'
+b'5',b'Germany',b'Allemagne',b'90',b'City State of Berlin',b'',b'Berlin'
+b'5',b'Germany',b'Allemagne',b'91',b'Federal State of Brandenburg',b'',b'Brandenburg'
+b'5',b'Germany',b'Allemagne',b'92',b'Federal State of Mecklenburg-West Pomerania',b'',b'Mecklenburg-Vorpommern'
+b'5',b'Germany',b'Allemagne',b'93',b'Federal State of Saxony-Anhalt',b'',b'Sachsen-Anhalt'
+b'5',b'Germany',b'Allemagne',b'94',b'Federal State of Saxony',b'',b'Sachsen'
+b'5',b'Germany',b'Allemagne',b'95',b'Federal State of Thuringia',b'',b'Th\xc3\xbcringen'
+b'5',b'Germany',b'Allemagne',b'99',b'Miscellaneous',b'',b'MISC'
+b'6',b'Italy',b'Italie',b'1',b'',b'',b'MGI'
+b'6',b'Italy',b'Italie',b'2',b'Agenzia Erogazioni Per l\xe2\x80\x99Agricoltura',b'Agenzia Erogazioni Per l\xe2\x80\x99Agricoltura',b'AGEA'
+b'6',b'Italy',b'Italie',b'3',b'',b'',b'OGPI'
+b'6',b'Italy',b'Italie',b'4',b'Direzione Generale per la Cooperazione allo Sviluppo',b'Direzione Generale per la Cooperazione allo Sviluppo',b'DGCS'
+b'6',b'Italy',b'Italie',b'5',b'',b'',b'MC'
+b'6',b'Italy',b'Italie',b'7',b'Central administration',b'Administration centrale',b'CA'
+b'6',b'Italy',b'Italie',b'8',b'Local administration',b'Administration locale',b'LA'
+b'6',b'Italy',b'Italie',b'9',b'Artigiancassa',b'Artigiancassa',b'Art.'
+b'6',b'Italy',b'Italie',b'10',"b'Earmarked fiscal flows to NGOs & religious organizations (5x1000, 8x1000)'","b'Flux fiscaux pr\xc3\xa9-affect\xc3\xa9s aux ONG et orga. religieuses (5x1000, 8x1000)'",b'5x1000-8x1000'
+b'6',b'Italy',b'Italie',b'11',b'Public universities and research institutions and Italian red cross',"b'Universit\xc3\xa9s et institutions de recherche publiques, croix rouge italienne'",b''
+b'6',b'Italy',b'Italie',b'74',b'Sezione Speciale per l\xe2\x80\x99Assicurazione del Credito all\xe2\x80\x99Esportazione',b'Sezione Speciale per l\xe2\x80\x99Assicurazione del Credito all\xe2\x80\x99Esportazione',b'SACE'
+b'6',b'Italy',b'Italie',b'99',b'Miscellaneous',b'',b'MISC'
+b'7',b'Netherlands',b'Pays-Bas',b'1',b'Ministry of Foreign Affairs (DGIS)',b'Minist\xc3\xa8re des affaires \xc3\xa9trang\xc3\xa8res (DGIS)',b'MFA'
+b'7',b'Netherlands',b'Pays-Bas',b'3',b'',b'',b'NG'
+b'7',b'Netherlands',b'Pays-Bas',b'4',b'NLD Investment Bank for Developing Countries',b'Banque hollandaise d\xe2\x80\x99investissement pour les pays en dev.',b'NIO'
+b'7',b'Netherlands',b'Pays-Bas',b'5',b'',b'',b'FMO'
+b'7',b'Netherlands',b'Pays-Bas',b'33',b'Atradius',b'Atradius',b'Atradius'
+b'7',b'Netherlands',b'Pays-Bas',b'99',b'Miscellaneous',b'',b'MISC'
+b'8',b'Norway',b'Norv\xc3\xa8ge',b'1',b'Norwegian Agency for Development Co-operation',b'Agence norv\xc3\xa9gienne de coop\xc3\xa9ration pour le d\xc3\xa9veloppement',b'NORAD'
+b'8',b'Norway',b'Norv\xc3\xa8ge',b'4',b'Ministry of Foreign Affairs',b'Minist\xc3\xa8re des affaires \xc3\xa9trang\xc3\xa8res',b'MFA'
+b'8',b'Norway',b'Norv\xc3\xa8ge',b'7',b'Innovation Norway',b'',b'IN'
+b'8',b'Norway',b'Norv\xc3\xa8ge',b'8',b'NORFUND',b'NORFUND',b'NORFUND'
+b'8',b'Norway',b'Norv\xc3\xa8ge',b'9',b'FK Norway',b'',b'FK'
+b'8',b'Norway',b'Norv\xc3\xa8ge',b'10',b'Office of the Auditor General',b'',b'OAG'
+b'8',b'Norway',b'Norv\xc3\xa8ge',b'11',b'Ministry of Defence',b'Minist\xc3\xa8re de la D\xc3\xa9fense',b'DEF'
+b'8',b'Norway',b'Norv\xc3\xa8ge',b'12',b'Ministry of Climate and Environment',"b""Minist\xc3\xa8re du Climat et de l'Environnement""",b'ENV'
+b'8',b'Norway',b'Norv\xc3\xa8ge',b'13',b'Ministry of Climate and Environment',"b""Minist\xc3\xa8re du Climat et de l'Environnement""",b'FIN'
+b'8',b'Norway',b'Norv\xc3\xa8ge',b'71',b'Garantiinstituttet for eksportkreditt',b'Garantiinstituttet for Eksportkreditt',b'GIEK'
+b'8',b'Norway',b'Norv\xc3\xa8ge',b'99',b'Miscellaneous',b'',b'MISC'
+b'9',b'Portugal',b'Portugal',b'1',b'Portuguese Government',b'Gouvernement portugais',b'GP'
+b'9',b'Portugal',b'Portugal',b'2',b'Institute for Portuguese Development Aid',b'Institut Portugais de l\xe2\x80\x99Aide pour le D\xc3\xa9veloppement',b'IPAD'
+b'9',b'Portugal',b'Portugal',b'3',b'Municipalities',b'Municipalit\xc3\xa9s',b'MUNIC'
+b'9',b'Portugal',b'Portugal',b'4',b'SOFID Sociedade para o Financiamento do Desenvolvimento',b'SOFID Soci\xc3\xa9t\xc3\xa9 pour le Financement du D\xc3\xa9veloppement',b'SOFID Society for Development Financing'
+b'9',b'Portugal',b'Portugal',b'71',b'Conselho de garantias financeiras',b'Conselho de garantias financeiras',b'COSEC'
+b'9',b'Portugal',b'Portugal',b'99',b'Miscellaneous',b'',b'MISC'
+b'10',b'Sweden',b'Su\xc3\xa8de',b'1',b'',b'',b'SIDA'
+b'10',b'Sweden',b'Su\xc3\xa8de',b'2',b'Ministry of Foreign Affairs',b'Minist\xc3\xa8re des affaires \xc3\xa9trang\xc3\xa8res',b'MFA'
+b'10',b'Sweden',b'Su\xc3\xa8de',b'3',b'',b'',b'SG'
+b'10',b'Sweden',b'Su\xc3\xa8de',b'4',b'',b'',b'SAREC'
+b'10',b'Sweden',b'Su\xc3\xa8de',b'5',b'',b'',b'BITS'
+b'10',b'Sweden',b'Su\xc3\xa8de',b'6',b'Swedish International Development Authority',b'Administration su\xc3\xa9doise de d\xc3\xa9veloppement international',b'Sida'
+b'10',b'Sweden',b'Su\xc3\xa8de',b'10',b'Ministry of Justice',b'Minist\xc3\xa8re de la justice',b''
+b'10',b'Sweden',b'Su\xc3\xa8de',b'11',b'Ministry of the Environment',"b""Minist\xc3\xa8re de l'environnement""",b''
+b'10',b'Sweden',b'Su\xc3\xa8de',b'12',b'Ministry of Finance',b'Minist\xc3\xa8re des finances',b''
+b'10',b'Sweden',b'Su\xc3\xa8de',b'20',b'Folke Bernadotte Academy',b'Academie Folke Bernadotte',b''
+b'10',b'Sweden',b'Su\xc3\xa8de',b'21',b'The Nordic Africa Institute',b'',b''
+b'10',b'Sweden',b'Su\xc3\xa8de',b'22',b'The National Police Board',b'',b''
+b'10',b'Sweden',b'Su\xc3\xa8de',b'23',b'Swedish Civil Contingencies Agency',b'',b''
+b'10',b'Sweden',b'Su\xc3\xa8de',b'24',b'Swedish Institute',b'',b''
+b'10',b'Sweden',b'Su\xc3\xa8de',b'25',b'Swedish Prison and Probation Service',b'',b''
+b'10',b'Sweden',b'Su\xc3\xa8de',b'27',b'Swedish National Audit Office',b'',b''
+b'10',b'Sweden',b'Su\xc3\xa8de',b'28',b'Swedish Radiation Safety Authority',b'',b''
+b'10',b'Sweden',b'Su\xc3\xa8de',b'29',b'The Swedish Research Council',b'',b''
+b'10',b'Sweden',b'Su\xc3\xa8de',b'30',b'Swedish Council for Higher Education',b'',b''
+b'10',b'Sweden',b'Su\xc3\xa8de',b'31',b'Swedish Prosecution Authority',b'',b''
+b'10',b'Sweden',b'Su\xc3\xa8de',b'32',b'Swedish National Courts Administration',b'',b''
+b'10',b'Sweden',b'Su\xc3\xa8de',b'36',b'SwedFund',b'',b'SwedFund'
+b'10',b'Sweden',b'Su\xc3\xa8de',b'37',b'Swedish Consumer Agency',b'',b''
+b'10',b'Sweden',b'Su\xc3\xa8de',b'38',b'Swedish National Debt Office',b'',b''
+b'10',b'Sweden',b'Su\xc3\xa8de',b'71',b'Swedish Export Credits Guarantee Board',b'Comit\xc3\xa9 su\xc3\xa9dois de garantie de cr\xc3\xa9dits \xc3\xa0 l\xe2\x80\x99exportation',b'EKN'
+b'10',b'Sweden',b'Su\xc3\xa8de',b'80',b'Statistics Sweden',b'',b''
+b'10',b'Sweden',b'Su\xc3\xa8de',b'99',b'Miscellaneous',b'',b'MISC'
+b'11',b'Switzerland',b'Suisse',b'1',b'Federal Administration (various departments)',b'Administration f\xc3\xa9d\xc3\xa9rale (plusieurs d\xc3\xa9partements)',b'FA'
+b'11',b'Switzerland',b'Suisse',b'4',b'Swiss Agency for Development and Co-operation',b'Agence suisse pour le d\xc3\xa9veloppement et la coop\xc3\xa9ration',b'SDC'
+b'11',b'Switzerland',b'Suisse',b'5',b'State Secretariat for Economic Affairs',"b""Secr\xc3\xa9tariat d\xe2\x80\x99Etat \xc3\xa0 l'\xc3\xa9conomie""",b'Seco'
+b'11',b'Switzerland',b'Suisse',b'6',b'Federal Department of Foreign Affairs',b'D\xc3\xa9partement f\xc3\xa9d\xc3\xa9ral des affaires \xc3\xa9trang\xc3\xa8res',b'DFA'
+b'11',b'Switzerland',b'Suisse',b'7',b'State Secretariat for Education and Research',b'Secr\xc3\xa9tariat d\xe2\x80\x99Etat \xc3\xa0 l\xe2\x80\x99\xc3\xa9ducation et \xc3\xa0 la recherche',b'SER'
+b'11',b'Switzerland',b'Suisse',b'8',b'Federal Office for Migration',b'Office f\xc3\xa9d\xc3\xa9ral des migrations',b'FOM'
+b'11',b'Switzerland',b'Suisse',b'9',"b'Federal Department for Defence, Civil Protection and Sports'","b'D\xc3\xa9p. f\xc3\xa9d\xc3\xa9ral de la d\xc3\xa9fense, de la protection de la population et des sports'",b'DDPS'
+b'11',b'Switzerland',b'Suisse',b'10',"b'Swiss Agency for the Environment, Forests and Landscape'","b'Agence suisse pour l\xe2\x80\x99environnement, les for\xc3\xaats et les paysages'",b'SAEFL'
+b'11',b'Switzerland',b'Suisse',b'11',b'Municipalities',b'Municipalit\xc3\xa9s',b'MUNIC'
+b'11',b'Switzerland',b'Suisse',b'99',b'Miscellaneous',b'',b'MISC'
+b'12',b'United Kingdom',b'Royaume-Uni',b'1',b'Department for International Development',b'D\xc3\xa9partement pour le d\xc3\xa9veloppement international',b'DFID'
+b'12',b'United Kingdom',b'Royaume-Uni',b'2',b'CDC Capital Partners PLC',b'CDC Capital Partners PLC',b'CDC'
+b'12',b'United Kingdom',b'Royaume-Uni',b'3',b'Foreign & Commonwealth Office',b'',b'FCO'
+b'12',b'United Kingdom',b'Royaume-Uni',b'4',b'Department of Energy and Climate Change',"b""D\xc3\xa9partement de l'\xc3\xa9nergie et du changement climatique""",b'DECC'
+b'12',b'United Kingdom',b'Royaume-Uni',b'5',b'Export Credit Guarantee Department',b'D\xc3\xa9partement de garantie de cr\xc3\xa9dits \xc3\xa0 l\xe2\x80\x99exportation',b'ECGD'
+b'12',b'United Kingdom',b'Royaume-Uni',b'6',b'Home Office',b'',b'HO'
+b'12',b'United Kingdom',b'Royaume-Uni',b'7',b'Department for Environment Food and Rural Affairs',"b'D\xc3\xa9partement pour l environnement, l alimentation et les affaires rurales'",b'DEFRA'
+b'12',b'United Kingdom',b'Royaume-Uni',b'8',b'Ministry of Defence',b'Minist\xc3\xa8re de la D\xc3\xa9fense',b'MOD'
+b'12',b'United Kingdom',b'Royaume-Uni',b'9',b'Department for Work and Pensions',b'',b'DWP'
+b'12',b'United Kingdom',b'Royaume-Uni',b'10',b'Department of Health',b'Minist\xc3\xa8re de la Sant\xc3\xa9',b'DH'
+b'12',b'United Kingdom',b'Royaume-Uni',b'11',"b'Department for Business, Innovation and Skills'",b'',b'BIS'
+b'12',b'United Kingdom',b'Royaume-Uni',b'12',"b'Department for Culture, Media and Sports'",b'D\xc3\xa9partement de la Culture des M\xc3\xa9dias et du Sport',b'DCMS'
+b'12',b'United Kingdom',b'Royaume-Uni',b'21',b'Scottish Government',b'Gouvenrment Ecossais',b'SG'
+b'12',b'United Kingdom',b'Royaume-Uni',b'22',b'Welsh Assembly Government',b'Assembl\xc3\xa9e Gouvernementale Galloise',b'WAG'
+b'12',b'United Kingdom',b'Royaume-Uni',b'99',b'Miscellaneous',b'',b'MISC'
+b'18',b'Finland',b'Finlande',b'1',b'Finnish Government',b'Gouvernement finlandais',b'FG'
+b'18',b'Finland',b'Finlande',b'2',b'FinnFund',b'FinnFund',b'FF'
+b'18',b'Finland',b'Finlande',b'3',b'Ministry of Foreign Affairs',b'Minist\xc3\xa8re des affaires \xc3\xa9trang\xc3\xa8res',b'MFA'
+b'18',b'Finland',b'Finlande',b'4',b'Other Ministries',b'',b'Other Min.'
+b'18',b'Finland',b'Finlande',b'72',b'FinnVera',b'FinnVera',b'FinnVera'
+b'18',b'Finland',b'Finlande',b'99',b'Miscellaneous',b'',b'MISC'
+b'20',b'Iceland',b'Islande',b'1',b'Ministry of Foreign Affairs',b'',b'MFA'
+b'20',b'Iceland',b'Islande',b'2',b'ICEIDA',b'',b'ICEIDA'
+b'20',b'Iceland',b'Islande',b'3',b'ICRU',b'',b'ICRU'
+b'21',b'Ireland',b'Irlande',b'1',b'Department of Foreign Affairs',b'D\xc3\xa9partement des affaires \xc3\xa9trang\xc3\xa8res',b'DFA'
+b'21',b'Ireland',b'Irlande',b'2',b'Department of Finance',b'',b'DF'
+b'21',b'Ireland',b'Irlande',b'3',"b'Department of Agriculture, Food and the Marine'",b'',b'DAFM'
+b'21',b'Ireland',b'Irlande',b'99',b'Miscellaneous',b'',b'MISC'
+b'22',b'Luxembourg',b'Luxembourg',b'1',b'Lux-Development',b'Lux-Development',b'LuxDev'
+b'22',b'Luxembourg',b'Luxembourg',b'2',b'Ministry of Foreign Affairs',b'Minist\xc3\xa8re des affaires \xc3\xa9trang\xc3\xa8res',b'MFA'
+b'22',b'Luxembourg',b'Luxembourg',b'22',b'Ducroire Office',b'Bureau de Ducroire',b'ODL'
+b'22',b'Luxembourg',b'Luxembourg',b'99',b'Miscellaneous',b'',b'MISC'
+b'40',b'Greece',b'Gr\xc3\xa8ce',b'1',b'Ministry of the Interior',"b""Minist\xc3\xa8re de l'int\xc3\xa9rieur""",b'MI'
+b'40',b'Greece',b'Gr\xc3\xa8ce',b'2',b'Ministry of Finance',b'Minist\xc3\xa8re des finances',b'MF'
+b'40',b'Greece',b'Gr\xc3\xa8ce',b'3',b'Ministry of Foreign Affairs',b'Minist\xc3\xa8re des affaires \xc3\xa9trang\xc3\xa8res',b'MFA'
+b'40',b'Greece',b'Gr\xc3\xa8ce',b'4',b'Ministry of National Defense',b'Minist\xc3\xa8re de la d\xc3\xa9fense nationale',b'MND'
+b'40',b'Greece',b'Gr\xc3\xa8ce',b'5',"b'Ministry of Development, Competitiveness & Shipping'","b'Minist\xc3\xa8re du d\xc3\xa9veloppement, de la comp\xc3\xa9titivit\xc3\xa9 et de la navigation'",b'MDCS'
+b'40',b'Greece',b'Gr\xc3\xa8ce',b'6',"b'Ministry of the Environment, Energy & Climate Change'","b'Minist\xc3\xa8re de l\xe2\x80\x99environnement, de l\xe2\x80\x99\xc3\xa9nergie et du changement climatique'",b'MEECC'
+b'40',b'Greece',b'Gr\xc3\xa8ce',b'7',"b'Ministry of Education, Life Long Learning & Religions'","b""Minist\xc3\xa8re de l'\xc3\xa9ducation de la formation continue et des religions""",b'MELLLR'
+b'40',b'Greece',b'Gr\xc3\xa8ce',b'8',"b'Ministry of Infrastructure, Transport and Networks'","b'Minist\xc3\xa8re des infrastructures, des transports et des r\xc3\xa9seaux'",b'MITN'
+b'40',b'Greece',b'Gr\xc3\xa8ce',b'9',b'Ministry of Employment & Social Security',"b""Minist\xc3\xa8re de l'emploi et de la s\xc3\xa9curit\xc3\xa9 sociale""",b'MESS'
+b'40',b'Greece',b'Gr\xc3\xa8ce',b'10',b'Ministry of Health & Social Solidarity',b'Minist\xc3\xa8re de la sant\xc3\xa9 et de la solidarit\xc3\xa9 sociale',b'MHSS'
+b'40',b'Greece',b'Gr\xc3\xa8ce',b'11',b'Ministry of Agricultural Development & Food',"b""Minist\xc3\xa8re du d\xc3\xa9veloppement agricole et de l'alimentation""",b'MADF'
+b'40',b'Greece',b'Gr\xc3\xa8ce',b'12',"b'Ministry of Justice, Transparency & Human Rights'","b'Minist\xc3\xa8re de la Justice, de la transparence et des droits humains'",b'MJTHR'
+b'40',b'Greece',b'Gr\xc3\xa8ce',b'13',b'Ministry of Citizen Protection',b'Minist\xc3\xa8re de la protection des citoyens',b'MCP'
+b'40',b'Greece',b'Gr\xc3\xa8ce',b'14',b'Ministry of Culture & Tourism',b'Minist\xc3\xa8re de la culture et du tourisme',b'MCT'
+b'40',b'Greece',b'Gr\xc3\xa8ce',b'15',b'Municipalities',b'Municipalit\xc3\xa9s',b'LA'
+b'40',b'Greece',b'Gr\xc3\xa8ce',b'99',b'Miscellaneous',b'Divers',b'MISC'
+b'50',b'Spain',b'Espagne',b'1',b'Instituto de Credito Oficial',b'Instituto de Credito Oficial',b'ICO'
+b'50',b'Spain',b'Espagne',b'2',b'Compania Espanola de Seguros de Credito a la Exportacion',b'Compania Espanola de Seguros de Credito a la Exportaci\xc3\xb3n',b'CESCE'
+b'50',b'Spain',b'Espagne',b'4',"b'Ministry of Agriculture, Fisheries, and Food'","b'Minist\xc3\xa8re de l\xe2\x80\x99agriculture, p\xc3\xaache et alimentation'",b'AGR'
+b'50',b'Spain',b'Espagne',b'5',b'Ministry of Foreign Affairs and Co-operation',b'Minist\xc3\xa8re des affaires \xc3\xa9trang\xc3\xa8res et cooperation',b'MFA'
+b'50',b'Spain',b'Espagne',b'6',b'Ministry of Economy and Competitiveness',b'Minist\xc3\xa8re de l\xe2\x80\x99\xc3\xa9conomie et de la comp\xc3\xa9titivit\xc3\xa9',b'ECON'
+b'50',b'Spain',b'Espagne',b'7',"b'Ministry of Education, Culture and Sports'",b'Minist\xc3\xa8re des sciences et de l\xe2\x80\x99\xc3\xa9ducation',b'EDUC'
+b'50',b'Spain',b'Espagne',b'8',b'Ministry of Public Works',b'Minist\xc3\xa8re des travaux publics',b'MPW'
+b'50',b'Spain',b'Espagne',b'9',b'Ministry of Industry and Energy',b'Minist\xc3\xa8re de l\xe2\x80\x99industrie et de l\xe2\x80\x99\xc3\xa9nergie',b'MIE'
+b'50',b'Spain',b'Espagne',b'10',b'Ministry of the Environment and Rural and Marine Environs',b'Minist\xc3\xa8re de l\xe2\x80\x99environnement',b'MARM'
+b'50',b'Spain',b'Espagne',b'11',b'Ministry of Health',b'Minist\xc3\xa8re de la sant\xc3\xa9',b'MOH'
+b'50',b'Spain',b'Espagne',b'12',b'Ministry of Labour and Social Affairs',b'Minist\xc3\xa8re de l\xe2\x80\x99emploi et des affaires sociales',b'EMP'
+b'50',b'Spain',b'Espagne',b'13',b'Ministry of Interior',b'Minist\xc3\xa8re de l\xe2\x80\x99int\xc3\xa9rieur',b'INT'
+b'50',b'Spain',b'Espagne',b'14',b'Ministry of Public Administration',b'Minist\xc3\xa8re de l\xe2\x80\x99administration publique',b'MPA'
+b'50',b'Spain',b'Espagne',b'15',b'Autonomous Governments',b'Gouvernements autonomes',b'AG'
+b'50',b'Spain',b'Espagne',b'16',b'Municipalities',b'Municipalit\xc3\xa9s',b'MUNIC'
+b'50',b'Spain',b'Espagne',b'18',b'Ministry of Science and Technology',b'Minist\xc3\xa8re des sciences et de la technologie',b'MST'
+b'50',b'Spain',b'Espagne',b'19',b'Ministry of Defence',b'Minist\xc3\xa8re de la D\xc3\xa9fense',b'DEF'
+b'50',b'Spain',b'Espagne',b'20',b'Public Universities',b'',b'UNIV'
+b'50',b'Spain',b'Espagne',b'21',b'Spanish Agency for International Development Co-operation',b'',b'AECID'
+b'50',b'Spain',b'Espagne',b'22',b'Others ministries',b'Autres minist\xc3\xa8res',b'Oth. Min.'
+b'50',b'Spain',b'Espagne',b'99',b'Miscellaneous',b'',b'MISC'
+b'61',b'Slovenia',b'Slov\xc3\xa9nie',b'1',b'Ministry of finance',b'Minist\xc3\xa8re des finances',b'FIN'
+b'61',b'Slovenia',b'Slov\xc3\xa9nie',b'2',b'Ministry of foreign affairs',b'Minist\xc3\xa8re des affaires \xc3\xa9trang\xc3\xa8res',b'MFA'
+b'61',b'Slovenia',b'Slov\xc3\xa9nie',b'3',b'Ministry of interior',"b""Minist\xc3\xa8re de l'int\xc3\xa9rieur""",b'INT'
+b'61',b'Slovenia',b'Slov\xc3\xa9nie',b'4',b'Ministry of  Defence',b'Minist\xc3\xa8re de la D\xc3\xa9fense',b'DEF'
+b'61',b'Slovenia',b'Slov\xc3\xa9nie',b'99',b'Misc.',b'Divers',b'MISC'
+b'68',b'Czech Republic',b'R\xc3\xa9publique tch\xc3\xa8que',b'1',b'Czech Development Agency',b'',b'CZDA'
+b'68',b'Czech Republic',b'R\xc3\xa9publique tch\xc3\xa8que',b'2',b'Ministry of Foreign Affairs',b'',b'MFA'
+b'68',b'Czech Republic',b'R\xc3\xa9publique tch\xc3\xa8que',b'3',b'Ministry of Finance',b'',b'MOF'
+b'68',b'Czech Republic',b'R\xc3\xa9publique tch\xc3\xa8que',b'4',"b'Miinistry of Education, Youth, Sports'",b'',b'MEYS'
+b'68',b'Czech Republic',b'R\xc3\xa9publique tch\xc3\xa8que',b'5',b'Ministry of the Interior',b'',b'MOI'
+b'68',b'Czech Republic',b'R\xc3\xa9publique tch\xc3\xa8que',b'6',b'Police',b'',b'Police'
+b'68',b'Czech Republic',b'R\xc3\xa9publique tch\xc3\xa8que',b'7',b'Ministry of Defence',b'',b'MD'
+b'68',b'Czech Republic',b'R\xc3\xa9publique tch\xc3\xa8que',b'8',b'Ministry of Health',b'',b'MH'
+b'68',b'Czech Republic',b'R\xc3\xa9publique tch\xc3\xa8que',b'9',b'Ministry of Industry and Trade',b'',b'MIT'
+b'68',b'Czech Republic',b'R\xc3\xa9publique tch\xc3\xa8que',b'10',b'Czech National Bank',b'',b'CNB'
+b'68',b'Czech Republic',b'R\xc3\xa9publique tch\xc3\xa8que',b'11',b'Ministry of Justice',b'',b'MJ'
+b'68',b'Czech Republic',b'R\xc3\xa9publique tch\xc3\xa8que',b'12',b'Ministry of Labour and Social Affairs',b'',b'MOLSA'
+b'68',b'Czech Republic',b'R\xc3\xa9publique tch\xc3\xa8que',b'13',b'Universities',b'',b'Universities'
+b'68',b'Czech Republic',b'R\xc3\xa9publique tch\xc3\xa8que',b'14',b'Regional Governments and Municipalities',b'',b'Regional Governments and Municipalities'
+b'68',b'Czech Republic',b'R\xc3\xa9publique tch\xc3\xa8que',b'15',b'Ministry of Environment',b'',b'MOE'
+b'68',b'Czech Republic',b'R\xc3\xa9publique tch\xc3\xa8que',b'16',b'State Office for Nuclear Saftey',b'',b'SUJB'
+b'68',b'Czech Republic',b'R\xc3\xa9publique tch\xc3\xa8que',b'99',b'Other',b'',b'Other'
+b'69',b'Slovak Republic',b'R\xc3\xa9publique slovaque',b'1',b'Ministry of Foreign and European Affairs (MZVaEZ)',b'Minist\xc3\xa8re des affaire \xc3\xa9trang\xc3\xa8re et europ\xc3\xa9ennes',b'MZVaEZ'
+b'69',b'Slovak Republic',b'R\xc3\xa9publique slovaque',b'2',b'Slovak Agency for International Deve (SAMRS)',b'Agence Slovaque pour le d\xc3\xa9velopmment international',b'SAMRS'
+b'69',b'Slovak Republic',b'R\xc3\xa9publique slovaque',b'3',b'Ministry of Finance',b'Minist\xc3\xa8re des finances',b'FIN'
+b'69',b'Slovak Republic',b'R\xc3\xa9publique slovaque',b'4',"b'Ministry of Education, Science, Rese (MSVVS)'","b""Minist\xc3\xa8res de l'Education, de la Science et de la recherche""",b'MSVVS'
+b'69',b'Slovak Republic',b'R\xc3\xa9publique slovaque',b'18',b'Other ministries',b'autres minist\xc3\xa8res',b'NULL'
+b'69',b'Slovak Republic',b'R\xc3\xa9publique slovaque',b'30',b'Local and Regional governments',b'gouvernement locaux et r\xc3\xa9gionaux',b'VUC'
+b'69',b'Slovak Republic',b'R\xc3\xa9publique slovaque',b'50',b'Export-Import bank',"b""Banque d'Export-Import""",b'EXIM'
+b'69',b'Slovak Republic',b'R\xc3\xa9publique slovaque',b'99',b'Miscellaneous',b'Divers',b'MISC'
+b'76',b'Poland',b'Pologne',b'1',b'Ministry of Foreign Affairs',b'',b'MFA'
+b'76',b'Poland',b'Pologne',b'2',b'Ministry of Science and Higher Education',b'',b'MSHE'
+b'76',b'Poland',b'Pologne',b'3',b'Ministry of the Interior',b'',b'MI'
+b'76',b'Poland',b'Pologne',b'4',b'Ministry of Culture and National Heritage',b'',b'MCNH'
+b'76',b'Poland',b'Pologne',b'5',b'Ministry of Finance',b'',b'MF'
+b'76',b'Poland',b'Pologne',b'6',b'Ministry of the Environment',b'',b'ME'
+b'76',b'Poland',b'Pologne',b'99',b'Miscellaneous',b'',b'MISC'
+b'301',b'Canada',b'Canada',b'1',b'Canadian International Development Agency',b'Agence canadienne de d\xc3\xa9veloppement international',b'CIDA'
+b'301',b'Canada',b'Canada',b'2',b'International Development Research Centre',b'Centre de recherche pour le d\xc3\xa9veloppement international',b'IDRC'
+b'301',b'Canada',b'Canada',b'3',b'Global Affairs Canada',b'Affaires Mondiales Canada',b'GAC'
+b'301',b'Canada',b'Canada',b'4',b'Department of Finance Canada',b'D\xc3\xa9partement des Finances',b'FIN'
+b'301',b'Canada',b'Canada',b'6',b'Foreign Affairs and International Trade Canada',b'Affaires \xc3\xa9trang\xc3\xa8res et du Commerce international Canada',b'DFAIT'
+b'301',b'Canada',b'Canada',b'7',b'Department of National Defence',b'Minist\xc3\xa8re de la D\xc3\xa9fense Nationale',b'DND'
+b'301',b'Canada',b'Canada',b'8',b'Royal Canadian Mounted Police of Canada',b'Gendarmerie Royale du Canada',b'RCMP'
+b'301',b'Canada',b'Canada',b'9',b'Provincial Governments and municipalities',b'Gouvernements provinciaux et municipalit\xc3\xa9s',b'GOV'
+b'301',b'Canada',b'Canada',b'31',b'Export Development Canada',b'Exportation et d\xc3\xa9veloppement Canada',b'EDC'
+b'301',b'Canada',b'Canada',b'99',b'Miscellaneous',b'',b'MISC'
+b'302',b'United States',b'Etats-Unis',b'1',b'Agency for International Development',b'Agence de d\xc3\xa9veloppement international',b'AID'
+b'302',b'United States',b'Etats-Unis',b'2',b'Department of Agriculture',b'D\xc3\xa9partement de l\xe2\x80\x99agriculture',b'AGR'
+b'302',b'United States',b'Etats-Unis',b'6',b'Department of Treasury',b'D\xc3\xa9partement du tr\xc3\xa9sor',b'DTRE'
+b'302',b'United States',b'Etats-Unis',b'7',b'Department of Defense',b'D\xc3\xa9partement de la d\xc3\xa9fense',b'DOD'
+b'302',b'United States',b'Etats-Unis',b'9',b'Department of the Interior',b'',b'INTERIOR'
+b'302',b'United States',b'Etats-Unis',b'10',b'Peace Corps',b'Volontaires du d\xc3\xa9veloppement (\xc2\xab Peace Corps \xc2\xbb)',b'PEACE'
+b'302',b'United States',b'Etats-Unis',b'11',b'State Department',b'D\xc3\xa9partement d\xe2\x80\x99\xc3\xa9tat',b'STATE'
+b'302',b'United States',b'Etats-Unis',b'12',b'Trade and Development Agency',b'Agence du commerce et du d\xc3\xa9veloppement',b'TDA'
+b'302',b'United States',b'Etats-Unis',b'13',b'African Development Foundation',b'Fondation pour le d\xc3\xa9veloppement africain',b'ADF'
+b'302',b'United States',b'Etats-Unis',b'14',b'Department of Health and Human Services',b'',b'HHS'
+b'302',b'United States',b'Etats-Unis',b'15',b'Department of Justice',b'',b'JUSTICE'
+b'302',b'United States',b'Etats-Unis',b'16',b'Department of Commerce',b'',b'COMMERCE'
+b'302',b'United States',b'Etats-Unis',b'17',b'Department of Labor',b'D\xc3\xa9partement du travail',b'LABOR'
+b'302',b'United States',b'Etats-Unis',b'18',b'Millennium Challenge Corporation',b'',b'MCC'
+b'302',b'United States',b'Etats-Unis',b'19',b'Department of Homeland Security',b'',b'DHS'
+b'302',b'United States',b'Etats-Unis',b'20',b'Department of Energy',b'',b'DOE'
+b'302',b'United States',b'Etats-Unis',b'21',b'Inter-American Development Foundation',b'',b'IADF'
+b'302',b'United States',b'Etats-Unis',b'22',b'Overseas Private Investment Corporation',b'',b'OPIC'
+b'302',b'United States',b'Etats-Unis',b'23',b'Federal Trade Commission',b'',b'FTC'
+b'302',b'United States',b'Etats-Unis',b'24',b'Nuclear Regulatory Commission',b'',b'NRC'
+b'302',b'United States',b'Etats-Unis',b'25',b'National Science Foundation',b'',b'NSF'
+b'302',b'United States',b'Etats-Unis',b'26',b'Department of Transportation',b'',b'DOT'
+b'302',b'United States',b'Etats-Unis',b'27',b'United States Institute of Peace',b'',b'USIP'
+b'302',b'United States',b'Etats-Unis',b'28',b'Open World Leadership Center',b'',b'LIC'
+b'302',b'United States',b'Etats-Unis',b'29',b'United States Postal Service',b'',b'POSTAL'
+b'302',b'United States',b'Etats-Unis',b'30',b'Executive Office of the President',b'',b'EOP'
+b'302',b'United States',b'Etats-Unis',b'31',b'Export Import Bank',b'Banque d\xe2\x80\x99import/export',b'EXIM'
+b'302',b'United States',b'Etats-Unis',b'32',b'Environmental Protection Agency',b'',b'EPA'
+b'302',b'United States',b'Etats-Unis',b'33',b'Broadcasting Board of Governors',b'',b'BBG'
+b'302',b'United States',b'Etats-Unis',b'40',b'Private flows',b'',b'PRIVATE'
+b'302',b'United States',b'Etats-Unis',b'99',b'Miscellaneous',b'',b'MISC'
+b'552',b'Kuwait (KFAED)',b'Koweit (FKDEA)',b'1',b'',b'',b'Kuwait Fund for Arab Economic Development (KFAED)'
+b'552',b'Kuwait (KFAED)',b'Koweit (FKDEA)',b'2',b'',b'',b'Government Grants administered by KFAED'
+b'552',b'Kuwait (KFAED)',b'Koweit (FKDEA)',b'99',b'Miscellaneous',b'',b'MISC'
+b'576',b'United Arab Emirates',b'Emirats arabes unis',b'2',b'Abu Dhabi Department of Finance',"b""D\xc3\xa9partement des finances d'Abu Dhabi""",b'DOF'
+b'576',b'United Arab Emirates',b'Emirats arabes unis',b'3',b'Abu Dhabi Fund for Development',b'Fonds Abu Dhabi pour le d\xc3\xa9veloppement',b'ADFD'
+b'576',b'United Arab Emirates',b'Emirats arabes unis',b'7',b'International Humanitarian City',b'',b'IHC'
+b'576',b'United Arab Emirates',b'Emirats arabes unis',b'17',b'Khalifa Bin Zayed Al Nahyan Foundation',b'Fondation Khalifa Bin Zayed Al Nahyan',b'KZF'
+b'576',b'United Arab Emirates',b'Emirats arabes unis',b'18',b'Mohammed Bin Rashid Al Maktoum Humanitarian and Charity Establishment',b'Etablissement humanitaire et de charit\xc3\xa9 Mohammed Bin Rashid Al Maktoum',b'MRHC'
+b'576',b'United Arab Emirates',b'Emirats arabes unis',b'19',b'Zayed Bin Sultan Al Nahyan Charitable and Humanitarian Foundation',b'Etablissement humanitaire et de charit\xc3\xa9 Zayed Bin Sultan Al Nahyan',b'ZCHF'
+b'576',b'United Arab Emirates',b'Emirats arabes unis',b'20',b'Al Maktoum Foundation',b'Fondation Al Maktoum',b'MF'
+b'576',b'United Arab Emirates',b'Emirats arabes unis',b'21',b'Dubai Cares',b'',b'DC'
+b'576',b'United Arab Emirates',b'Emirats arabes unis',b'22',b'UAE Red Crescent Authority',b'Autorit\xc3\xa9 du Croissant Rouge des EAU',b'RCA'
+b'576',b'United Arab Emirates',b'Emirats arabes unis',b'23',b'Noor Dubai',b'',b'ND'
+b'576',b'United Arab Emirates',b'Emirats arabes unis',b'25',b'Other Government Entitites',b'autres entit\xc3\xa9s gouvernementales',b'OTHER'
+b'576',b'United Arab Emirates',b'Emirats arabes unis',b'99',b'Miscellaneous',b'',b'MISC'
+b'613',b'Kazakhstan',b'Kazakhstan',b'1',b'Ministry of Foreign Affairs',b'Minist\xc3\xa8re des affaires \xc3\xa9trang\xc3\xa8res',b'MFA'
+b'613',b'Kazakhstan',b'Kazakhstan',b'2',b'Government of the Republic of Kazakhstan',b'Gouvernement de la R\xc3\xa9publique du Kazakhstan',b'GOV'
+b'613',b'Kazakhstan',b'Kazakhstan',b'3',b'Ministry of Education and Science',"b""Minist\xc3\xa8re de l'\xc3\xa9ducation et de la science""",b'EDUC'
+b'613',b'Kazakhstan',b'Kazakhstan',b'4',b'Sovereign Wealth Fund (Samruk-Kazyna)',b'Fond souverain (Samruk-Kazyna)',b'NULL'
+b'613',b'Kazakhstan',b'Kazakhstan',b'99',b'Miscellaneous',b'Divers',b'MISC'
+b'701',b'Japan',b'Japon',b'1',"b'Ministry of Agriculture, Forestry and Fisheries'","b'Minist\xc3\xa8re de l\xe2\x80\x99agriculture, de la sylviculture et de la p\xc3\xaache'",b'MAFF'
+b'701',b'Japan',b'Japon',b'2',b'Ministry of Foreign Affairs',b'Minist\xc3\xa8re des affaires \xc3\xa9trang\xc3\xa8res',b'MOFA'
+b'701',b'Japan',b'Japon',b'4',b'',b'',b'EXIM BANK'
+b'701',b'Japan',b'Japon',b'5',b'',b'',b'OECF'
+b'701',b'Japan',b'Japon',b'6',b'',b'',b'FOOD AID'
+b'701',b'Japan',b'Japon',b'7',b'Overseas Fishery Co-operation Foundation',b'Bureau de coop\xc3\xa9ration d\xe2\x80\x99outre-mer pour la p\xc3\xaache',b'OFCF'
+b'701',b'Japan',b'Japon',b'8',b'Japanese International Co-operation Agency',b'Agence japonaise de coop\xc3\xa9ration internationale',b'JICA'
+b'701',b'Japan',b'Japon',b'10',b'Japan Overseas Development Co-operation',b'Agence japonaise de coop\xc3\xa9ration outre-mer',b'JODC'
+b'701',b'Japan',b'Japon',b'11',b'Japan Bank for International Co-operation',b'Banque japonaise pour la coop\xc3\xa9ration internationale',b'JBIC'
+b'701',b'Japan',b'Japon',b'12',b'Other Ministries',b'Autres minist\xc3\xa8res',b'Oth. MIN'
+b'701',b'Japan',b'Japon',b'13',b'Public Corporations',b'Corporations publiques',b'PC'
+b'701',b'Japan',b'Japon',b'14',b'Prefectures',b'Pr\xc3\xa9fectures',b'PRF'
+b'701',b'Japan',b'Japon',b'15',b'Ordinance-designed Cities',b'Villes d\xc3\xa9sign\xc3\xa9es par ordonnance',b'ODC'
+b'701',b'Japan',b'Japon',b'71',b'Nippon Export and Investment Insurance',b'Assurance Nippone Exports et investissements',b'NEXI'
+b'701',b'Japan',b'Japon',b'99',b'Miscellaneous',b'',b'MISC'
+b'742',b'Korea',b'Cor\xc3\xa9e',b'1',b'Ministry of Strategy and Finance',b'',b'MOSF'
+b'742',b'Korea',b'Cor\xc3\xa9e',b'2',b'Export-Import Bank of Korea',b'',b'KEXIM'
+b'742',b'Korea',b'Cor\xc3\xa9e',b'3',b'Ministry of Foreign Affairs and Trade',b'',b'MOFAT'
+b'742',b'Korea',b'Cor\xc3\xa9e',b'4',b'Korea International Cooperation Agency',b'',b'KOICA'
+b'742',b'Korea',b'Cor\xc3\xa9e',b'99',b'Miscellaneous',b'',b'MISC'
+b'801',b'Australia',b'Australie',b'2',b'Attorney-General',b'',b'AG'
+b'801',b'Australia',b'Australie',b'5',b'Australian government',b'Gouvernement australien',b'Aus Gov'
+b'801',b'Australia',b'Australie',b'72',b'Export Finance and Insurance Corporation',b'Corporation de financement et d\xe2\x80\x99assurance des exportations',b'EFIC'
+b'801',b'Australia',b'Australie',b'99',b'Miscellaneous',b'',b'MISC'
+b'820',b'New Zealand',b'Nouvelle-Z\xc3\xa9lande',b'1',b'Ministry of Foreign Affairs and Trade',b'Minist\xc3\xa8re des affaires \xc3\xa9trang\xc3\xa8res et du commerce',b'NZG'
+b'820',b'New Zealand',b'Nouvelle-Z\xc3\xa9lande',b'2',b'New Zealand International Aid and Development Agency',b'Agence n\xc3\xa9oz\xc3\xa9landaise d\xe2\x80\x99aide et de d\xc3\xa9veloppement international',b'NZAid'
+b'820',b'New Zealand',b'Nouvelle-Z\xc3\xa9lande',b'99',b'Miscellaneous',b'',b'MISC'
+b'918',b'EU Institutions',"b""Institutions de l'UE""",b'1',b'Commission of the European Communities',b'Commission des Communaut\xc3\xa9s europ\xc3\xa9ennes',b'CEC'
+b'918',b'EU Institutions',"b""Institutions de l'UE""",b'2',b'European Development Fund',b'Fonds europ\xc3\xa9en de d\xc3\xa9veloppement',b'EDF'
+b'918',b'EU Institutions',"b""Institutions de l'UE""",b'3',b'European Investment Bank',b'Banque europ\xc3\xa9enne d\xe2\x80\x99investissement',b'EIB'
+b'918',b'EU Institutions',"b""Institutions de l'UE""",b'4',b'Humanitarian Aid Office of the European Commission',b'Bureau d\xe2\x80\x99aide humanitaire de la Commission europ\xc3\xa9enne',b'ECHO'
+b'918',b'EU Institutions',"b""Institutions de l'UE""",b'99',b'Miscellaneous',b'',b'MISC'
+b'1601',b'Bill & Melinda Gates Foundation',b'Fondation Bill et Melinda Gates',b'1',b'',b'Fondation Bill & Melinda Gates',b'Bill & Melinda Gates Foundation'

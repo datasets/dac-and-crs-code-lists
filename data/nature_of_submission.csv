@@ -1,6 +1,6 @@
 code,name_en,name_fr
-1,New activity reported,Activité nouvellement notifiée
-2,Revision,Révision
-3,"Previously reported activity (increase/decrease of earlier commitment, disbursement on earlier commitment)","Activité déjà notifiée antérieurement (augmentation ou diminution d'un engagement antérieur, versmeent consécutif à un engagement antérieur)"
-5,Provisional data,Donnée préliminaire
-8,Commitment = Disbursement,engagment = versement
+b'1',b'New activity reported',b'Activit\xc3\xa9 nouvellement notifi\xc3\xa9e'
+b'2',b'Revision',b'R\xc3\xa9vision'
+b'3',"b'Previously reported activity (increase/decrease of earlier commitment, disbursement on earlier commitment)'","b""Activit\xc3\xa9 d\xc3\xa9j\xc3\xa0 notifi\xc3\xa9e ant\xc3\xa9rieurement (augmentation ou diminution d'un engagement ant\xc3\xa9rieur, versmeent cons\xc3\xa9cutif \xc3\xa0 un engagement ant\xc3\xa9rieur)"""
+b'5',b'Provisional data',b'Donn\xc3\xa9e pr\xc3\xa9liminaire'
+b'8',b'Commitment = Disbursement',b'engagment = versement'

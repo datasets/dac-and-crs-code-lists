@@ -1,31 +1,41 @@
 code,name_en,name_fr
-1,Austria,Autriche
-2,Belgium,Belgique
-3,Denmark,Danemark
-4,France,France
-5,Germany,Allemagne
-6,Italy,Italie
-7,Netherlands,Pays-Bas
-8,Norway,Norvège
-9,Portugal,Portugal
-10,Sweden,Suède
-11,Switzerland,Suisse
-12,United Kingdom,Royaume-Uni
-18,Finland,Finlande
-20,Iceland,Islande
-21,Ireland,Irlande
-22,Luxembourg,Luxembourg
-40,Greece,Grèce
-50,Spain,Espagne
-61,Slovenia,Slovénie
-68,Czech Republic,République tchèque
-69,Slovak Republic,République slovaque
-75,Hungary,Hongrie
-76,Poland,Pologne
-301,Canada,Canada
-302,United States,Etats-Unis
-701,Japan,Japon
-742,Korea,Corée
-801,Australia,Australie
-820,New Zealand,Nouvelle-Zélande
-918,EU Institutions,Institutions de l'UE
+b'1',b'Austria',b'Autriche'
+b'2',b'Belgium',b'Belgique'
+b'3',b'Denmark',b'Danemark'
+b'4',b'France',b'France'
+b'5',b'Germany',b'Allemagne'
+b'6',b'Italy',b'Italie'
+b'7',b'Netherlands',b'Pays-Bas'
+b'8',b'Norway',b'Norv\xc3\xa8ge'
+b'9',b'Portugal',b'Portugal'
+b'10',b'Sweden',b'Su\xc3\xa8de'
+b'11',b'Switzerland',b'Suisse'
+b'12',b'United Kingdom',b'Royaume-Uni'
+b'18',b'Finland',b'Finlande'
+b'20',b'Iceland',b'Islande'
+b'21',b'Ireland',b'Irlande'
+b'22',b'Luxembourg',b'Luxembourg'
+b'40',b'Greece',b'Gr\xc3\xa8ce'
+b'50',b'Spain',b'Espagne'
+b'61',b'Slovenia',b'Slov\xc3\xa9nie'
+b'68',b'Czech Republic',b'R\xc3\xa9publique tch\xc3\xa8que'
+b'69',b'Slovak Republic',b'R\xc3\xa9publique slovaque'
+b'75',b'Hungary',b'Hongrie'
+b'76',b'Poland',b'Pologne'
+b'301',b'Canada',b'Canada'
+b'302',b'United States',b'Etats-Unis'
+b'701',b'Japan',b'Japon'
+b'742',b'Korea',b'Cor\xc3\xa9e'
+b'801',b'Australia',b'Australie'
+b'820',b'New Zealand',b'Nouvelle-Z\xc3\xa9lande'
+b'918',b'EU Institutions',"b""Institutions de l'UE"""
+b'',b'',b''
+b'',b'',b''
+b'',b'',b''
+b'',b'',b''
+b'',b'',b''
+b'',b'',b''
+b'',b'',b''
+b'',b'',b''
+b'',b'',b''
+b'',b'',b''
