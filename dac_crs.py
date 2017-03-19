@@ -101,7 +101,7 @@ def get_crs_codelist(book, mapping):
 
 def save_csv(name, codelist, fieldnames):
     with open(join(data_dir, name + '.csv'), 'w') as f:
-        writer = csv.DictWriter(f, fieldnames=fieldnames)
+        writer = csv.DictWriter(f, fieldnames=fieldnames, quoting=csv.QUOTE_ALL)
         writer.writeheader()
         for row in codelist:
             writer.writerow(row)
