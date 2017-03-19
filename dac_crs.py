@@ -41,7 +41,7 @@ def get_crs_codelist(book, mapping):
         if type(val) is float:
             if val == val // 1:
                 return str(int(val))
-        return str(val).strip()
+        return str(val).replace('\n', '\r\n').strip()
 
     def relevant_row(mapping, row_data):
         for ebs in mapping.get('exclude_blank', []):
