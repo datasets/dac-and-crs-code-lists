@@ -1,164 +1,164 @@
-code,name_en,name_fr,income_group,geography
-55,Turkey,Turquie,UMICs,Europe
-57,Kosovo,Kosovo,LMICs,Europe
-63,Serbia,Serbie,UMICs,Europe
-64,Bosnia and Herzegovina,Bosnie-Herzégovine,UMICs,Europe
-65,Montenegro,Monténégro,UMICs,Europe
-66,Former Yugoslav Republic of Macedonia,Ex-République yougoslave de Macédoine,UMICs,Europe
-71,Albania,Albanie,UMICs,Europe
-85,Ukraine,Ukraine,LMICs,Europe
-86,Belarus,Bélarus,UMICs,Europe
-88,States Ex-Yugoslavia unspecified,Etats ex-Yougoslavie non spécifié,,Europe
-89,"Europe, regional","Europe, régional",,Europe
-93,Moldova,Moldova,LMICs,Europe
-130,Algeria,Algérie,UMICs,Africa (North of Sahara)
-133,Libya,Libye,UMICs,Africa (North of Sahara)
-136,Morocco,Maroc,LMICs,Africa (North of Sahara)
-139,Tunisia,Tunisie,UMICs,Africa (North of Sahara)
-142,Egypt,Egypte,LMICs,Africa (North of Sahara)
-189,"North of Sahara, regional","Nord du Sahara, régional",,Africa (North of Sahara)
-218,South Africa,Afrique du Sud,UMICs,Africa (South of Sahara)
-225,Angola,Angola,LDCs,Africa (South of Sahara)
-227,Botswana,Botswana,UMICs,Africa (South of Sahara)
-228,Burundi,Burundi,LDCs,Africa (South of Sahara)
-229,Cameroon,Cameroun,LMICs,Africa (South of Sahara)
-230,Cabo Verde,Cabo Verde,LMICs,Africa (South of Sahara)
-231,Central African Republic,République centrafricaine,LDCs,Africa (South of Sahara)
-232,Chad,Tchad,LDCs,Africa (South of Sahara)
-233,Comoros,Comores,LDCs,Africa (South of Sahara)
-234,Congo,Congo,LMICs,Africa (South of Sahara)
-235,Democratic Republic of the Congo,République démocratique du Congo,LDCs,Africa (South of Sahara)
-236,Benin,Bénin,LDCs,Africa (South of Sahara)
-238,Ethiopia,Ethiopie,LDCs,Africa (South of Sahara)
-239,Gabon,Gabon,UMICs,Africa (South of Sahara)
-240,Gambia,Gambie,LDCs,Africa (South of Sahara)
-241,Ghana,Ghana,LMICs,Africa (South of Sahara)
-243,Guinea,Guinée,LDCs,Africa (South of Sahara)
-244,Guinea-Bissau,Guinée-Bissau,LDCs,Africa (South of Sahara)
-245,Equatorial Guinea,Guinée équatoriale,LDCs,Africa (South of Sahara)
-247,Côte d'Ivoire,Côte d'Ivoire,LMICs,Africa (South of Sahara)
-248,Kenya,Kenya,Other LICs,Africa (South of Sahara)
-249,Lesotho,Lesotho,LDCs,Africa (South of Sahara)
-251,Liberia,Libéria,LDCs,Africa (South of Sahara)
-252,Madagascar,Madagascar,LDCs,Africa (South of Sahara)
-253,Malawi,Malawi,LDCs,Africa (South of Sahara)
-255,Mali,Mali,LDCs,Africa (South of Sahara)
-256,Mauritania,Mauritanie,LDCs,Africa (South of Sahara)
-257,Mauritius,Maurice,UMICs,Africa (South of Sahara)
-259,Mozambique,Mozambique,LDCs,Africa (South of Sahara)
-260,Niger,Niger,LDCs,Africa (South of Sahara)
-261,Nigeria,Nigéria,LMICs,Africa (South of Sahara)
-265,Zimbabwe,Zimbabwe,Other LICs,Africa (South of Sahara)
-266,Rwanda,Rwanda,LDCs,Africa (South of Sahara)
-268,Sao Tome and Principe,Sao Tomé-et-Principe,LDCs,Africa (South of Sahara)
-269,Senegal,Sénégal,LDCs,Africa (South of Sahara)
-270,Seychelles,Seychelles,UMICs,Africa (South of Sahara)
-271,Eritrea,Erythrée,LDCs,Africa (South of Sahara)
-272,Sierra Leone,Sierra Leone,LDCs,Africa (South of Sahara)
-273,Somalia,Somalie,LDCs,Africa (South of Sahara)
-274,Djibouti,Djibouti,LDCs,Africa (South of Sahara)
-275,Namibia,Namibie,UMICs,Africa (South of Sahara)
-276,Saint Helena,Sainte-Hélène,UMICs,Africa (South of Sahara)
-278,Sudan,Soudan,LDCs,Africa (South of Sahara)
-279,South Sudan,Soudan du Sud,LDCs,Africa (South of Sahara)
-280,Swaziland,Swaziland,LMICs,Africa (South of Sahara)
-282,Tanzania,Tanzanie,LDCs,Africa (South of Sahara)
-283,Togo,Togo,LDCs,Africa (South of Sahara)
-285,Uganda,Ouganda,LDCs,Africa (South of Sahara)
-287,Burkina Faso,Burkina Faso,LDCs,Africa (South of Sahara)
-288,Zambia,Zambie,LDCs,Africa (South of Sahara)
-289,"South of Sahara, regional","Sud du Sahara, régional",,Africa (South of Sahara)
-298,"Africa, regional","Afrique, régional",,Africa
-336,Costa Rica,Costa Rica,UMICs,America (North & Central America)
-338,Cuba,Cuba,UMICs,America (North & Central America)
-340,Dominican Republic,République dominicaine,UMICs,America (North & Central America)
-342,El Salvador,El Salvador,LMICs,America (North & Central America)
-347,Guatemala,Guatemala,LMICs,America (North & Central America)
-349,Haiti,Haïti,LDCs,America (North & Central America)
-351,Honduras,Honduras,LMICs,America (North & Central America)
-352,Belize,Belize,UMICs,America (North & Central America)
-354,Jamaica,Jamaïque,UMICs,America (North & Central America)
-358,Mexico,Mexique,UMICs,America (North & Central America)
-364,Nicaragua,Nicaragua,LMICs,America (North & Central America)
-366,Panama,Panama,UMICs,America (North & Central America)
-377,Antigua and Barbuda,Antigua-et-Barbuda,UMICs,America (North & Central America)
-378,Dominica,Dominique,UMICs,America (North & Central America)
-380,"West Indies, regional","Indes occ., régional",,America (North & Central America)
-381,Grenada,Grenade,UMICs,America (North & Central America)
-383,Saint Lucia,Sainte-Lucie,UMICs,America (North & Central America)
-384,Saint Vincent and the Grenadines,Saint-Vincent-et-les-Grenadines,UMICs,America (North & Central America)
-385,Montserrat,Montserrat,UMICs,America (North & Central America)
-389,"North & Central America, regional","Amérique N.& C., régional",,America (North & Central America)
-425,Argentina,Argentine,UMICs,America (South America)
-428,Bolivia,Bolivie,LMICs,America (South America)
-431,Brazil,Brésil,UMICs,America (South America)
-434,Chile,Chili,UMICs,America (South America)
-437,Colombia,Colombie,UMICs,America (South America)
-440,Ecuador,Equateur,UMICs,America (South America)
-446,Guyana,Guyana,LMICs,America (South America)
-451,Paraguay,Paraguay,LMICs,America (South America)
-454,Peru,Pérou,UMICs,America (South America)
-457,Suriname,Suriname,UMICs,America (South America)
-460,Uruguay,Uruguay,UMICs,America (South America)
-463,Venezuela,Venezuela,UMICs,America (South America)
-489,"South America, regional","Amérique du Sud, régional",,America (South America)
-498,"America, regional","Amérique, régional",,America
-540,Iran,Iran,UMICs,Asia (Middle East Asia)
-543,Iraq,Iraq,UMICs,Asia (Middle East Asia)
-549,Jordan,Jordanie,UMICs,Asia (Middle East Asia)
-550,West Bank and Gaza Strip,Cisjordanie et bande de Gaza,LMICs,Asia (Middle East Asia)
-555,Lebanon,Liban,UMICs,Asia (Middle East Asia)
-573,Syrian Arab Republic,République arabe syrienne,LMICs,Asia (Middle East Asia)
-580,Yemen,Yémen,LDCs,Asia (Middle East Asia)
-589,"Middle East, regional","Moyen-Orient, régional",,Asia (Middle East Asia)
-610,Armenia,Arménie,LMICs,Asia (South & Central Asia)
-611,Azerbaijan,Azerbaïdjan,UMICs,Asia (South & Central Asia)
-612,Georgia,Géorgie,LMICs,Asia (South & Central Asia)
-613,Kazakhstan,Kazakhstan,UMICs,Asia (South & Central Asia)
-614,Kyrgyzstan,Kirghizistan,LMICs,Asia (South & Central Asia)
-615,Tajikistan,Tadjikistan,Other LICs,Asia (South & Central Asia)
-616,Turkmenistan,Turkménistan,UMICs,Asia (South & Central Asia)
-617,Uzbekistan,Ouzbékistan,LMICs,Asia (South & Central Asia)
-619,"Central Asia, regional","Asie centrale, régional",,Asia (South & Central Asia)
-625,Afghanistan,Afghanistan,LDCs,Asia (South & Central Asia)
-630,Bhutan,Bhoutan,LDCs,Asia (South & Central Asia)
-635,Myanmar,Myanmar,LDCs,Asia (South & Central Asia)
-640,Sri Lanka,Sri Lanka,LMICs,Asia (South & Central Asia)
-645,India,Inde,LMICs,Asia (South & Central Asia)
-655,Maldives,Maldives,UMICs,Asia (South & Central Asia)
-660,Nepal,Népal,LDCs,Asia (South & Central Asia)
-665,Pakistan,Pakistan,LMICs,Asia (South & Central Asia)
-666,Bangladesh,Bangladesh,LDCs,Asia (South & Central Asia)
-679,"South Asia, regional","Asie du Sud, régional",,Asia (South & Central Asia)
-689,"South & Central Asia, regional","Asie du Sud & C., régional",,Asia (South & Central Asia)
-728,Cambodia,Cambodge,LDCs,Asia (Far East Asia)
-730,China (People's Republic of),Chine (République populaire de),UMICs,Asia (Far East Asia)
-738,Indonesia,Indonésie,LMICs,Asia (Far East Asia)
-740,Democratic People's Republic of Korea,République populaire démocratique de Corée,Other LICs,Asia (Far East Asia)
-745,Lao People's Democratic Republic,République démocratique populaire lao,LDCs,Asia (Far East Asia)
-751,Malaysia,Malaisie,UMICs,Asia (Far East Asia)
-753,Mongolia,Mongolie,LMICs,Asia (Far East Asia)
-755,Philippines,Philippines,LMICs,Asia (Far East Asia)
-764,Thailand,Thaïlande,UMICs,Asia (Far East Asia)
-765,Timor-Leste,Timor-Leste,LDCs,Asia (Far East Asia)
-769,Viet Nam,Viet Nam,LMICs,Asia (Far East Asia)
-789,"Far East Asia, regional","Extrême-Orient, régional",,Asia (Far East Asia)
-798,"Asia, regional","Asie, régional",,Asia
-831,Cook Islands,Iles Cook,UMICs,Oceania
-832,Fiji,Fidji,UMICs,Oceania
-836,Kiribati,Kiribati,LDCs,Oceania
-845,Nauru,Nauru,UMICs,Oceania
-854,Vanuatu,Vanuatu,LDCs,Oceania
-856,Niue,Niue,UMICs,Oceania
-859,Marshall Islands,Iles Marshall,UMICs,Oceania
-860,Micronesia,Micronésie,LMICs,Oceania
-861,Palau,Palaos,UMICs,Oceania
-862,Papua New Guinea,Papouasie-Nouvelle-Guinée,LMICs,Oceania
-866,Solomon Islands,Iles Solomon,LDCs,Oceania
-868,Tokelau,Tokélaou,LMICs,Oceania
-870,Tonga,Tonga,UMICs,Oceania
-872,Tuvalu,Tuvalu,LDCs,Oceania
-876,Wallis and Futuna,Wallis-et-Futuna,UMICs,Oceania
-880,Samoa,Samoa,LMICs,Oceania
-889,"Oceania, regional","Océanie, régional",,Oceania
-998,"Developing countries, unspecified","Pays en développement, non spécifié",,
+"code","name_en","name_fr","income_group","geography"
+"55","Turkey","Turquie","UMICs","Europe"
+"57","Kosovo","Kosovo","LMICs","Europe"
+"63","Serbia","Serbie","UMICs","Europe"
+"64","Bosnia and Herzegovina","Bosnie-Herzégovine","UMICs","Europe"
+"65","Montenegro","Monténégro","UMICs","Europe"
+"66","Former Yugoslav Republic of Macedonia","Ex-République yougoslave de Macédoine","UMICs","Europe"
+"71","Albania","Albanie","UMICs","Europe"
+"85","Ukraine","Ukraine","LMICs","Europe"
+"86","Belarus","Bélarus","UMICs","Europe"
+"88","States Ex-Yugoslavia unspecified","Etats ex-Yougoslavie non spécifié","","Europe"
+"89","Europe, regional","Europe, régional","","Europe"
+"93","Moldova","Moldova","LMICs","Europe"
+"130","Algeria","Algérie","UMICs","Africa (North of Sahara)"
+"133","Libya","Libye","UMICs","Africa (North of Sahara)"
+"136","Morocco","Maroc","LMICs","Africa (North of Sahara)"
+"139","Tunisia","Tunisie","UMICs","Africa (North of Sahara)"
+"142","Egypt","Egypte","LMICs","Africa (North of Sahara)"
+"189","North of Sahara, regional","Nord du Sahara, régional","","Africa (North of Sahara)"
+"218","South Africa","Afrique du Sud","UMICs","Africa (South of Sahara)"
+"225","Angola","Angola","LDCs","Africa (South of Sahara)"
+"227","Botswana","Botswana","UMICs","Africa (South of Sahara)"
+"228","Burundi","Burundi","LDCs","Africa (South of Sahara)"
+"229","Cameroon","Cameroun","LMICs","Africa (South of Sahara)"
+"230","Cabo Verde","Cabo Verde","LMICs","Africa (South of Sahara)"
+"231","Central African Republic","République centrafricaine","LDCs","Africa (South of Sahara)"
+"232","Chad","Tchad","LDCs","Africa (South of Sahara)"
+"233","Comoros","Comores","LDCs","Africa (South of Sahara)"
+"234","Congo","Congo","LMICs","Africa (South of Sahara)"
+"235","Democratic Republic of the Congo","République démocratique du Congo","LDCs","Africa (South of Sahara)"
+"236","Benin","Bénin","LDCs","Africa (South of Sahara)"
+"238","Ethiopia","Ethiopie","LDCs","Africa (South of Sahara)"
+"239","Gabon","Gabon","UMICs","Africa (South of Sahara)"
+"240","Gambia","Gambie","LDCs","Africa (South of Sahara)"
+"241","Ghana","Ghana","LMICs","Africa (South of Sahara)"
+"243","Guinea","Guinée","LDCs","Africa (South of Sahara)"
+"244","Guinea-Bissau","Guinée-Bissau","LDCs","Africa (South of Sahara)"
+"245","Equatorial Guinea","Guinée équatoriale","LDCs","Africa (South of Sahara)"
+"247","Côte d'Ivoire","Côte d'Ivoire","LMICs","Africa (South of Sahara)"
+"248","Kenya","Kenya","Other LICs","Africa (South of Sahara)"
+"249","Lesotho","Lesotho","LDCs","Africa (South of Sahara)"
+"251","Liberia","Libéria","LDCs","Africa (South of Sahara)"
+"252","Madagascar","Madagascar","LDCs","Africa (South of Sahara)"
+"253","Malawi","Malawi","LDCs","Africa (South of Sahara)"
+"255","Mali","Mali","LDCs","Africa (South of Sahara)"
+"256","Mauritania","Mauritanie","LDCs","Africa (South of Sahara)"
+"257","Mauritius","Maurice","UMICs","Africa (South of Sahara)"
+"259","Mozambique","Mozambique","LDCs","Africa (South of Sahara)"
+"260","Niger","Niger","LDCs","Africa (South of Sahara)"
+"261","Nigeria","Nigéria","LMICs","Africa (South of Sahara)"
+"265","Zimbabwe","Zimbabwe","Other LICs","Africa (South of Sahara)"
+"266","Rwanda","Rwanda","LDCs","Africa (South of Sahara)"
+"268","Sao Tome and Principe","Sao Tomé-et-Principe","LDCs","Africa (South of Sahara)"
+"269","Senegal","Sénégal","LDCs","Africa (South of Sahara)"
+"270","Seychelles","Seychelles","UMICs","Africa (South of Sahara)"
+"271","Eritrea","Erythrée","LDCs","Africa (South of Sahara)"
+"272","Sierra Leone","Sierra Leone","LDCs","Africa (South of Sahara)"
+"273","Somalia","Somalie","LDCs","Africa (South of Sahara)"
+"274","Djibouti","Djibouti","LDCs","Africa (South of Sahara)"
+"275","Namibia","Namibie","UMICs","Africa (South of Sahara)"
+"276","Saint Helena","Sainte-Hélène","UMICs","Africa (South of Sahara)"
+"278","Sudan","Soudan","LDCs","Africa (South of Sahara)"
+"279","South Sudan","Soudan du Sud","LDCs","Africa (South of Sahara)"
+"280","Swaziland","Swaziland","LMICs","Africa (South of Sahara)"
+"282","Tanzania","Tanzanie","LDCs","Africa (South of Sahara)"
+"283","Togo","Togo","LDCs","Africa (South of Sahara)"
+"285","Uganda","Ouganda","LDCs","Africa (South of Sahara)"
+"287","Burkina Faso","Burkina Faso","LDCs","Africa (South of Sahara)"
+"288","Zambia","Zambie","LDCs","Africa (South of Sahara)"
+"289","South of Sahara, regional","Sud du Sahara, régional","","Africa (South of Sahara)"
+"298","Africa, regional","Afrique, régional","","Africa"
+"336","Costa Rica","Costa Rica","UMICs","America (North & Central America)"
+"338","Cuba","Cuba","UMICs","America (North & Central America)"
+"340","Dominican Republic","République dominicaine","UMICs","America (North & Central America)"
+"342","El Salvador","El Salvador","LMICs","America (North & Central America)"
+"347","Guatemala","Guatemala","LMICs","America (North & Central America)"
+"349","Haiti","Haïti","LDCs","America (North & Central America)"
+"351","Honduras","Honduras","LMICs","America (North & Central America)"
+"352","Belize","Belize","UMICs","America (North & Central America)"
+"354","Jamaica","Jamaïque","UMICs","America (North & Central America)"
+"358","Mexico","Mexique","UMICs","America (North & Central America)"
+"364","Nicaragua","Nicaragua","LMICs","America (North & Central America)"
+"366","Panama","Panama","UMICs","America (North & Central America)"
+"377","Antigua and Barbuda","Antigua-et-Barbuda","UMICs","America (North & Central America)"
+"378","Dominica","Dominique","UMICs","America (North & Central America)"
+"380","West Indies, regional","Indes occ., régional","","America (North & Central America)"
+"381","Grenada","Grenade","UMICs","America (North & Central America)"
+"383","Saint Lucia","Sainte-Lucie","UMICs","America (North & Central America)"
+"384","Saint Vincent and the Grenadines","Saint-Vincent-et-les-Grenadines","UMICs","America (North & Central America)"
+"385","Montserrat","Montserrat","UMICs","America (North & Central America)"
+"389","North & Central America, regional","Amérique N.& C., régional","","America (North & Central America)"
+"425","Argentina","Argentine","UMICs","America (South America)"
+"428","Bolivia","Bolivie","LMICs","America (South America)"
+"431","Brazil","Brésil","UMICs","America (South America)"
+"434","Chile","Chili","UMICs","America (South America)"
+"437","Colombia","Colombie","UMICs","America (South America)"
+"440","Ecuador","Equateur","UMICs","America (South America)"
+"446","Guyana","Guyana","LMICs","America (South America)"
+"451","Paraguay","Paraguay","LMICs","America (South America)"
+"454","Peru","Pérou","UMICs","America (South America)"
+"457","Suriname","Suriname","UMICs","America (South America)"
+"460","Uruguay","Uruguay","UMICs","America (South America)"
+"463","Venezuela","Venezuela","UMICs","America (South America)"
+"489","South America, regional","Amérique du Sud, régional","","America (South America)"
+"498","America, regional","Amérique, régional","","America"
+"540","Iran","Iran","UMICs","Asia (Middle East Asia)"
+"543","Iraq","Iraq","UMICs","Asia (Middle East Asia)"
+"549","Jordan","Jordanie","UMICs","Asia (Middle East Asia)"
+"550","West Bank and Gaza Strip","Cisjordanie et bande de Gaza","LMICs","Asia (Middle East Asia)"
+"555","Lebanon","Liban","UMICs","Asia (Middle East Asia)"
+"573","Syrian Arab Republic","République arabe syrienne","LMICs","Asia (Middle East Asia)"
+"580","Yemen","Yémen","LDCs","Asia (Middle East Asia)"
+"589","Middle East, regional","Moyen-Orient, régional","","Asia (Middle East Asia)"
+"610","Armenia","Arménie","LMICs","Asia (South & Central Asia)"
+"611","Azerbaijan","Azerbaïdjan","UMICs","Asia (South & Central Asia)"
+"612","Georgia","Géorgie","LMICs","Asia (South & Central Asia)"
+"613","Kazakhstan","Kazakhstan","UMICs","Asia (South & Central Asia)"
+"614","Kyrgyzstan","Kirghizistan","LMICs","Asia (South & Central Asia)"
+"615","Tajikistan","Tadjikistan","Other LICs","Asia (South & Central Asia)"
+"616","Turkmenistan","Turkménistan","UMICs","Asia (South & Central Asia)"
+"617","Uzbekistan","Ouzbékistan","LMICs","Asia (South & Central Asia)"
+"619","Central Asia, regional","Asie centrale, régional","","Asia (South & Central Asia)"
+"625","Afghanistan","Afghanistan","LDCs","Asia (South & Central Asia)"
+"630","Bhutan","Bhoutan","LDCs","Asia (South & Central Asia)"
+"635","Myanmar","Myanmar","LDCs","Asia (South & Central Asia)"
+"640","Sri Lanka","Sri Lanka","LMICs","Asia (South & Central Asia)"
+"645","India","Inde","LMICs","Asia (South & Central Asia)"
+"655","Maldives","Maldives","UMICs","Asia (South & Central Asia)"
+"660","Nepal","Népal","LDCs","Asia (South & Central Asia)"
+"665","Pakistan","Pakistan","LMICs","Asia (South & Central Asia)"
+"666","Bangladesh","Bangladesh","LDCs","Asia (South & Central Asia)"
+"679","South Asia, regional","Asie du Sud, régional","","Asia (South & Central Asia)"
+"689","South & Central Asia, regional","Asie du Sud & C., régional","","Asia (South & Central Asia)"
+"728","Cambodia","Cambodge","LDCs","Asia (Far East Asia)"
+"730","China (People's Republic of)","Chine (République populaire de)","UMICs","Asia (Far East Asia)"
+"738","Indonesia","Indonésie","LMICs","Asia (Far East Asia)"
+"740","Democratic People's Republic of Korea","République populaire démocratique de Corée","Other LICs","Asia (Far East Asia)"
+"745","Lao People's Democratic Republic","République démocratique populaire lao","LDCs","Asia (Far East Asia)"
+"751","Malaysia","Malaisie","UMICs","Asia (Far East Asia)"
+"753","Mongolia","Mongolie","LMICs","Asia (Far East Asia)"
+"755","Philippines","Philippines","LMICs","Asia (Far East Asia)"
+"764","Thailand","Thaïlande","UMICs","Asia (Far East Asia)"
+"765","Timor-Leste","Timor-Leste","LDCs","Asia (Far East Asia)"
+"769","Viet Nam","Viet Nam","LMICs","Asia (Far East Asia)"
+"789","Far East Asia, regional","Extrême-Orient, régional","","Asia (Far East Asia)"
+"798","Asia, regional","Asie, régional","","Asia"
+"831","Cook Islands","Iles Cook","UMICs","Oceania"
+"832","Fiji","Fidji","UMICs","Oceania"
+"836","Kiribati","Kiribati","LDCs","Oceania"
+"845","Nauru","Nauru","UMICs","Oceania"
+"854","Vanuatu","Vanuatu","LDCs","Oceania"
+"856","Niue","Niue","UMICs","Oceania"
+"859","Marshall Islands","Iles Marshall","UMICs","Oceania"
+"860","Micronesia","Micronésie","LMICs","Oceania"
+"861","Palau","Palaos","UMICs","Oceania"
+"862","Papua New Guinea","Papouasie-Nouvelle-Guinée","LMICs","Oceania"
+"866","Solomon Islands","Iles Solomon","LDCs","Oceania"
+"868","Tokelau","Tokélaou","LMICs","Oceania"
+"870","Tonga","Tonga","UMICs","Oceania"
+"872","Tuvalu","Tuvalu","LDCs","Oceania"
+"876","Wallis and Futuna","Wallis-et-Futuna","UMICs","Oceania"
+"880","Samoa","Samoa","LMICs","Oceania"
+"889","Oceania, regional","Océanie, régional","","Oceania"
+"998","Developing countries, unspecified","Pays en développement, non spécifié","",""

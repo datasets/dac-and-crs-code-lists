@@ -1,31 +1,31 @@
-code,name_en,name_fr
-1,Austria,Autriche
-2,Belgium,Belgique
-3,Denmark,Danemark
-4,France,France
-5,Germany,Allemagne
-6,Italy,Italie
-7,Netherlands,Pays-Bas
-8,Norway,Norvège
-9,Portugal,Portugal
-10,Sweden,Suède
-11,Switzerland,Suisse
-12,United Kingdom,Royaume-Uni
-18,Finland,Finlande
-20,Iceland,Islande
-21,Ireland,Irlande
-22,Luxembourg,Luxembourg
-40,Greece,Grèce
-50,Spain,Espagne
-61,Slovenia,Slovénie
-68,Czech Republic,République tchèque
-69,Slovak Republic,République slovaque
-75,Hungary,Hongrie
-76,Poland,Pologne
-301,Canada,Canada
-302,United States,Etats-Unis
-701,Japan,Japon
-742,Korea,Corée
-801,Australia,Australie
-820,New Zealand,Nouvelle-Zélande
-918,EU Institutions,Institutions de l'UE
+"code","name_en","name_fr"
+"1","Austria","Autriche"
+"2","Belgium","Belgique"
+"3","Denmark","Danemark"
+"4","France","France"
+"5","Germany","Allemagne"
+"6","Italy","Italie"
+"7","Netherlands","Pays-Bas"
+"8","Norway","Norvège"
+"9","Portugal","Portugal"
+"10","Sweden","Suède"
+"11","Switzerland","Suisse"
+"12","United Kingdom","Royaume-Uni"
+"18","Finland","Finlande"
+"20","Iceland","Islande"
+"21","Ireland","Irlande"
+"22","Luxembourg","Luxembourg"
+"40","Greece","Grèce"
+"50","Spain","Espagne"
+"61","Slovenia","Slovénie"
+"68","Czech Republic","République tchèque"
+"69","Slovak Republic","République slovaque"
+"75","Hungary","Hongrie"
+"76","Poland","Pologne"
+"301","Canada","Canada"
+"302","United States","Etats-Unis"
+"701","Japan","Japon"
+"742","Korea","Corée"
+"801","Australia","Australie"
+"820","New Zealand","Nouvelle-Zélande"
+"918","EU Institutions","Institutions de l'UE"
