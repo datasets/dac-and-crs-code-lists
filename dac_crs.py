@@ -122,8 +122,8 @@ def push_to_github():
     url = 'https://api.github.com/repos/andylolz/dac-crs-codes/pulls'
     git = Repo.init(output_dir).git
     git.add('.')
-    git.config('user.email', 'a.lulham@gmail.com')
-    git.config('user.name', 'Andy Lulham')
+    git.config('user.email', environ.get('MORPH_GH_EMAIL'))
+    git.config('user.name', environ.get('MORPH_GH_USERNAME'))
     git.commit(m='Update')
     git.push('origin', 'update')
     payload = {
@@ -132,5 +132,5 @@ def push_to_github():
         'head': 'update',
         'base': 'gh-pages',
     }
-    r = requests.post(url, json=payload, auth=('andylolz', environ.get('MORPH_GH_API_KEY')))
+    r = requests.post(url, json=payload, auth=(environ.get('MORPH_GH_USERNAME'), environ.get('MORPH_GH_API_KEY')))
     shutil.rmtree(output_dir, ignore_errors=True)
