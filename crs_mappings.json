@@ -135,6 +135,18 @@
         "sheet_name": "Type of aid",
         "fill_down": ["category"]
     },
+    "aid_type_category": {
+        "start_row": 3,
+        "cols": [
+            [0, "code"],
+            [2, "name_en"],
+            [3, "description_en"],
+            [7, "name_fr"],
+            [8, "description_fr"]
+        ],
+        "exclude_blank": ["code", "name_en"],
+        "sheet_name": "Type of aid"
+    },
     "sector_en": {
         "start_row": 4,
         "cols": [
