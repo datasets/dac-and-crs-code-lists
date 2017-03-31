@@ -133,7 +133,8 @@
         ],
         "exclude_blank": ["code", "name_en"],
         "sheet_name": "Type of aid",
-        "fill_down": ["category"]
+        "fill_down": ["category"],
+        "merge_down": ["description_en", "description_fr"]
     },
     "aid_type_category": {
         "start_row": 3,
@@ -145,7 +146,9 @@
             [8, "description_fr"]
         ],
         "exclude_blank": ["code", "name_en"],
-        "sheet_name": "Type of aid"
+        "sheet_name": "Type of aid",
+        "fill_down": ["name_en", "name_fr"],
+        "merge_down": ["description_en", "description_fr"]
     },
     "sector_en": {
         "start_row": 4,

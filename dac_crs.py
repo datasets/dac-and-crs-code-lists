@@ -59,8 +59,13 @@ def get_crs_codelist(book, mapping):
     cl = book.sheet_by_name(mapping['sheet_name'])
     cldata = []
 
+    merge_down = mapping.get('merge_down')
+    if merge_down:
+        merged_row_data = {}
+
     # Some values apply to following rows; we save them in `fill_down_vals`
     fill_down_vals = {}
+
     for row_num in range(mapping['start_row'], cl.nrows):
         # Map columns to values
         row_data = {}
@@ -85,17 +90,39 @@ def get_crs_codelist(book, mapping):
         if skip_row:
             continue
 
+        if merge_down and merged_row_data != {}:
+            do_merge_down = True
+            for k, v in row_data.items():
+                if k in merge_down:
+                    continue
+                if v.strip() != '':
+                    do_merge_down = False
+            if do_merge_down:
+                for k in merge_down:
+                    if row_data[k].strip() != '':
+                        merged_row_data[k] += '\r\n' + row_data[k]
+                continue
+            else:
+                cldata.append(merged_row_data)
+                merged_row_data = {}
+
         # Check whether we should ignore this row based on `exclude_blank`
         if relevant_row(mapping, row_data):
             for col_name, fill_down_val in fill_down_vals.items():
                 if row_data[col_name].strip() == '':
                     row_data[col_name] = fill_down_val
-            cldata.append(row_data)
+            if merge_down:
+                merged_row_data = row_data
+            else:
+                cldata.append(row_data)
 
         if mapping.get('fill_down'):
             for fill_down_col in mapping['fill_down']:
                 if row_data[fill_down_col] != '':
                     fill_down_vals[fill_down_col] = row_data[fill_down_col]
+
+    if merge_down and merged_row_data != {}:
+        cldata.append(merged_row_data)
 
     return cldata
 
