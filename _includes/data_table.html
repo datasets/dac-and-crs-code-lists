@@ -38,6 +38,7 @@ $(document).ready(function() {
     download: true,
     worker: true,
     header: true,
+    skipEmptyLines: true,
     step: function(row) {
       $('#data-table-body').append(dataRow(row.data[0]))
     },
