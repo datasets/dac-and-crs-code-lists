@@ -150,6 +150,19 @@
         "fill_down": ["name_en", "name_fr"],
         "merge_down": ["description_en", "description_fr"]
     },
+    "sector_category_en": {
+        "start_row": 4,
+        "cols": [
+            [0, "code"],
+            [3, "name_en"]
+        ],
+        "exclude_blank": ["code"],
+        "sheet_name": "Purpose codes",
+        "ignore": [
+            ["code", "DAC 5"],
+            ["code", "CODE"]
+        ]
+    },
     "sector_en": {
         "start_row": 4,
         "cols": [
@@ -186,6 +199,19 @@
         "ignore": [
             ["category", "CODE"],
             ["category", "CAD 5"]
+        ]
+    },
+    "sector_category_fr": {
+        "start_row": 4,
+        "cols": [
+            [0, "code"],
+            [3, "name_fr"]
+        ],
+        "exclude_blank": ["code"],
+        "sheet_name": "Codes objet",
+        "ignore": [
+            ["code", "CODE"],
+            ["code", "CAD 5"]
         ]
     }
 }

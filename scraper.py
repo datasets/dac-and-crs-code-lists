@@ -45,4 +45,19 @@ fieldnames = [x[1] for x in crs_mappings['sector_en']['cols']] + ['name_fr', 'de
 print('Saving sector.csv')
 dac_crs.save_csv('sector', sectors_en, fieldnames)
 
+print('Combining sector_category_en and sector_category_fr ...')
+sector_categories_en = scraperwiki.sqlite.select('* from sector_category_en')
+all_sector_categories = []
+for idx, sector_category in enumerate(sector_categories_en):
+    fr_data = scraperwiki.sqlite.select('`name_fr` from sector_category_fr where `code` = "{code}"'.format(code=sector_category['code']))
+    sector_category.update(fr_data[0])
+    description_data = scraperwiki.sqlite.select('`description_en`, `description_fr` from sector where `category` = "{code}" ORDER BY `code` ASC LIMIT 1'.format(code=sector_category['code']))
+    if description_data == []:
+        continue
+    sector_category.update(description_data[0])
+    all_sector_categories.append(sector_category)
+print('Saving sector_category.csv')
+fieldnames = ['code', 'name_en', 'description_en', 'name_fr', 'description_fr']
+dac_crs.save_csv('sector_category', all_sector_categories, fieldnames)
+
 dac_crs.push_to_github()
