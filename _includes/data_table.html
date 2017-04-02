@@ -16,17 +16,6 @@
   <i class="fa fa-circle-o-notch fa-spin fa-fw"></i>
 </div>
 
-<script>
-$(document).ready(function() {
-  var $table = $('table.table');
-  $table.floatThead({
-    scrollContainer: function($table) {
-      return $table.closest('.table-container');
-    }
-  });
-})
-</script>
-
 <script type='text/javascript' src='{{ site.github.url }}/js/papaparse.min.js'></script>
 <script>
   Papa.SCRIPT_PATH = '{{ site.github.url }}/js/papaparse.min.js'
