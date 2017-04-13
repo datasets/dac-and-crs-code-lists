@@ -50,8 +50,9 @@ fieldnames = ['category', 'code', 'name_en', 'description_en', 'name_fr', 'descr
 # these codes are a bit too broad. Voluntary codes should be used instead
 unmappable_codes = list({x['code']: None for x in sectors_en if x['voluntary_code'] != ''}.keys())
 # these codes are unmappable because they are very broad.
-# This comes from Sam Moon's work
-unmappable_codes += ['16050', '43010', '43081', '43082',]
+# This comes from:
+# http://www.aidtransparency.net/wp-content/uploads/2013/05/Annex-4-Common-Code-and-CRS-Spreadsheet.xls
+unmappable_codes += ['43010', '43050', '43081', '43082', '51010', '52010', '53030', '53040', '93010', '99810', '99820']
 common_codes = []
 for sector in sectors_en:
     if sector['code'] in unmappable_codes and sector['voluntary_code'] == '':
