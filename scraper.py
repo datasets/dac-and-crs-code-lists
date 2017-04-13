@@ -48,22 +48,27 @@ dac_crs.save_csv('sector', sectors_en, fieldnames)
 print('Deriving Common Code codelist from sectors ...')
 fieldnames = ['category', 'code', 'name_en', 'description_en', 'name_fr', 'description_fr']
 # these codes are a bit too broad. Voluntary codes should be used instead
-unmappable_codes = list({x['code']: None for x in sectors_en if x['voluntary_code'] != ''}.keys())
+parent_codes = list({x['code']: None for x in sectors_en if x['voluntary_code'] != ''}.keys())
 # these codes are unmappable because they are very broad.
 # This comes from:
 # http://www.aidtransparency.net/wp-content/uploads/2013/05/Annex-4-Common-Code-and-CRS-Spreadsheet.xls
-unmappable_codes += ['43010', '43050', '43081', '43082', '51010', '52010', '53030', '53040', '93010', '99810', '99820']
+unmappable_codes = ['43010', '43050', '43081', '43082', '51010', '52010', '53030', '53040', '93010', '99810', '99820']
 common_codes = []
 for sector in sectors_en:
-    if sector['code'] in unmappable_codes and sector['voluntary_code'] == '':
-        continue
     common_code = {f: sector[f] for f in fieldnames}
     if sector['voluntary_code'] != '':
         common_code['code'] = sector['voluntary_code']
+    if common_code['code'] in unmappable_codes:
+        common_code['budget_status'] = 'unmappable'
+    elif common_code['code'] in parent_codes:
+        common_code['budget_status'] = 'insufficiently granular'
+    else:
+        common_code['budget_status'] = ''
     common_codes.append(common_code)
-scraperwiki.sqlite.save(['code'], common_codes, 'common_codes')
-print('Saving common_code.csv')
-dac_crs.save_csv('common_code', common_codes, fieldnames)
+scraperwiki.sqlite.save(['code'], common_codes, 'sector_for_budget_alignment')
+print('Saving sector_for_budget_alignment.csv')
+fieldnames.insert(2, 'budget_status')
+dac_crs.save_csv('sector_for_budget_alignment', common_codes, fieldnames)
 
 print('Combining sector_category_en and sector_category_fr ...')
 sector_categories_en = scraperwiki.sqlite.select('* from sector_category_en')
