@@ -45,6 +45,25 @@ fieldnames = [x[1] for x in crs_mappings['sector_en']['cols']] + ['name_fr', 'de
 print('Saving sector.csv')
 dac_crs.save_csv('sector', sectors_en, fieldnames)
 
+print('Deriving Common Code codelist from sectors ...')
+fieldnames = ['category', 'code', 'name_en', 'description_en', 'name_fr', 'description_fr']
+# these codes are a bit too broad. Voluntary codes should be used instead
+unmappable_codes = list({x['code']: None for x in sectors_en if x['voluntary_code'] != ''}.keys())
+# these codes are unmappable because they are very broad.
+# This comes from Sam Moon's work
+unmappable_codes += ['16050', '43010', '43081', '43082',]
+common_codes = []
+for sector in sectors_en:
+    if sector['code'] in unmappable_codes and sector['voluntary_code'] == '':
+        continue
+    common_code = {f: sector[f] for f in fieldnames}
+    if sector['voluntary_code'] != '':
+        common_code['code'] = sector['voluntary_code']
+    common_codes.append(common_code)
+scraperwiki.sqlite.save(['code'], common_codes, 'common_codes')
+print('Saving common_code.csv')
+dac_crs.save_csv('common_code', common_codes, fieldnames)
+
 print('Combining sector_category_en and sector_category_fr ...')
 sector_categories_en = scraperwiki.sqlite.select('* from sector_category_en')
 all_sector_categories = []
