@@ -155,7 +155,9 @@ def push_to_github():
     git.push('origin', 'update')
     payload = {
         'title': 'Merge in latest codelist changes',
-        'body': 'This is an auto- pull request, sent from [the morph.io scraper](https://morph.io/andylolz/dac-crs-codes).',
+        'body': 'This is an auto- pull request, sent from ' \
+            '[the morph.io scraper](https://morph.io/andylolz/dac-crs-codes).' \
+            '\n\nPinging @andylolz to review.',
         'head': 'update',
         'base': 'gh-pages',
     }
