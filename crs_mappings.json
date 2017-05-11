@@ -1,6 +1,6 @@
 {
     "dac_members": {
-        "start_row": 4,
+        "start_row": 3,
         "cols": [
             [0, "code"],
             [1, "name_en"],
@@ -10,7 +10,7 @@
         "sheet_name": "Donor"
     },
     "multilateral_donors": {
-        "start_row": 4,
+        "start_row": 3,
         "cols": [
             [4, "code"],
             [5, "name_en"],
@@ -20,7 +20,7 @@
         "sheet_name": "Donor"
     },
     "non_dac_donors": {
-        "start_row": 4,
+        "start_row": 3,
         "cols": [
             [8, "code"],
             [9, "name_en"],
@@ -30,7 +30,7 @@
         "sheet_name": "Donor"
     },
     "private_donors": {
-        "start_row": 4,
+        "start_row": 3,
         "cols": [
             [12, "code"],
             [13, "name_en"],
