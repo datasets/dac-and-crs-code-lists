@@ -2,6 +2,7 @@ import csv
 from glob import glob
 from os.path import join
 from os import environ, remove
+import re
 import shutil
 
 from bs4 import BeautifulSoup as bs
@@ -13,25 +14,39 @@ from git import Repo
 
 output_dir = 'output'
 data_dir = join(output_dir, 'data')
+base_url = 'http://www.oecd.org'
 
-def fetch_xls():
-    base_url = 'http://www.oecd.org'
-    codelists_url = base_url + '/dac/stats/dacandcrscodelists.htm'
-    xls_filepath = join(data_dir, 'DAC-CRS-CODES.xls')
-
-    r = requests.get(codelists_url)
-    soup = bs(r.text, 'html.parser')
-
-    xls_url = soup.find(class_='document').find('a')['href']
-    if xls_url.startswith('/'):
-        xls_url = base_url + xls_url
-
-    with open(xls_filepath, 'wb') as f:
-        r = requests.get(xls_url, stream=True)
+def save_from_url(url, filepath):
+    with open(filepath, 'wb') as f:
+        r = requests.get(url, stream=True)
         if not r.ok:
             raise
         for block in r.iter_content(1024):
             _ = f.write(block)
+
+def fetch_html():
+    codelists_url = base_url + '/dac/stats/dacandcrscodelists.htm'
+    r = requests.get(codelists_url)
+    soup = bs(r.text, 'html.parser')
+    return soup
+
+def fetch_xml(soup):
+    xml_filepath = join(data_dir, 'DAC_codeLists.xml')
+    xml_redirect_url = soup.find('a', text=re.compile('IATI'))['href']
+    if xml_redirect_url.startswith('/'):
+        xml_redirect_url = base_url + xml_redirect_url
+    r = requests.get(xml_redirect_url)
+    soup = bs(r.text, 'html.parser')
+    script_str = str(soup.find(text=re.compile('document.location.href')))
+    xml_url = re.search(r'"([^"]+)"', script_str).group(1)
+    save_from_url(xml_url, xml_filepath)
+
+def fetch_xls(soup):
+    xls_filepath = join(data_dir, 'DAC-CRS-CODES.xls')
+    xls_url = soup.find(class_='document').find('a')['href']
+    if xls_url.startswith('/'):
+        xls_url = base_url + xls_url
+    save_from_url(xls_url, xls_filepath)
 
     # Open CRS codelist
     return xlrd.open_workbook(xls_filepath)
