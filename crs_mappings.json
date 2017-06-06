@@ -111,11 +111,11 @@
         "start_row": 2,
         "cols": [
             [0, "category"],
-            [1, "heading_en"],
             [2, "code"],
-            [3, "name_en"],
-            [6, "heading_fr"],
-            [8, "name_fr"]
+            [1, "name_en"],
+            [3, "description_en"],
+            [6, "name_fr"],
+            [8, "description_fr"]
         ],
         "exclude_blank": ["code"],
         "sheet_name": "Type of finance",
