@@ -121,6 +121,16 @@
         "sheet_name": "Type of finance",
         "fill_down": ["category"]
     },
+    "finance_type_category": {
+        "start_row": 2,
+        "cols": [
+            [0, "code"],
+            [1, "name_en"],
+            [6, "name_fr"]
+        ],
+        "exclude_blank": ["code"],
+        "sheet_name": "Type of finance"
+    },
     "aid_type": {
         "start_row": 3,
         "cols": [
