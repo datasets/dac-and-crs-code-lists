@@ -108,7 +108,7 @@
         "sheet_name": "Type of flow"
     },
     "finance_type": {
-        "start_row": 8,
+        "start_row": 2,
         "cols": [
             [0, "category"],
             [1, "heading_en"],
