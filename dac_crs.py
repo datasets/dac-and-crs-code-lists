@@ -7,7 +7,6 @@ import shutil
 
 from bs4 import BeautifulSoup as bs
 import requests
-import scraperwiki
 import xlrd
 from git import Repo
 
