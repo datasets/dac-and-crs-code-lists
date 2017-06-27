@@ -162,7 +162,10 @@ def init_git_repo():
 def push_to_github():
     url = 'https://api.github.com/repos/andylolz/dac-crs-codes/pulls'
     git = Repo.init(output_dir).git
-    git.add('.')
+    _ = git.add('.')
+    if git.diff('HEAD') == '':
+        print('No changes since last update.')
+        return
     git.config('user.email', environ.get('MORPH_GH_EMAIL'))
     git.config('user.name', environ.get('MORPH_GH_USERNAME'))
     git.commit(m='Update')
