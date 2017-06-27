@@ -87,4 +87,5 @@ print('Saving sector_category.csv')
 fieldnames = ['code', 'name_en', 'description_en', 'name_fr', 'description_fr']
 dac_crs.save_csv('sector_category', all_sector_categories, fieldnames)
 
-dac_crs.push_to_github()
+if environ.get('MORPH_PUSH_TO_GITHUB'):
+    dac_crs.push_to_github()
