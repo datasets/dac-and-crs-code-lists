@@ -13,7 +13,6 @@ Installation
 You will need: python 3.x
 
 ```
-export MORPH_API_KEY=[your API key]
 pip install -r requirements.txt
 python scraper.py
 ```
