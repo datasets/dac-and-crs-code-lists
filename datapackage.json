@@ -1,0 +1,115 @@
+{
+    "description": "",
+    "licenses": [
+        {
+            "title": "Creative Commons Attribution 4.0",
+            "url": "https://creativecommons.org/licenses/by/4.0/"
+        }
+    ],
+    "name": "dac-crs-codelists",
+    "publishers": [
+        {
+            "name": "OECD",
+            "web": "http://www.oecd.org/dac/stats/dacandcrscodelists.htm"
+        }
+    ],
+    "resources": [
+        {
+            "description": "",
+            "mediatype": "text/csv",
+            "name": "Sectors",
+            "path": "data/sectors.csv"
+        },
+        {
+            "description": "",
+            "mediatype": "text/csv",
+            "name": "Sector categories",
+            "path": "data/sector_categories.csv"
+        },
+        {
+            "description": "",
+            "mediatype": "text/csv",
+            "name": "DAC members",
+            "path": "data/dac_members.csv"
+        },
+        {
+            "description": "",
+            "mediatype": "text/csv",
+            "name": "Multilateral donors",
+            "path": "data/multilateral_donors.csv"
+        },
+        {
+            "description": "",
+            "mediatype": "text/csv",
+            "name": "Non-DAC donors",
+            "path": "data/non_dac_donors.csv"
+        },
+        {
+            "description": "",
+            "mediatype": "text/csv",
+            "name": "Private donors",
+            "path": "data/private_donors.csv"
+        },
+        {
+            "description": "",
+            "mediatype": "text/csv",
+            "name": "Agencies",
+            "path": "data/agencies.csv"
+        },
+        {
+            "description": "",
+            "mediatype": "text/csv",
+            "name": "Nature of submission",
+            "path": "data/nature_of_submission.csv"
+        },
+        {
+            "description": "",
+            "mediatype": "text/csv",
+            "name": "Recipients",
+            "path": "data/recipients.csv"
+        },
+        {
+            "description": "",
+            "mediatype": "text/csv",
+            "name": "Channel codes",
+            "path": "data/channel_codes.csv"
+        },
+        {
+            "description": "",
+            "mediatype": "text/csv",
+            "name": "Collaboration types",
+            "path": "data/collaboration_types.csv"
+        },
+        {
+            "description": "",
+            "mediatype": "text/csv",
+            "name": "Flow types",
+            "path": "data/flow_types.csv"
+        },
+        {
+            "description": "",
+            "mediatype": "text/csv",
+            "name": "Finance types",
+            "path": "data/finance_types.csv"
+        },
+        {
+            "description": "",
+            "mediatype": "text/csv",
+            "name": "Finance type categories",
+            "path": "data/finance_type_categories.csv"
+        },
+        {
+            "description": "",
+            "mediatype": "text/csv",
+            "name": "Aid types",
+            "path": "data/aid_types.csv"
+        },
+        {
+            "description": "",
+            "mediatype": "text/csv",
+            "name": "Aid type categories",
+            "path": "data/aid_type_categories.csv"
+        }
+    ],
+    "title": "Republished DAC CRS codelists"
+}
