@@ -29,17 +29,6 @@ def fetch_html():
     soup = bs(r.text, 'html.parser')
     return soup
 
-def fetch_xml(soup):
-    xml_filepath = join(data_dir, 'DAC_codeLists.xml')
-    xml_redirect_url = soup.find('a', text=re.compile('IATI'))['href']
-    if xml_redirect_url.startswith('/'):
-        xml_redirect_url = base_url + xml_redirect_url
-    r = requests.get(xml_redirect_url)
-    soup = bs(r.text, 'html.parser')
-    script_str = str(soup.find(text=re.compile('document.location.href')))
-    xml_url = re.search(r'"([^"]+)"', script_str).group(1)
-    save_from_url(xml_url, xml_filepath)
-
 def fetch_xls(soup):
     xls_filepath = join(data_dir, 'DAC-CRS-CODES.xls')
     xls_url = soup.find(class_='document').find('a')['href']

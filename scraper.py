@@ -9,10 +9,10 @@ import scraperwiki
 
 import dac_crs
 
+
 '''
 Generates codelist files from CRS codelists.
 '''
-
 shutil.rmtree('data.sqlite', ignore_errors=True)
 
 with open('crs_mappings.json') as f:
@@ -21,7 +21,6 @@ with open('crs_mappings.json') as f:
 dac_crs.init_git_repo()
 
 soup = dac_crs.fetch_html()
-dac_crs.fetch_xml(soup)
 crs_xls = dac_crs.fetch_xls(soup)
 
 for name, mapping in crs_mappings.items():
