@@ -46,31 +46,6 @@ fieldnames = [x[1] for x in crs_mappings['sectors_en']['cols']] + ['name_fr', 'd
 print('Saving sectors.csv')
 dac_crs.save_csv('sectors', sectors_en, fieldnames)
 
-print('Deriving Common Code codelist from sectors ...')
-fieldnames = ['category', 'code', 'name_en', 'description_en', 'name_fr', 'description_fr']
-# these codes are a bit too broad. Voluntary codes should be used instead
-parent_codes = list({x['code']: None for x in sectors_en if x['voluntary_code'] != ''}.keys())
-# these codes are unmappable because they are very broad.
-# These are the "Not classifiable (multisectoral)" codes from:
-# http://www.aidtransparency.net/wp-content/uploads/2013/05/Annex-4-Common-Code-and-CRS-Spreadsheet.xls
-unmappable_codes = ['43010', '43050', '43081', '43082', '52010', '99810']
-common_codes = []
-for sector in sectors_en:
-    common_code = {f: sector[f] for f in fieldnames}
-    if sector['voluntary_code'] != '':
-        common_code['code'] = sector['voluntary_code']
-    if common_code['code'] in unmappable_codes:
-        common_code['budget_status'] = 'unmappable'
-    elif common_code['code'] in parent_codes:
-        common_code['budget_status'] = 'insufficiently granular'
-    else:
-        common_code['budget_status'] = ''
-    common_codes.append(common_code)
-scraperwiki.sqlite.save(['code'], common_codes, 'sector_for_budget_alignment')
-print('Saving sector_for_budget_alignment.csv')
-fieldnames.insert(2, 'budget_status')
-dac_crs.save_csv('sector_for_budget_alignment', common_codes, fieldnames)
-
 print('Combining sector_categories_en and sector_categories_fr ...')
 sector_categories_en = scraperwiki.sqlite.select('* from sector_categories_en')
 all_sector_categories = []
