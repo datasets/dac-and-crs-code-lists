@@ -1,5 +1,6 @@
 import json
-from os import environ
+from os import environ, remove
+from os.path import join
 import shutil
 
 # hack to override sqlite database filename
@@ -44,6 +45,9 @@ fieldnames = [x[1] for x in crs_mappings['sectors_en']['cols']] + ['name_fr', 'd
 print('Saving sectors.csv')
 dac_crs.save_csv('sectors', sectors_en, fieldnames)
 
+remove(join('data', 'sectors_en.csv'))
+remove(join('data', 'sectors_fr.csv'))
+
 print('Combining sector_categories_en and sector_categories_fr ...')
 sector_categories_en = scraperwiki.sqlite.select('* from sector_categories_en')
 all_sector_categories = []
@@ -59,3 +63,6 @@ scraperwiki.sqlite.save(['code'], all_sector_categories, 'sector_categories')
 print('Saving sector_categories.csv')
 fieldnames = ['code', 'name_en', 'description_en', 'name_fr', 'description_fr']
 dac_crs.save_csv('sector_categories', all_sector_categories, fieldnames)
+
+remove(join('data', 'sector_categories_en.csv'))
+remove(join('data', 'sector_categories_fr.csv'))
