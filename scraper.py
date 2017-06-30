@@ -18,8 +18,6 @@ shutil.rmtree('data.sqlite', ignore_errors=True)
 with open('crs_mappings.json') as f:
     crs_mappings = json.load(f)
 
-dac_crs.init_git_repo()
-
 soup = dac_crs.fetch_html()
 crs_xls = dac_crs.fetch_xls(soup)
 
@@ -61,6 +59,3 @@ scraperwiki.sqlite.save(['code'], all_sector_categories, 'sector_categories')
 print('Saving sector_categories.csv')
 fieldnames = ['code', 'name_en', 'description_en', 'name_fr', 'description_fr']
 dac_crs.save_csv('sector_categories', all_sector_categories, fieldnames)
-
-if environ.get('MORPH_PUSH_TO_GITHUB'):
-    dac_crs.push_to_github()

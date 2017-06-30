@@ -2,4 +2,3 @@ scraperwiki
 beautifulsoup4
 requests
 xlrd
-GitPython

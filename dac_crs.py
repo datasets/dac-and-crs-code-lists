@@ -1,18 +1,12 @@
 import csv
-from glob import glob
 from os.path import join
-from os import environ, remove
-import re
-import shutil
 
 from bs4 import BeautifulSoup as bs
 import requests
 import xlrd
-from git import Repo
 
 
-output_dir = 'output'
-data_dir = join(output_dir, 'data')
+data_dir = 'data'
 base_url = 'http://www.oecd.org'
 
 def save_from_url(url, filepath):
@@ -135,37 +129,3 @@ def save_csv(name, codelist, fieldnames):
         writer.writeheader()
         for row in codelist:
             writer.writerow(row)
-
-def init_git_repo():
-    shutil.rmtree(output_dir, ignore_errors=True)
-    git = Repo.init(output_dir).git
-    git.remote('add', 'origin', 'https://{}@github.com/andylolz/dac-crs-codes.git'.format(environ.get('MORPH_GH_API_KEY')))
-    try:
-        git.pull('origin', 'update')
-    except:
-        git.pull('origin', 'gh-pages')
-        git.checkout(b='update')
-    for to_remove in glob(join(data_dir, '*.csv')):
-        remove(to_remove)
-
-def push_to_github():
-    url = 'https://api.github.com/repos/andylolz/dac-crs-codes/pulls'
-    git = Repo.init(output_dir).git
-    _ = git.add('.')
-    if git.diff('HEAD') == '':
-        print('No changes since last update.')
-        return
-    git.config('user.email', environ.get('MORPH_GH_EMAIL'))
-    git.config('user.name', environ.get('MORPH_GH_USERNAME'))
-    git.commit(m='Update')
-    git.push('origin', 'update')
-    payload = {
-        'title': 'Merge in latest codelist changes',
-        'body': 'This is an auto- pull request, sent from ' \
-            '[the morph.io scraper](https://morph.io/andylolz/dac-crs-codes).' \
-            '\n\nPinging @andylolz to review.',
-        'head': 'update',
-        'base': 'gh-pages',
-    }
-    r = requests.post(url, json=payload, auth=(environ.get('MORPH_GH_USERNAME'), environ.get('MORPH_GH_API_KEY')))
-    shutil.rmtree(output_dir, ignore_errors=True)
