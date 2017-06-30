@@ -62,7 +62,7 @@
         ],
         "sheet_name": "Nature of submission"
     },
-    "recipient": {
+    "recipients": {
         "start_row": 1,
         "cols": [
             [0, "code"],
@@ -85,7 +85,7 @@
         ],
         "sheet_name": "Channel codes "
     },
-    "collaboration_type": {
+    "collaboration_types": {
         "start_row": 1,
         "cols": [
             [0, "code"],
@@ -95,7 +95,7 @@
         "exclude_blank": ["code"],
         "sheet_name": "Bi_Multi"
     },
-    "flow_type": {
+    "flow_types": {
         "start_row": 1,
         "cols": [
             [0, "code"],
@@ -107,7 +107,7 @@
         "exclude_blank": ["code"],
         "sheet_name": "Type of flow"
     },
-    "finance_type": {
+    "finance_types": {
         "start_row": 2,
         "cols": [
             [0, "category"],
@@ -121,7 +121,7 @@
         "sheet_name": "Type of finance",
         "fill_down": ["category"]
     },
-    "finance_type_category": {
+    "finance_type_categories": {
         "start_row": 2,
         "cols": [
             [0, "code"],
@@ -131,7 +131,7 @@
         "exclude_blank": ["code"],
         "sheet_name": "Type of finance"
     },
-    "aid_type": {
+    "aid_types": {
         "start_row": 3,
         "cols": [
             [0, "category"],
@@ -146,7 +146,7 @@
         "fill_down": ["category"],
         "merge_down": ["description_en", "description_fr"]
     },
-    "aid_type_category": {
+    "aid_type_categories": {
         "start_row": 3,
         "cols": [
             [0, "code"],
@@ -160,7 +160,7 @@
         "fill_down": ["name_en", "name_fr"],
         "merge_down": ["description_en", "description_fr"]
     },
-    "sector_category_en": {
+    "sector_categories_en": {
         "start_row": 4,
         "cols": [
             [0, "code"],
@@ -173,7 +173,7 @@
             ["code", "CODE"]
         ]
     },
-    "sector_en": {
+    "sectors_en": {
         "start_row": 4,
         "cols": [
             [0, "category"],
@@ -193,7 +193,7 @@
             ["code", "CODE"]
         ]
     },
-    "sector_fr": {
+    "sectors_fr": {
         "start_row": 4,
         "cols": [
             [0, "category"],
@@ -211,7 +211,7 @@
             ["category", "CAD 5"]
         ]
     },
-    "sector_category_fr": {
+    "sector_categories_fr": {
         "start_row": 4,
         "cols": [
             [0, "code"],
