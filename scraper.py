@@ -57,6 +57,7 @@ for idx, sector_category in enumerate(sector_categories_en):
         continue
     sector_category.update(description_data[0])
     all_sector_categories.append(sector_category)
+scraperwiki.sqlite.save(['code'], all_sector_categories, 'sector_categories')
 print('Saving sector_categories.csv')
 fieldnames = ['code', 'name_en', 'description_en', 'name_fr', 'description_fr']
 dac_crs.save_csv('sector_categories', all_sector_categories, fieldnames)
