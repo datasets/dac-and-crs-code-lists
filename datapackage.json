@@ -1,115 +1,600 @@
 {
-    "description": "",
+    "name": "dac-and-crs-code-lists",
+    "title": "DAC and CRS code lists",
+    "description": "The DAC Secretariat maintains various code lists which are used by donors to report on their aid flows to the DAC databases. In addition, these codes are used to classify information in the DAC databases.",
     "licenses": [
         {
             "id": "odc-pddl",
-            "url": "http://opendatacommons.org/licenses/pddl/"
+            "url": "https://opendatacommons.org/licenses/pddl/"
         }
     ],
-    "name": "dac-crs-codelists",
-    "publishers": [
+    "sources": [
         {
-            "name": "OECD",
-            "web": "http://www.oecd.org/dac/stats/dacandcrscodelists.htm"
+            "title": "OECD",
+            "url": "https://www.oecd.org/dac/stats/dacandcrscodelists.htm"
+        }
+    ],
+    "contributors": [
+        {
+            "title": "Andy Lulham",
+            "email": "a.lulham@gmail.com",
+            "url": "https://treadsoft.ly",
+            "role": "maintainer"
         }
     ],
     "resources": [
         {
-            "description": "",
+            "name": "dac-members",
+            "title": "DAC members",
+            "description": "List of donor codes and names for DAC members. Currency codes for a donor’s currency refer to the donor code in question (e.g. Australian dollars use donor code 801 for Australia. Note: the currency code for the Euro uses the donor code for EU Institutions, i.e. 918).",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "code",
+                        "title": "Donor code",
+                        "type": "string"
+                    },
+                    {
+                        "name": "name_en",
+                        "title": "Donor name (English)",
+                        "type": "string"
+                    },
+                    {
+                        "name": "name_fr",
+                        "title": "Donor name (French)",
+                        "type": "string"
+                    }
+                ]
+            },
+            "path": "data/dac_members.csv",
+            "format": "csv",
             "mediatype": "text/csv",
-            "name": "Sectors",
-            "path": "data/sectors.csv"
+            "encoding": "utf-8"
         },
         {
-            "description": "",
+            "name": "multilateral-donors",
+            "title": "Multilateral donors",
+            "description": "List of donor codes and names for multilateral donors.",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "code",
+                        "title": "Donor code",
+                        "type": "string"
+                    },
+                    {
+                        "name": "name_en",
+                        "title": "Donor name (English)",
+                        "type": "string"
+                    },
+                    {
+                        "name": "name_fr",
+                        "title": "Donor name (French)",
+                        "type": "string"
+                    }
+                ]
+            },
+            "path": "data/multilateral_donors.csv",
+            "format": "csv",
             "mediatype": "text/csv",
-            "name": "Sector categories",
-            "path": "data/sector_categories.csv"
+            "encoding": "utf-8"
         },
         {
-            "description": "",
+            "name": "non-dac-donors",
+            "title": "Non-DAC donors",
+            "description": "List of donor codes and names for non-DAC donors.",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "code",
+                        "title": "Donor code",
+                        "type": "string"
+                    },
+                    {
+                        "name": "name_en",
+                        "title": "Donor name (English)",
+                        "type": "string"
+                    },
+                    {
+                        "name": "name_fr",
+                        "title": "Donor name (French)",
+                        "type": "string"
+                    }
+                ]
+            },
+            "path": "data/non_dac_donors.csv",
+            "format": "csv",
             "mediatype": "text/csv",
-            "name": "DAC members",
-            "path": "data/dac_members.csv"
+            "encoding": "utf-8"
         },
         {
-            "description": "",
+            "name": "private-donors",
+            "title": "Private donors",
+            "description": "List of donor codes and names for private donors.",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "code",
+                        "title": "Donor code",
+                        "type": "string"
+                    },
+                    {
+                        "name": "name_en",
+                        "title": "Donor name (English)",
+                        "type": "string"
+                    },
+                    {
+                        "name": "name_fr",
+                        "title": "Donor name (French)",
+                        "type": "string"
+                    }
+                ]
+            },
+            "path": "data/private_donors.csv",
+            "format": "csv",
             "mediatype": "text/csv",
-            "name": "Multilateral donors",
-            "path": "data/multilateral_donors.csv"
+            "encoding": "utf-8"
         },
         {
-            "description": "",
+            "name": "agencies",
+            "title": "Agencies",
+            "description": "List of agency codes and names including agency acronyms.",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "code",
+                        "title": "Donor code",
+                        "type": "string"
+                    },
+                    {
+                        "name": "donor_name_en",
+                        "title": "Donor name (English)",
+                        "type": "string"
+                    },
+                    {
+                        "name": "donor_name_fr",
+                        "title": "Donor name (French)",
+                        "type": "string"
+                    },
+                    {
+                        "name": "agency_code",
+                        "title": "Agency code",
+                        "type": "string"
+                    },
+                    {
+                        "name": "agency_name_en",
+                        "title": "Agency name (English)",
+                        "type": "string"
+                    },
+                    {
+                        "name": "agency_name_fr",
+                        "title": "Agency name (French)",
+                        "type": "string"
+                    },
+                    {
+                        "name": "acronym",
+                        "title": "Acronym",
+                        "type": "string"
+                    }
+                ]
+            },
+            "path": "data/agencies.csv",
+            "format": "csv",
             "mediatype": "text/csv",
-            "name": "Non-DAC donors",
-            "path": "data/non_dac_donors.csv"
+            "encoding": "utf-8"
         },
         {
-            "description": "",
+            "name": "nature-of-submission",
+            "title": "Nature of submission",
+            "description": "List of codes used to determine whether a transaction refers to a newly reported activity or previously reported activity.",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "code",
+                        "title": "Code",
+                        "type": "string"
+                    },
+                    {
+                        "name": "name_en",
+                        "title": "Name (English)",
+                        "type": "string"
+                    },
+                    {
+                        "name": "name_fr",
+                        "title": "Name (French)",
+                        "type": "string"
+                    }
+                ]
+            },
+            "path": "data/nature_of_submission.csv",
+            "format": "csv",
             "mediatype": "text/csv",
-            "name": "Private donors",
-            "path": "data/private_donors.csv"
+            "encoding": "utf-8"
         },
         {
-            "description": "",
+            "name": "recipients",
+            "title": "Recipients",
+            "description": "Recipient codes and names, grouped by income group and geographical distribution.",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "code",
+                        "title": "Recipient code",
+                        "type": "string"
+                    },
+                    {
+                        "name": "name_en",
+                        "title": "Recipient name (English)",
+                        "type": "string"
+                    },
+                    {
+                        "name": "name_fr",
+                        "title": "Recipient name (French)",
+                        "type": "string"
+                    },
+                    {
+                        "name": "income_group",
+                        "title": "Income group",
+                        "type": "string"
+                    },
+                    {
+                        "name": "geography",
+                        "title": "Geography",
+                        "type": "string"
+                    }
+                ]
+            },
+            "path": "data/recipients.csv",
+            "format": "csv",
             "mediatype": "text/csv",
-            "name": "Agencies",
-            "path": "data/agencies.csv"
+            "encoding": "utf-8"
         },
         {
-            "description": "",
+            "name": "channel-codes",
+            "title": "Channel codes",
+            "description": "List of major channels of delivery codes and names.",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "category",
+                        "title": "Channel parent category",
+                        "type": "string"
+                    },
+                    {
+                        "name": "code",
+                        "title": "Category code",
+                        "type": "string"
+                    },
+                    {
+                        "name": "name_en",
+                        "title": "Name (English)",
+                        "type": "string"
+                    },
+                    {
+                        "name": "acronym_en",
+                        "title": "Acronym (English)",
+                        "type": "string"
+                    },
+                    {
+                        "name": "name_fr",
+                        "title": "Name (French)",
+                        "type": "string"
+                    },
+                    {
+                        "name": "acronym_fr",
+                        "title": "Acronym (French)",
+                        "type": "string"
+                    }
+                ]
+            },
+            "path": "data/channel_codes.csv",
+            "format": "csv",
             "mediatype": "text/csv",
-            "name": "Nature of submission",
-            "path": "data/nature_of_submission.csv"
+            "encoding": "utf-8"
         },
         {
-            "description": "",
+            "name": "collaboration-types",
+            "title": "Collaboration types",
+            "description": "List of codes used to determine the character of resource flows (bilateral or multilateral).",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "code",
+                        "title": "Code",
+                        "type": "string"
+                    },
+                    {
+                        "name": "name_en",
+                        "title": "Name (English)",
+                        "type": "string"
+                    },
+                    {
+                        "name": "name_fr",
+                        "title": "Name (French)",
+                        "type": "string"
+                    }
+                ]
+            },
+            "path": "data/collaboration_types.csv",
+            "format": "csv",
             "mediatype": "text/csv",
-            "name": "Recipients",
-            "path": "data/recipients.csv"
+            "encoding": "utf-8"
         },
         {
-            "description": "",
+            "name": "flow-types",
+            "title": "Flow types",
+            "description": "List of codes used to distinguish official development assistance, other official flows and private flows.",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "code",
+                        "title": "Code",
+                        "type": "string"
+                    },
+                    {
+                        "name": "name_en",
+                        "title": "Name (English)",
+                        "type": "string"
+                    },
+                    {
+                        "name": "description_en",
+                        "title": "Description (English)",
+                        "type": "string"
+                    },
+                    {
+                        "name": "name_fr",
+                        "title": "Name (French)",
+                        "type": "string"
+                    },
+                    {
+                        "name": "description_fr",
+                        "title": "Description (French)",
+                        "type": "string"
+                    }
+                ]
+            },
+            "path": "data/flow_types.csv",
+            "format": "csv",
             "mediatype": "text/csv",
-            "name": "Channel codes",
-            "path": "data/channel_codes.csv"
+            "encoding": "utf-8"
         },
         {
-            "description": "",
+            "name": "finance-types",
+            "title": "Finance types",
+            "description": "List of codes used to distinguish financial instruments, e.g. grants or loans.",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "category",
+                        "title": "Category",
+                        "type": "string"
+                    },
+                    {
+                        "name": "code",
+                        "title": "Code",
+                        "type": "string"
+                    },
+                    {
+                        "name": "name_en",
+                        "title": "Name (English)",
+                        "type": "string"
+                    },
+                    {
+                        "name": "description_en",
+                        "title": "Description (English)",
+                        "type": "string"
+                    },
+                    {
+                        "name": "name_fr",
+                        "title": "Name (French)",
+                        "type": "string"
+                    },
+                    {
+                        "name": "description_fr",
+                        "title": "Description (French)",
+                        "type": "string"
+                    }
+                ]
+            },
+            "path": "data/finance_types.csv",
+            "format": "csv",
             "mediatype": "text/csv",
-            "name": "Collaboration types",
-            "path": "data/collaboration_types.csv"
+            "encoding": "utf-8"
         },
         {
+            "name": "finance-type-categories",
+            "title": "Finance type categories",
             "description": "",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "code",
+                        "title": "Code",
+                        "type": "string"
+                    },
+                    {
+                        "name": "name_en",
+                        "title": "Name (English)",
+                        "type": "string"
+                    },
+                    {
+                        "name": "name_fr",
+                        "title": "Name (French)",
+                        "type": "string"
+                    }
+                ]
+            },
+            "path": "data/finance_type_categories.csv",
+            "format": "csv",
             "mediatype": "text/csv",
-            "name": "Flow types",
-            "path": "data/flow_types.csv"
+            "encoding": "utf-8"
         },
         {
-            "description": "",
+            "name": "aid-types",
+            "title": "Aid types",
+            "description": "List of codes used to distinguish aid modalities.",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "category",
+                        "title": "Category",
+                        "type": "string"
+                    },
+                    {
+                        "name": "code",
+                        "title": "Code",
+                        "type": "string"
+                    },
+                    {
+                        "name": "name_en",
+                        "title": "Name (English)",
+                        "type": "string"
+                    },
+                    {
+                        "name": "description_en",
+                        "title": "Description (English)",
+                        "type": "string"
+                    },
+                    {
+                        "name": "name_fr",
+                        "title": "Name (French)",
+                        "type": "string"
+                    },
+                    {
+                        "name": "description_fr",
+                        "title": "Description (French)",
+                        "type": "string"
+                    }
+                ]
+            },
+            "path": "data/aid_types.csv",
+            "format": "csv",
             "mediatype": "text/csv",
-            "name": "Finance types",
-            "path": "data/finance_types.csv"
+            "encoding": "utf-8"
         },
         {
+            "name": "aid-type-categories",
+            "title": "Aid type categories",
             "description": "",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "code",
+                        "title": "Code",
+                        "type": "string"
+                    },
+                    {
+                        "name": "name_en",
+                        "title": "Name (English)",
+                        "type": "string"
+                    },
+                    {
+                        "name": "description_en",
+                        "title": "Description (English)",
+                        "type": "string"
+                    },
+                    {
+                        "name": "name_fr",
+                        "title": "Name (French)",
+                        "type": "string"
+                    },
+                    {
+                        "name": "description_fr",
+                        "title": "Description (French)",
+                        "type": "string"
+                    }
+                ]
+            },
+            "path": "data/aid_type_categories.csv",
+            "format": "csv",
             "mediatype": "text/csv",
-            "name": "Finance type categories",
-            "path": "data/finance_type_categories.csv"
+            "encoding": "utf-8"
         },
         {
-            "description": "",
+            "name": "sectors",
+            "title": "Sectors",
+            "description": "List of 5 digit codes, names and descriptions used to identify the sector of destination of a contribution.",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "category",
+                        "title": "DAC 5 code",
+                        "type": "string"
+                    },
+                    {
+                        "name": "code",
+                        "title": "CRS code",
+                        "type": "string"
+                    },
+                    {
+                        "name": "voluntary_code",
+                        "title": "Voluntary code",
+                        "type": "string"
+                    },
+                    {
+                        "name": "name_en",
+                        "title": "Name (English)",
+                        "type": "string"
+                    },
+                    {
+                        "name": "description_en",
+                        "title": "Description (English)",
+                        "type": "string"
+                    },
+                    {
+                        "name": "name_fr",
+                        "title": "Name (French)",
+                        "type": "string"
+                    },
+                    {
+                        "name": "description_fr",
+                        "title": "Description (French)",
+                        "type": "string"
+                    }
+                ]
+            },
+            "path": "data/sectors.csv",
+            "format": "csv",
             "mediatype": "text/csv",
-            "name": "Aid types",
-            "path": "data/aid_types.csv"
+            "encoding": "utf-8"
         },
         {
+            "name": "sector-categories",
+            "title": "Sector categories",
             "description": "",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "code",
+                        "title": "DAC 5 code",
+                        "type": "string"
+                    },
+                    {
+                        "name": "name_en",
+                        "title": "Name (English)",
+                        "type": "string"
+                    },
+                    {
+                        "name": "description_en",
+                        "title": "Description (English)",
+                        "type": "string"
+                    },
+                    {
+                        "name": "name_fr",
+                        "title": "Name (French)",
+                        "type": "string"
+                    },
+                    {
+                        "name": "description_fr",
+                        "title": "Description (French)",
+                        "type": "string"
+                    }
+                ]
+            },
+            "path": "data/sector_categories.csv",
+            "format": "csv",
             "mediatype": "text/csv",
-            "name": "Aid type categories",
-            "path": "data/aid_type_categories.csv"
+            "encoding": "utf-8"
         }
-    ],
-    "title": "Republished DAC CRS codelists"
+    ]
 }
