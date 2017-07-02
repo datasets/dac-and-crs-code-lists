@@ -2,8 +2,8 @@
     "description": "",
     "licenses": [
         {
-            "title": "Creative Commons Attribution 4.0",
-            "url": "https://creativecommons.org/licenses/by/4.0/"
+            "id": "odc-pddl",
+            "url": "http://opendatacommons.org/licenses/pddl/"
         }
     ],
     "name": "dac-crs-codelists",
