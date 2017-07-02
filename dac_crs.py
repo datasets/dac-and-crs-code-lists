@@ -6,6 +6,7 @@ import requests
 import xlrd
 
 
+source_dir = 'source'
 data_dir = 'data'
 base_url = 'http://www.oecd.org'
 
@@ -24,7 +25,7 @@ def fetch_html():
     return soup
 
 def fetch_xls(soup):
-    xls_filepath = join(data_dir, 'DAC-CRS-CODES.xls')
+    xls_filepath = join(source_dir, 'codelists.xls')
     xls_url = soup.find(class_='document').find('a')['href']
     if xls_url.startswith('/'):
         xls_url = base_url + xls_url
