@@ -1,7 +1,4 @@
-DAC CRS Codelist scraper
-========================
-
-This code scrapes the DAC CRS codelist excel file [available on the OECD website](http://www.oecd.org/dac/stats/dacandcrscodelists.htm).
+Republished DAC CRS codelists, fetched from an excel file [available on the OECD website](http://www.oecd.org/dac/stats/dacandcrscodelists.htm).
 
 Preparation
 -----------
