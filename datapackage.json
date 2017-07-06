@@ -14,10 +14,10 @@
             "web": "https://www.oecd.org/dac/stats/dacandcrscodelists.htm"
         }
     ],
-    "contributors": [
+    "maintainer": [
         {
-            "title": "Andy Lulham",
-            "email": "a.lulham@gmail.com",
+            "name": "Andy Lulham",
+            "email": "andy.lulham@publishwhatyoufund.org",
             "url": "https://treadsoft.ly",
             "role": "maintainer"
         }
