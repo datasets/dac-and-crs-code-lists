@@ -10,8 +10,8 @@
     ],
     "sources": [
         {
-            "title": "OECD",
-            "url": "https://www.oecd.org/dac/stats/dacandcrscodelists.htm"
+            "name": "OECD",
+            "web": "https://www.oecd.org/dac/stats/dacandcrscodelists.htm"
         }
     ],
     "contributors": [
