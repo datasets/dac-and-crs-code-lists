@@ -83,7 +83,7 @@
             [6, "name_fr"],
             [5, "acronym_fr"]
         ],
-        "sheet_name": "Channel codes "
+        "sheet_name": "Channel codes"
     },
     "collaboration_types": {
         "start_row": 1,
