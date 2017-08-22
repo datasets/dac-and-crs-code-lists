@@ -101,3 +101,5 @@ ENV/
 
 # sqlite
 *.sqlite
+*.sqlite-journal
+
