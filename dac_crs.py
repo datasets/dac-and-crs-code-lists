@@ -35,7 +35,8 @@ def fetch_xls(soup):
     return xlrd.open_workbook(xls_filepath)
 
 def get_crs_codelist(book, mapping):
-    def to_str(val):
+    def get_cell_contents(cl, row_num, col_num):
+        val = cl.cell_value(row_num, col_num)
         if type(val) is float:
             if val == val // 1:
                 return str(int(val))
@@ -67,16 +68,8 @@ def get_crs_codelist(book, mapping):
     for row_num in range(mapping['start_row'], cl.nrows):
         # Map columns to values
         row_data = {}
-        for col_nums, col_name in mapping['cols']:
-            if type(col_nums) is not list:
-                col_nums = [col_nums]
-
-            # if we're merging multiple columns,
-            # take the first one that isn't blank
-            for col_num in col_nums:
-                row_data[col_name] = to_str(cl.cell_value(row_num, col_num))
-                if row_data[col_name].strip() != '':
-                    break
+        for col_num, col_name in mapping['cols']:
+            row_data[col_name] = get_cell_contents(cl, row_num, col_num)
 
         # if the value for a given column is in `ignore`
         # then ignore this row
