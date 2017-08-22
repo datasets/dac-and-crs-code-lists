@@ -166,7 +166,7 @@
             [0, "code"],
             [3, "name_en"]
         ],
-        "exclude_blank": [0],
+        "exclude_blank": [0, 3],
         "sheet_name": "Purpose codes",
         "ignore": [
             [0, "DAC 5"],
