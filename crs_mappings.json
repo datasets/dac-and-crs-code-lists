@@ -6,7 +6,7 @@
             [1, "name_en"],
             [2, "name_fr"]
         ],
-        "exclude_blank": ["code"],
+        "exclude_blank": [0],
         "sheet_name": "Donor"
     },
     "multilateral_donors": {
@@ -16,7 +16,7 @@
             [5, "name_en"],
             [6, "name_fr"]
         ],
-        "exclude_blank": ["code"],
+        "exclude_blank": [4],
         "sheet_name": "Donor"
     },
     "non_dac_donors": {
@@ -26,7 +26,7 @@
             [9, "name_en"],
             [10, "name_fr"]
         ],
-        "exclude_blank": ["code"],
+        "exclude_blank": [8],
         "sheet_name": "Donor"
     },
     "private_donors": {
@@ -36,7 +36,7 @@
             [13, "name_en"],
             [14, "name_fr"]
         ],
-        "exclude_blank": ["code"],
+        "exclude_blank": [12],
         "sheet_name": "Donor"
     },
     "agencies": {
@@ -92,7 +92,7 @@
             [1, "name_en"],
             [2, "name_fr"]
         ],
-        "exclude_blank": ["code"],
+        "exclude_blank": [0],
         "sheet_name": "Bi_Multi"
     },
     "flow_types": {
@@ -104,7 +104,7 @@
             [3, "name_fr"],
             [4, "description_fr"]
         ],
-        "exclude_blank": ["code"],
+        "exclude_blank": [0],
         "sheet_name": "Type of flow"
     },
     "finance_types": {
@@ -117,7 +117,7 @@
             [6, "name_fr"],
             [8, "description_fr"]
         ],
-        "exclude_blank": ["code"],
+        "exclude_blank": [2],
         "sheet_name": "Type of finance",
         "fill_down": ["category"]
     },
@@ -128,7 +128,7 @@
             [1, "name_en"],
             [6, "name_fr"]
         ],
-        "exclude_blank": ["code"],
+        "exclude_blank": [0],
         "sheet_name": "Type of finance"
     },
     "aid_types": {
@@ -141,7 +141,7 @@
             [7, "name_fr"],
             [8, "description_fr"]
         ],
-        "exclude_blank": ["code", "name_en"],
+        "exclude_blank": [1, 2],
         "sheet_name": "Type of aid",
         "fill_down": ["category"],
         "merge_down": ["description_en", "description_fr"]
@@ -155,7 +155,7 @@
             [7, "name_fr"],
             [8, "description_fr"]
         ],
-        "exclude_blank": ["code", "name_en"],
+        "exclude_blank": [0, 2],
         "sheet_name": "Type of aid",
         "fill_down": ["name_en", "name_fr"],
         "merge_down": ["description_en", "description_fr"]
@@ -166,11 +166,11 @@
             [0, "code"],
             [3, "name_en"]
         ],
-        "exclude_blank": ["code"],
+        "exclude_blank": [0],
         "sheet_name": "Purpose codes",
         "ignore": [
-            ["code", "DAC 5"],
-            ["code", "CODE"]
+            [0, "DAC 5"],
+            [0, "CODE"]
         ]
     },
     "sectors_en": {
@@ -183,14 +183,14 @@
             [4, "description_en"]
         ],
         "key": ["code", "voluntary_code"],
-        "exclude_blank": [["code", "voluntary_code"]],
+        "exclude_blank": [[1, 2]],
         "sheet_name": "Purpose codes",
         "fill_down": ["category", "code"],
         "ignore": [
-            ["category", "DAC 5"],
-            ["category", "CODE"],
-            ["code", "CRS"],
-            ["code", "CODE"]
+            [0, "DAC 5"],
+            [0, "CODE"],
+            [1, "CRS"],
+            [1, "CODE"]
         ]
     },
     "sectors_fr": {
@@ -203,12 +203,12 @@
             [4, "description_fr"]
         ],
         "key": ["code", "voluntary_code"],
-        "exclude_blank": [["code", "voluntary_code"]],
+        "exclude_blank": [[1, 2]],
         "sheet_name": "Codes objet",
         "fill_down": ["category", "code"],
         "ignore": [
-            ["category", "CODE"],
-            ["category", "CAD 5"]
+            [0, "CODE"],
+            [0, "CAD 5"]
         ]
     },
     "sector_categories_fr": {
@@ -217,11 +217,11 @@
             [0, "code"],
             [3, "name_fr"]
         ],
-        "exclude_blank": ["code"],
+        "exclude_blank": [0],
         "sheet_name": "Codes objet",
         "ignore": [
-            ["code", "CODE"],
-            ["code", "CAD 5"]
+            [0, "CODE"],
+            [0, "CAD 5"]
         ]
     }
 }

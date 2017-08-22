@@ -42,13 +42,13 @@ def get_crs_codelist(book, mapping):
                 return str(int(val))
         return str(val).replace('\n', '\r\n').strip()
 
-    def relevant_row(mapping, row_data):
+    def relevant_row(mapping, cl, row_num):
         for ebs in mapping.get('exclude_blank', []):
             if type(ebs) is not list:
                 ebs = [ebs]
             ignore = True
             for eb in ebs:
-                if str(row_data[eb]).strip() != '':
+                if get_cell_contents(cl, row_num, eb) != '':
                     ignore = False
             if ignore:
                 return False
@@ -74,8 +74,8 @@ def get_crs_codelist(book, mapping):
         # if the value for a given column is in `ignore`
         # then ignore this row
         skip_row = False
-        for ig_key, ig_val in mapping.get('ignore', []):
-            if row_data[ig_key] == ig_val:
+        for ig_col, ig_val in mapping.get('ignore', []):
+            if get_cell_contents(cl, row_num, ig_col) == ig_val:
                 skip_row = True
                 break
         if skip_row:
@@ -98,7 +98,7 @@ def get_crs_codelist(book, mapping):
                 merged_row_data = {}
 
         # Check whether we should ignore this row based on `exclude_blank`
-        if relevant_row(mapping, row_data):
+        if relevant_row(mapping, cl, row_num):
             for col_name, fill_down_val in fill_down_vals.items():
                 if row_data[col_name].strip() == '':
                     row_data[col_name] = fill_down_val
