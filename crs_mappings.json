@@ -218,6 +218,7 @@
             [3, "name_fr"]
         ],
         "exclude_blank": [0],
+        "exclude_filled": [1],
         "sheet_name": "Codes objet",
         "ignore": [
             [0, "CODE"],

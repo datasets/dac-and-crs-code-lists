@@ -52,6 +52,9 @@ def get_crs_codelist(book, mapping):
                     ignore = False
             if ignore:
                 return False
+        for ef in mapping.get('exclude_filled', []):
+            if get_cell_contents(cl, row_num, ef) != '':
+                return False
         return True
 
     # Get sheet and create array for this codelist
