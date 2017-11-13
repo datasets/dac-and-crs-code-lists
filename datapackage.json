@@ -11,7 +11,8 @@
     "sources": [
         {
             "name": "OECD",
-            "web": "https://www.oecd.org/dac/stats/dacandcrscodelists.htm"
+            "path": "https://www.oecd.org/dac/stats/dacandcrscodelists.htm",
+            "title": "OECD"
         }
     ],
     "maintainer": [
