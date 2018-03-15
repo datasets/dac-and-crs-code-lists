@@ -3,10 +3,11 @@
     "title": "DAC and CRS code lists",
     "description": "The DAC Secretariat maintains various code lists which are used by donors to report on their aid flows to the DAC databases. In addition, these codes are used to classify information in the DAC databases.",
     "licenses": [
-        {
-            "id": "odc-pddl",
-            "url": "https://opendatacommons.org/licenses/pddl/"
-        }
+      {
+        "name": "ODC-PDDL-1.0",
+        "path": "http://opendatacommons.org/licenses/pddl/",
+        "title": "Open Data Commons Public Domain Dedication and License v1.0"
+      }
     ],
     "sources": [
         {
@@ -19,7 +20,7 @@
         {
             "name": "Andy Lulham",
             "email": "andy.lulham@publishwhatyoufund.org",
-            "url": "https://treadsoft.ly",
+            "path": "https://treadsoft.ly",
             "role": "maintainer"
         }
     ],
