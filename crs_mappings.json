@@ -68,8 +68,8 @@
             [0, "code"],
             [1, "name_en"],
             [2, "name_fr"],
-            [3, "income_group"],
-            [4, "geography"]
+            [4, "income_group"],
+            [5, "geography"]
         ],
         "sheet_name": "Recipient"
     },
