@@ -10,19 +10,22 @@ source_dir = 'source'
 data_dir = 'data'
 base_url = 'http://www.oecd.org'
 
+
 def save_from_url(url, filepath):
     with open(filepath, 'wb') as f:
         r = requests.get(url, stream=True)
         if not r.ok:
             raise
         for block in r.iter_content(1024):
-            _ = f.write(block)
+            f.write(block)
+
 
 def fetch_html():
     codelists_url = base_url + '/dac/stats/dacandcrscodelists.htm'
     r = requests.get(codelists_url)
     soup = bs(r.text, 'html.parser')
     return soup
+
 
 def fetch_xls(soup):
     xls_filepath = join(source_dir, 'codelists.xls')
@@ -33,6 +36,7 @@ def fetch_xls(soup):
 
     # Open CRS codelist
     return xlrd.open_workbook(xls_filepath)
+
 
 def get_crs_codelist(book, mapping):
     def get_cell_contents(cl, row_num, col_num):
