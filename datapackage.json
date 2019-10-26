@@ -577,18 +577,8 @@
                         "type": "string"
                     },
                     {
-                        "name": "description_en",
-                        "title": "Description (English)",
-                        "type": "string"
-                    },
-                    {
                         "name": "name_fr",
                         "title": "Name (French)",
-                        "type": "string"
-                    },
-                    {
-                        "name": "description_fr",
-                        "title": "Description (French)",
                         "type": "string"
                     }
                 ]

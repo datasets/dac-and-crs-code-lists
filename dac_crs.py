@@ -9,6 +9,7 @@ import xlrd
 source_dir = 'source'
 data_dir = 'data'
 base_url = 'http://www.oecd.org'
+xls_filename = 'codelists.xls'
 
 
 def save_from_url(url, filepath):
@@ -28,13 +29,17 @@ def fetch_html():
 
 
 def fetch_xls(soup):
-    xls_filepath = join(source_dir, 'codelists.xls')
+    xls_filepath = join(source_dir, xls_filename)
     xls_url = soup.find(class_='document').find('a')['href']
     if xls_url.startswith('/'):
         xls_url = base_url + xls_url
     save_from_url(xls_url, xls_filepath)
+    return xls_filepath
 
+
+def load_xls():
     # Open CRS codelist
+    xls_filepath = join(source_dir, xls_filename)
     return xlrd.open_workbook(xls_filepath)
 
 
@@ -124,9 +129,11 @@ def get_crs_codelist(book, mapping):
 
     return cldata
 
+
 def save_csv(name, codelist, fieldnames):
     with open(join(data_dir, name + '.csv'), 'w', encoding='utf-8') as f:
-        writer = csv.DictWriter(f, fieldnames=fieldnames, quoting=csv.QUOTE_ALL)
+        writer = csv.DictWriter(f, fieldnames=fieldnames,
+                                quoting=csv.QUOTE_ALL)
         writer.writeheader()
         for row in codelist:
             writer.writerow(row)
