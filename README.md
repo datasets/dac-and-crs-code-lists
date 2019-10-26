@@ -1,4 +1,4 @@
-[![goodtables.io](https://goodtables.io/badge/github/datasets/dac-crs-codes.svg)](https://goodtables.io/github/datasets/dac-crs-codes)
+[![goodtables.io](https://goodtables.io/badge/github/datasets/dac-and-crs-code-lists.svg)](https://goodtables.io/github/datasets/dac-and-crs-code-lists)
 
 The DAC Secretariat maintains various code lists which are used by donors to report on their aid flows to the DAC databases. In addition, these codes are used to classify information in the DAC databases.
 
