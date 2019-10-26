@@ -2,7 +2,7 @@
 
 The DAC Secretariat maintains various code lists which are used by donors to report on their aid flows to the DAC databases. In addition, these codes are used to classify information in the DAC databases.
 
-Here you can find these codes republished in a machine readable format. They’re fetched from an excel file [available on the OECD website](http://www.oecd.org/dac/stats/dacandcrscodelists.htm).
+Here you can find these codes republished in a machine readable format. They’re fetched from an Excel file [available on the OECD website](http://www.oecd.org/dac/stats/dacandcrscodelists.htm).
 
 Preparation
 -----------
