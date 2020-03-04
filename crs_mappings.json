@@ -74,7 +74,7 @@
         "sheet_name": "Recipient"
     },
     "channel_codes": {
-        "start_row": 8,
+        "start_row": 7,
         "cols": [
             [0, "category"],
             [1, "code"],
