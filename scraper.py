@@ -64,19 +64,3 @@ for c in sector_categories_en:
 fieldnames = fieldnames + ['name_fr']
 print('Saving sector_categories.csv')
 dac_crs.save_csv('sector_categories', sector_categories_en, fieldnames)
-
-
-# sector_categories_en = scraperwiki.sqlite.select('* from sector_categories_en')
-# all_sector_categories = []
-# for idx, sector_category in enumerate(sector_categories_en):
-#     fr_data = scraperwiki.sqlite.select('`name_fr` from sector_categories_fr where `code` = "{code}"'.format(code=sector_category['code']))
-#     sector_category.update(fr_data[0])
-#     description_data = scraperwiki.sqlite.select('`description_en`, `description_fr` from sectors where `category` = "{code}" ORDER BY `code` ASC LIMIT 1'.format(code=sector_category['code']))
-#     if description_data == []:
-#         continue
-#     sector_category.update(description_data[0])
-#     all_sector_categories.append(sector_category)
-# scraperwiki.sqlite.save(['code'], all_sector_categories, 'sector_categories')
-# print('Saving sector_categories.csv')
-# fieldnames = ['code', 'name_en', 'description_en', 'name_fr', 'description_fr']
-# dac_crs.save_csv('sector_categories', all_sector_categories, fieldnames)
