@@ -1,5 +1,6 @@
 import csv
 from os.path import join
+from urllib.parse import urlparse, urlunparse
 
 from bs4 import BeautifulSoup as bs
 import requests
@@ -8,38 +9,68 @@ import xlrd
 
 source_dir = 'source'
 data_dir = 'data'
-base_url = 'http://www.oecd.org'
-xls_filename = 'codelists.xls'
+
+filename = 'codelists'
 
 
 def save_from_url(url, filepath):
+    print('Saving: ' + url)
     with open(filepath, 'wb') as f:
         r = requests.get(url, stream=True)
         if not r.ok:
             raise
         for block in r.iter_content(1024):
             f.write(block)
+    return filepath
 
 
-def fetch_html():
-    codelists_url = base_url + '/dac/stats/dacandcrscodelists.htm'
-    r = requests.get(codelists_url)
+def rel_to_absolute(url, base_url):
+    if url.startswith('/'):
+        url = base_url + url
+    return url
+
+
+def fetch_html(url):
+    print('Fetching: ' + url)
+    r = requests.get(url)
     soup = bs(r.text, 'html.parser')
     return soup
 
 
-def fetch_xls(soup):
-    xls_filepath = join(source_dir, xls_filename)
-    xls_url = soup.find(class_='document').find('a')['href']
-    if xls_url.startswith('/'):
-        xls_url = base_url + xls_url
-    save_from_url(xls_url, xls_filepath)
-    return xls_filepath
+def fetch_xls(url):
+    base_url = urlunparse(urlparse(url)._replace(path=''))
+    soup = fetch_html(url)
+    doc = soup.find(class_='document')
+    xls_filepath = join(source_dir, filename + '.xls')
+    xls_url = doc.find('a', text='XLS')['href']
+    xls_url = rel_to_absolute(xls_url, base_url=base_url)
+    return save_from_url(xls_url, xls_filepath)
 
 
-def load_xls():
+def fetch_xml(url):
+    base_url = urlunparse(urlparse(url)._replace(path=''))
+    soup = fetch_html(url)
+    doc = soup.find(class_='document')
+    xml_page_url = doc.find('a', text='XML')['href']
+    xml_page_url = rel_to_absolute(xml_page_url, base_url=base_url)
+
+    base_url = urlunparse(urlparse(xml_page_url)._replace(path=''))
+    soup = fetch_html(xml_page_url)
+    doc = soup.find(class_='document')
+    xml_lookup_url = doc.find('a', text='DAC codelist in XML format')['href']
+    xml_lookup_url = rel_to_absolute(xml_lookup_url, base_url=base_url)
+
+    base_url = urlunparse(urlparse(xml_lookup_url)._replace(path=''))
+    soup = fetch_html(xml_lookup_url)
+    xml_url = soup.find('a', text='DAC-CRS-CODES.xml')['href']
+    xml_url = rel_to_absolute(xml_url, base_url=base_url)
+
+    xml_filepath = join(source_dir, filename + '.xml')
+    return save_from_url(xml_url, xml_filepath)
+
+
+def load_xls(xls_filepath):
     # Open CRS codelist
-    xls_filepath = join(source_dir, xls_filename)
     return xlrd.open_workbook(xls_filepath)
 
 

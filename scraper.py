@@ -16,9 +16,10 @@ Generates codelist files from CRS codelists.
 with open('crs_mappings.json') as f:
     crs_mappings = json.load(f)
 
-soup = dac_crs.fetch_html()
-dac_crs.fetch_xls(soup)
-crs_xls = dac_crs.load_xls()
+url = 'http://www.oecd.org/dac/stats/dacandcrscodelists.htm'
+dac_crs.fetch_xml(url)
+xls_filepath = dac_crs.fetch_xls(url)
+crs_xls = dac_crs.load_xls(xls_filepath)
 
 for name, mapping in crs_mappings.items():
     if name.startswith('sector'):
