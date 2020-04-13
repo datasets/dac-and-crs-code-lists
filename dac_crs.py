@@ -97,6 +97,12 @@ def get_crs_codelist(book, mapping):
                 return False
         return True
 
+    def do_replacement(replacements, col_name, val):
+        for col, before, after in replacements:
+            if col_name == col and before == val:
+                return after
+        return val
+
     # Get sheet and create array for this codelist
     cl = book.sheet_by_name(mapping['sheet_name'])
     cldata = []
@@ -112,7 +118,9 @@ def get_crs_codelist(book, mapping):
         # Map columns to values
         row_data = {}
         for col_num, col_name in mapping['cols']:
-            row_data[col_name] = get_cell_contents(cl, row_num, col_num)
+            val = get_cell_contents(cl, row_num, col_num)
+            row_data[col_name] = do_replacement(
+                mapping.get("replacements", []), col_name, val)
 
         # if the value for a given column is in `ignore`
         # then ignore this row
