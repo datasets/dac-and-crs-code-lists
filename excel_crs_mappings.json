@@ -146,7 +146,7 @@
             [8, "description_fr"]
         ],
         "exclude_blank": [1, 2],
-        "sheet_name": "Type of aid",
+        "sheet_name": "Types of aid",
         "fill_down": ["category"],
         "merge_down": ["description_en", "description_fr"]
     },
@@ -160,7 +160,7 @@
             [8, "description_fr"]
         ],
         "exclude_blank": [0, 2],
-        "sheet_name": "Type of aid",
+        "sheet_name": "Types of aid",
         "fill_down": ["name_en", "name_fr"],
         "merge_down": ["description_en", "description_fr"]
     },
