@@ -1,0 +1,42 @@
+name: Run scraper
+on:
+  push:
+  schedule:
+    - cron: '0 2 * * *'
+jobs:
+  scrape:
+    name: Run scraper
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+      name: Pull dac-and-crs-code-lists repo
+    - name: Set up Python 3.7
+      uses: actions/setup-python@v1
+      with:
+        python-version: 3.7
+    - uses: actions/cache@v2
+      name: Cache dependencies
+      with:
+        path: ~/.cache/pip
+        key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+        restore-keys: |
+          ${{ runner.os }}-pip-
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+    - name: Run scraper
+      run: |
+        python scraper.py
+    - name: Create Pull Request
+      uses: peter-evans/create-pull-request@v3
+      with:
+        token: ${{ secrets.TOKEN }}
+        commit-message: Automated update
+        committer: CodeforIATI bot <57559326+codeforIATIbot@users.noreply.github.com>
+        author: CodeforIATI bot <57559326+codeforIATIbot@users.noreply.github.com>
+        branch: update
+        branch-suffix: timestamp
+        delete-branch: true
+        title: Automated update
+        body: This update was sent from [this GitHub Action build](https://github.com/datasets/dac-and-crs-code-lists/actions/runs/${{ github.run_id }}). Pinging @andylolz for review.
