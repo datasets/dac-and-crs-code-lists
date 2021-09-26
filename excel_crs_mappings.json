@@ -139,30 +139,28 @@
         "start_row": 2,
         "cols": [
             [0, "category"],
-            [1, "code"],
-            [2, "name_en"],
-            [3, "description_en"],
-            [7, "name_fr"],
-            [8, "description_fr"]
+            [[1, 2], "code"],
+            [3, "name_en"],
+            [4, "description_en"],
+            [9, "name_fr"],
+            [10, "description_fr"]
         ],
-        "exclude_blank": [1, 2],
-        "sheet_name": "Types of aid",
-        "fill_down": ["category"],
-        "merge_down": ["description_en", "description_fr"]
+        "exclude_blank": [[1, 2]],
+        "sheet_name": "Co-operation modalities",
+        "fill_down": ["category"]
     },
     "aid_type_categories": {
         "start_row": 2,
         "cols": [
             [0, "code"],
-            [2, "name_en"],
-            [3, "description_en"],
-            [7, "name_fr"],
-            [8, "description_fr"]
+            [3, "name_en"],
+            [4, "description_en"],
+            [9, "name_fr"],
+            [10, "description_fr"]
         ],
-        "exclude_blank": [0, 2],
-        "sheet_name": "Types of aid",
-        "fill_down": ["name_en", "name_fr"],
-        "merge_down": ["description_en", "description_fr"]
+        "exclude_blank": [0],
+        "sheet_name": "Co-operation modalities",
+        "fill_down": ["name_en", "name_fr"]
     },
     "sector_categories_en": {
         "start_row": 4,
