@@ -1,6 +1,8 @@
-from scrapers.excel_scraper import scrape_excel
-from scrapers.xml_scraper import scrape_xml
+from scrapers.excel import scrape_excel
+from scrapers.xml import scrape_xml
+from parsers.excel import parse_excel
 
+scrape_xml("source/codelists.xml")
+scrape_excel("source/codelists.xls")
 
-scrape_xml()
-scrape_excel()
+parse_excel("source/codelists.xls", "data")
