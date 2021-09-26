@@ -77,6 +77,14 @@ def get_crs_codelist(book, mapping):
                 if row_data[fill_down_col] != '':
                     fill_down_vals[fill_down_col] = row_data[fill_down_col]
 
+    # remove duplicate rows
+    cldata = [
+        dict(k)
+        for k in {
+            tuple(t.items()): None
+            for t in cldata
+        }.keys()]
+
     return cldata
 
 
