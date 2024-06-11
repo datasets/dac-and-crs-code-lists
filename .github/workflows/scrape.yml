@@ -8,13 +8,13 @@ jobs:
     name: Run scraper
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v4
       name: Pull dac-and-crs-code-lists repo
-    - name: Set up Python 3.7
-      uses: actions/setup-python@v1
+    - name: Set up Python 3.10
+      uses: actions/setup-python@v5
       with:
-        python-version: 3.7
-    - uses: actions/cache@v2
+        python-version: 3.10
+    - uses: actions/cache@v4
       name: Cache dependencies
       with:
         path: ~/.cache/pip
@@ -29,7 +29,8 @@ jobs:
       run: |
         python scraper.py
     - name: Create Pull Request
-      uses: peter-evans/create-pull-request@v3
+      if: github.ref == 'refs/heads/main'
+      uses: peter-evans/create-pull-request@v6
       with:
         token: ${{ secrets.TOKEN }}
         commit-message: Automated update
