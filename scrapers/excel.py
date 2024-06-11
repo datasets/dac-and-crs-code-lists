@@ -8,7 +8,7 @@ def scrape_excel(xls_filepath):
     '''
     Generate codelist files from XLS CRS codelists.
     '''
-    url = 'http://www.oecd.org/dac/stats/dacandcrscodelists.htm'
+    url = 'https://webcache.googleusercontent.com/search?q=cache:https://www.oecd.org/dac/financing-sustainable-development/development-finance-standards/dacandcrscodelists.htm'
     base_url = urlunparse(urlparse(url)._replace(path=''))
     soup = fetch_html(url)
     doc = soup.find(class_='document')
