@@ -3,8 +3,8 @@
         "start_row": 3,
         "cols": [
             [0, "code"],
-            [1, "name_en"],
-            [2, "name_fr"]
+            [2, "name_en"],
+            [3, "name_fr"]
         ],
         "exclude_blank": [0],
         "sheet_name": "Donor"
@@ -12,31 +12,31 @@
     "multilateral_donors": {
         "start_row": 3,
         "cols": [
-            [4, "code"],
-            [5, "name_en"],
-            [6, "name_fr"]
+            [5, "code"],
+            [7, "name_en"],
+            [8, "name_fr"]
         ],
-        "exclude_blank": [4],
+        "exclude_blank": [5],
         "sheet_name": "Donor"
     },
     "non_dac_donors": {
         "start_row": 3,
         "cols": [
-            [8, "code"],
-            [9, "name_en"],
-            [10, "name_fr"]
+            [10, "code"],
+            [12, "name_en"],
+            [13, "name_fr"]
         ],
-        "exclude_blank": [8],
+        "exclude_blank": [10],
         "sheet_name": "Donor"
     },
     "private_donors": {
         "start_row": 3,
         "cols": [
-            [12, "code"],
-            [13, "name_en"],
-            [14, "name_fr"]
+            [15, "code"],
+            [17, "name_en"],
+            [18, "name_fr"]
         ],
-        "exclude_blank": [12],
+        "exclude_blank": [15],
         "sheet_name": "Donor"
     },
     "agencies": {
@@ -66,10 +66,10 @@
         "start_row": 1,
         "cols": [
             [0, "code"],
-            [1, "name_en"],
-            [2, "name_fr"],
-            [5, "income_group"],
-            [4, "geography"]
+            [2, "name_en"],
+            [3, "name_fr"],
+            [6, "income_group"],
+            [7, "geography"]
         ],
         "sheet_name": "Recipient"
     },
