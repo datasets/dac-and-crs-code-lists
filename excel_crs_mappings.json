@@ -69,7 +69,7 @@
             [2, "name_en"],
             [3, "name_fr"],
             [6, "income_group"],
-            [7, "geography"]
+            [5, "geography"]
         ],
         "sheet_name": "Recipient"
     },
