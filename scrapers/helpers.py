@@ -19,7 +19,7 @@ def rel_to_absolute(url, base_url):
 
 def fetch_html(url):
     print('Fetching: ' + url)
-    r = requests.get(url)
+    r = requests.get(url, headers={'user-agent': 'curl/7.72.0'})
     r.raise_for_status()
     soup = bs(r.text, 'html.parser')
     return soup
