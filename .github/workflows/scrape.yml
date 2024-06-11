@@ -40,4 +40,5 @@ jobs:
         branch-suffix: timestamp
         delete-branch: true
         title: Automated update
-        body: This update was sent from [this GitHub Action build](https://github.com/datasets/dac-and-crs-code-lists/actions/runs/${{ github.run_id }}). Pinging @andylolz for review.
+        body: This update was sent from [this GitHub Action build](https://github.com/datasets/dac-and-crs-code-lists/actions/runs/${{ github.run_id }}).
+        reviewers: markbrough,andylolz
