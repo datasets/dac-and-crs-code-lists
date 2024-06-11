@@ -83,7 +83,7 @@
             [6, "name_fr"],
             [5, "acronym_fr"]
         ],
-        "sheet_name": "Channel codes",
+        "sheet_name": "Channel code",
         "replacements": [
             ["name_fr", "aux épidemies", "European Fund for Southeast Europe"],
             ["name_fr", "avancés", "Organisation des Nations Unies"]
