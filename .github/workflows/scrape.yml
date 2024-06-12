@@ -37,7 +37,6 @@ jobs:
         committer: CodeforIATI bot <57559326+codeforIATIbot@users.noreply.github.com>
         author: CodeforIATI bot <57559326+codeforIATIbot@users.noreply.github.com>
         branch: update
-        branch-suffix: timestamp
         delete-branch: true
         title: Automated update
         body: This update was sent from [this GitHub Action build](https://github.com/datasets/dac-and-crs-code-lists/actions/runs/${{ github.run_id }}).
