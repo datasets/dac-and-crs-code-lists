@@ -3,6 +3,11 @@ on:
   push:
   schedule:
     - cron: '0 2 * * *'
+
+permissions:
+  contents: write
+  pull-requests: write
+
 jobs:
   scrape:
     name: Run scraper
@@ -32,7 +37,7 @@ jobs:
       if: github.ref == 'refs/heads/main'
       uses: peter-evans/create-pull-request@v6
       with:
-        token: ${{ secrets.TOKEN }}
+        token: ${{ secrets.GITHUB_TOKEN }}
         commit-message: Automated update
         committer: CodeforIATI bot <57559326+codeforIATIbot@users.noreply.github.com>
         author: CodeforIATI bot <57559326+codeforIATIbot@users.noreply.github.com>
