@@ -530,12 +530,12 @@
         "fields": [
           {
             "name": "category",
-            "title": "DAC 5 code",
+            "title": "Category code (3 digits)",
             "type": "string"
           },
           {
             "name": "code",
-            "title": "CRS code",
+            "title": "Sector code (5 digits)",
             "type": "string"
           },
           {
@@ -578,7 +578,7 @@
         "fields": [
           {
             "name": "code",
-            "title": "DAC 5 code",
+            "title": "Category code (3 digits)",
             "type": "string"
           },
           {

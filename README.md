@@ -77,8 +77,6 @@ python scraper.py
 
 A GitHub Action (`.github/workflows/scrape.yml`) runs `scraper.py` every day at 02:00 UTC, and on every push. On `main`, when the result differs, it opens or updates a pull request called "Automated update". Nothing reaches `main` until that pull request is merged.
 
-A second workflow, `.github/workflows/deploy.yml`, tries to publish the data to datahub.io on every push to `main`; its recent runs have failed.
-
 ## License
 
 The code lists are published by the OECD. The OECD Terms and Conditions (section 3, "Data") say:
