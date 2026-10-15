@@ -1,0 +1,13 @@
+Attribution for dac-and-crs-code-lists
+
+Contains information from the OECD DAC and CRS code lists (https://webfs.oecd.org/oda/DataCollection/Resources/DAC-CRS-CODES.xls), described on https://www.oecd.org/en/data/insights/data-explainers/2024/10/resources-for-reporting-development-finance-statistics.html, used under the OECD Terms and Conditions (https://www.oecd.org/en/about/terms-conditions.html). The terms allow commercial use, adaptation and sharing, with credit to the OECD. The exact licence for code lists is unclear: the OECD names CC BY 4.0 only for its written content, and its terms do not say which applies to a code list.
+
+Citation: OECD, DAC and CRS code lists, https://webfs.oecd.org/oda/DataCollection/Resources/DAC-CRS-CODES.xls
+
+The OECD asks that anyone who shares or licenses work made with this data includes the same acknowledgement requirement in any sub-licence they grant.
+
+Changes made to the source data: scraper.py downloads the OECD Excel file and the OECD XML version of the lists into source/, unchanged. parsers/excel.py reads the sheets and columns named in excel_crs_mappings.json, converts every cell to text, removes surrounding spaces, skips header and empty rows, fills down category values where the sheet leaves them blank, removes duplicate rows, joins the English and French sector lists, and writes one CSV file per list in data/. A few cells are replaced by fixed values listed in excel_crs_mappings.json. Columns of the sheets that are not in the mapping are not kept; for example recipients.csv keeps the DAC income group and the region, but not the other columns of the Recipient sheet.
+
+This is an adaptation of an original work by the OECD. The opinions expressed and arguments employed in this adaptation should not be reported as representing the official views of the OECD or of its Member countries.
+
+Not endorsed by, or affiliated with, the OECD.

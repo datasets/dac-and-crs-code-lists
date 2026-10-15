@@ -5,15 +5,25 @@
   "licenses": [
     {
       "name": "ODC-PDDL-1.0",
-      "path": "http://opendatacommons.org/licenses/pddl/",
-      "title": "Open Data Commons Public Domain Dedication and License v1.0"
+      "path": "https://opendatacommons.org/licenses/pddl/1.0/",
+      "title": "Open Data Commons Public Domain Dedication and License v1.0. Applies only to the maintainers' own work (the scraper, the column mappings and the CSV layout). It does not cover the OECD code lists; see README.md and ATTRIBUTION.txt."
+    },
+    {
+      "name": "OECD-Terms-and-Conditions",
+      "path": "https://www.oecd.org/en/about/terms-conditions.html",
+      "title": "OECD Terms and Conditions (section 3, Data). Apply to the OECD code lists in the files in data/ and source/. They allow commercial use, adaptation and sharing with credit to the OECD. The exact licence name for code lists is unclear; see README.md and ATTRIBUTION.txt."
     }
   ],
   "sources": [
     {
       "name": "OECD",
-      "path": "https://www.oecd.org/dac/stats/dacandcrscodelists.htm",
-      "title": "OECD"
+      "path": "https://webfs.oecd.org/oda/DataCollection/Resources/DAC-CRS-CODES.xls",
+      "title": "OECD DAC and CRS code lists (Excel file)"
+    },
+    {
+      "name": "OECD resources for reporting",
+      "path": "https://www.oecd.org/en/data/insights/data-explainers/2024/10/resources-for-reporting-development-finance-statistics.html",
+      "title": "OECD: resources for reporting development finance statistics (page describing the code lists)"
     }
   ],
   "maintainer": [
@@ -406,7 +416,7 @@
     {
       "name": "finance-type-categories",
       "title": "Finance type categories",
-      "description": "",
+      "description": "List of the categories that the finance types belong to.",
       "schema": {
         "fields": [
           {
@@ -477,7 +487,7 @@
     {
       "name": "aid-type-categories",
       "title": "Aid type categories",
-      "description": "",
+      "description": "List of the categories that the aid types belong to.",
       "schema": {
         "fields": [
           {
@@ -563,7 +573,7 @@
     {
       "name": "sector-categories",
       "title": "Sector categories",
-      "description": "",
+      "description": "List of the categories that the sector (purpose) codes belong to.",
       "schema": {
         "fields": [
           {
